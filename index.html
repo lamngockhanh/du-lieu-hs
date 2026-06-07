@@ -1,219 +1,204 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tra Cứu Học Tập - CLB Kiện Tướng Tương Lai</title>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    <style>
-        body { font-family: 'Poppins', sans-serif; background: transparent; margin: 0; padding: 10px; }
-        .container { max-width: 800px; margin: 0 auto; background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; border: 1px solid #e2e8f0; }
-        h2 { color: #d4af37; font-weight: 800; margin-top: 0; letter-spacing: 0.5px; }
-        p { color: #475569; margin-bottom: 25px; font-size: 15px; }
-        .search-box { display: flex; gap: 10px; justify-content: center; }
-        input { padding: 14px 20px; font-size: 16px; border: 2px solid #cbd5e1; border-radius: 8px; width: 65%; outline: none; transition: 0.2s; }
-        input:focus { border-color: #3b82f6; box-shadow: 0 0 0 3px rgba(59,130,246,0.1); }
-        button { padding: 14px 25px; font-size: 16px; background: #3b82f6; color: white; border: none; border-radius: 8px; font-weight: bold; cursor: pointer; transition: 0.2s; white-space: nowrap; }
-        button:hover { background: #2563eb; transform: translateY(-2px); box-shadow: 0 4px 12px rgba(37,99,235,0.2); }
-        
-        #searchResultArea { margin-top: 35px; text-align: left; display: none; }
-        
-        .student-card { background: white; border: 1px solid #cbd5e1; border-radius: 12px; padding: 25px; margin-top: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.05); }
-        .card-header { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #f1f5f9; padding-bottom: 15px; margin-bottom: 20px; }
-        .card-header h4 { margin: 0; color: #1e293b; font-size: 22px; font-weight: 800; }
-        .score-badge { background: #eff6ff; color: #2563eb; padding: 6px 14px; border-radius: 20px; font-size: 15px; font-weight: 700; border: 1px solid #bfdbfe; }
-        
-        .info-row { font-size: 14px; color: #334155; margin-bottom: 10px; }
-        .info-row strong { color: #475569; }
-        
-        /* Chia cột linh hoạt */
-        .notes-grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin-top: 20px; margin-bottom: 20px; }
-        .notes-grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-top: 20px; margin-bottom: 20px; }
-        
-        .note-box { padding: 15px; border-radius: 10px; }
-        .note-box strong { display: block; margin-bottom: 10px; font-size: 14px; }
-        
-        .note-list { font-size: 13.5px; color: #334155; max-height: 180px; overflow-y: auto; padding-right: 5px; line-height: 1.6; }
-        .note-item { margin-bottom: 8px; padding-left: 14px; text-indent: -14px; }
-        .note-item::before { content: "•"; color: currentColor; margin-right: 6px; font-weight: bold; }
-        
-        /* Tùy chỉnh thanh cuộn đẹp */
-        .custom-scrollbar::-webkit-scrollbar { width: 6px; }
-        .custom-scrollbar::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
-        
-        /* Tối ưu hóa cho thiết bị di động */
-        @media (max-width: 768px) {
-            .notes-grid-3, .notes-grid-2 { grid-template-columns: 1fr; }
-            input { width: 55%; }
-            .card-header { flex-direction: column; gap: 10px; align-items: flex-start; }
-            .container { padding: 20px 15px; }
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tra Cứu Học Tập - CLB Kiện Tướng Tương Lai</title>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+body { font-family: 'Poppins', sans-serif; background: transparent; margin: 0; padding: 10px; }
+.container { max-width: 800px; margin: 0 auto; background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; border: 1px solid #e2e8f0; }
+h2 { color: #d4af37; font-weight: 800; margin-top: 0; letter-spacing: 0.5px; }
+p { color: #475569; margin-bottom: 25px; font-size: 15px; }
+.search-box { display: flex; gap: 10px; justify-content: center; }
+input { padding: 14px 20px; font-size: 16px; border: 2px solid #cbd5e1; border-radius: 8px; width: 65%; outline: none; transition: 0.2s; }
+input:focus { border-color: #3b82f6; box-shadow: 0 0 0 3px rgba(59,130,246,0.1); }
+button { padding: 14px 25px; font-size: 16px; background: #3b82f6; color: white; border: none; border-radius: 8px; font-weight: bold; cursor: pointer; transition: 0.2s; white-space: nowrap; }
+button:hover { background: #2563eb; transform: translateY(-2px); box-shadow: 0 4px 12px rgba(37,99,235,0.2); }
+
+#searchResultArea { margin-top: 35px; text-align: left; display: none; }
+
+.student-card { background: white; border: 1px solid #cbd5e1; border-radius: 12px; padding: 25px; margin-top: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.05); }
+.card-header { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #f1f5f9; padding-bottom: 15px; margin-bottom: 20px; }
+.card-header h4 { margin: 0; color: #1e293b; font-size: 22px; font-weight: 800; }
+.score-badge { background: #eff6ff; color: #2563eb; padding: 6px 14px; border-radius: 20px; font-size: 15px; font-weight: 700; border: 1px solid #bfdbfe; }
+
+.info-row { font-size: 14px; color: #334155; margin-bottom: 10px; }
+.info-row strong { color: #475569; }
+
+/* Chia cột linh hoạt */
+.notes-grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin-top: 20px; margin-bottom: 20px; }
+.notes-grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-top: 20px; margin-bottom: 20px; }
+
+.note-box { padding: 15px; border-radius: 10px; }
+.note-box strong { display: block; margin-bottom: 10px; font-size: 14px; }
+
+.note-list { font-size: 13.5px; color: #334155; max-height: 180px; overflow-y: auto; padding-right: 5px; line-height: 1.6; }
+.note-item { margin-bottom: 8px; padding-left: 14px; text-indent: -14px; }
+.note-item::before { content: "•"; color: currentColor; margin-right: 6px; font-weight: bold; }
+
+/* Tùy chỉnh thanh cuộn đẹp */
+.custom-scrollbar::-webkit-scrollbar { width: 6px; }
+.custom-scrollbar::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
+
+/* Tối ưu hóa cho thiết bị di động */
+@media (max-width: 768px) {
+.notes-grid-3, .notes-grid-2 { grid-template-columns: 1fr; }
+input { width: 55%; }
+.card-header { flex-direction: column; gap: 10px; align-items: flex-start; }
+.container { padding: 20px 15px; }
+}
+</style>
 </head>
 <body>
-    <div class="container">
-        <h2>🔍 CỔNG TRA CỨU KIỆN TƯỚNG TƯƠNG LAI</h2>
-        <p>Tra cứu Điểm danh và Báo cáo học tập chi tiết của con.</p>
-        
-        <div class="search-box">
-            <input type="tel" id="parentSearchInput" placeholder="Nhập SĐT Bố/Mẹ (VD: 0987...)">
-            <button onclick="searchStudentOnWeb()">Tra Cứu</button>
-        </div>
+<div class="container">
+<h2>🔍 CỔNG TRA CỨU KIỆN TƯỚNG TƯƠNG LAI</h2>
+<p>Tra cứu Điểm danh và Báo cáo học tập chi tiết của con.</p>
 
-        <div id="searchResultArea"></div>
-    </div>
+<div class="search-box">
+<input type="tel" id="parentSearchInput" placeholder="Nhập SĐT Bố/Mẹ (VD: 0987...)">
+<button onclick="searchStudentOnWeb()">Tra Cứu</button>
+</div>
 
-    <script>
-    // Hàm quy đổi ngày sang Thứ
-    const getDayName = (dateStr) => {
-        const parts = dateStr.split('/');
-        if (parts.length !== 3) return 'Ngày';
-        const d = new Date(parts[2], parts[1] - 1, parts[0]);
-        const days = ['CN', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7'];
-        return days[d.getDay()];
-    };
+<div id="searchResultArea"></div>
+</div>
 
-    async function searchStudentOnWeb() {
-        const query = document.getElementById('parentSearchInput').value.trim();
-        const resultArea = document.getElementById('searchResultArea');
-        
-        if (!query || query.length < 4) {
-            alert('Vui lòng nhập chính xác số điện thoại!');
-            return;
-        }
+<script>
+// Hàm quy đổi ngày sang Thứ
+const getDayName = (dateStr) => {
+const parts = dateStr.split('/');
+if (parts.length !== 3) return 'Ngày';
+const d = new Date(parts[2], parts[1] - 1, parts[0]);
+const days = ['CN', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7'];
+return days[d.getDay()];
+};
 
-        resultArea.style.display = 'block';
-        resultArea.innerHTML = '<p style="text-align:center; color:#64748b; font-weight: 600;">⏳ Đang đồng bộ với hệ thống CLB...</p>';
+async function searchStudentOnWeb() {
+const query = document.getElementById('parentSearchInput').value.trim();
+const resultArea = document.getElementById('searchResultArea');
 
-        const dataUrl = 'public_students.json';
+if (!query || query.length < 4) {
+alert('Vui lòng nhập chính xác số điện thoại!');
+return;
+}
 
-        try {
-            const response = await fetch(dataUrl + '?t=' + new Date().getTime());
-            if (!response.ok) throw new Error('File không tồn tại');
-            const allStudents = await response.json();
+resultArea.style.display = 'block';
+resultArea.innerHTML = '<p style="text-align:center; color:#64748b; font-weight: 600;">⏳ Đang đồng bộ với hệ thống CLB...</p>';
 
-            const matchedStudents = allStudents.filter(s => 
-                (s.phoneDad && s.phoneDad.includes(query)) || 
-                (s.phoneMom && s.phoneMom.includes(query))
-            );
+const dataUrl = 'public_students.json';
 
-            if (matchedStudents.length === 0) {
-                resultArea.innerHTML = '<div style="background: #fef2f2; border: 1px solid #fecaca; padding: 15px; border-radius: 8px; color:#ef4444; font-weight:bold; text-align: center;">❌ Không tìm thấy kỳ thủ nào khớp với số điện thoại này.</div>';
-                return;
-            }
+try {
+const response = await fetch(dataUrl + '?t=' + new Date().getTime());
+if (!response.ok) throw new Error('File không tồn tại');
+const allStudents = await response.json();
 
-            // 🟢 HÀM MỚI: Tách dòng thông minh bằng Regex (Xử lý cả ký tự \n thực và chuỗi \\n)
-            const formatList = (str, emptyMsg) => {
-                if (!str) return `<div style="color:#94a3b8; font-style:italic;">${emptyMsg}</div>`;
-                // Tách dựa trên ký tự xuống dòng (\n) hoặc chuỗi literal '\\n'
-                const items = str.split(/\r?\n|\\n/).filter(i => i.trim() !== '');
-                if (items.length === 0) return `<div style="color:#94a3b8; font-style:italic;">${emptyMsg}</div>`;
-                return items.map(item => `<div class="note-item">${item}</div>`).join('');
-            };
+const matchedStudents = allStudents.filter(s => 
+(s.phoneDad && s.phoneDad.includes(query)) || 
+(s.phoneMom && s.phoneMom.includes(query))
+);
 
-            let htmlOutput = `<h3 style="color:#10b981; border-bottom: 2px dashed #bbf7d0; padding-bottom: 12px; margin-top: 0; text-align: center;">✅ TÌM THẤY ${matchedStudents.length} HỌC SINH</h3>`;
-            
-            matchedStudents.forEach(st => {
-                // XỬ LÝ LƯỚI ĐIỂM DANH CHI TIẾT
-                let attendanceHtml = '';
-                if (st.attendanceDetails && st.attendanceDetails.length > 0) {
-                    attendanceHtml = st.attendanceDetails.map(att => `
-                        <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px; border-bottom: 1px solid #f1f5f9;">
-                            <div style="display: flex; align-items: center; gap: 10px;">
-                                <span style="display: inline-flex; align-items: center; justify-content: center; width: 42px; font-size: 11px; font-weight: 700; color: #64748b; background: #f8fafc; padding: 4px 0; border-radius: 6px; border: 1px solid #e2e8f0;">${getDayName(att.date)}</span>
-                                <span style="font-weight: 600; color: #334155; font-size: 14px;">${att.date}</span>
-                            </div>
-                            <span style="color: #0ea5e9; font-size: 12px; background: #f0f9ff; padding: 4px 10px; border-radius: 20px; border: 1px solid #bae6fd; font-weight: 600; max-width: 140px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-                                🏫 ${att.className}
-                            </span>
-                        </div>
-                    `).join('');
-                } else {
-                    attendanceHtml = '<div style="color:#94a3b8; font-style:italic; padding: 15px; text-align: center;">Chưa có dữ liệu điểm danh</div>';
-                }
+if (matchedStudents.length === 0) {
+resultArea.innerHTML = '<div style="background: #fef2f2; border: 1px solid #fecaca; padding: 15px; border-radius: 8px; color:#ef4444; font-weight:bold; text-align: center;">❌ Không tìm thấy kỳ thủ nào khớp với số điện thoại này.</div>';
+return;
+}
 
-                htmlOutput += `
-                    <div class="student-card">
-                        <div class="card-header">
-                            <h4>🎓 ${st.name} <span style="font-size:15px; color:#64748b; font-weight:600;">(${st.birthYear || 'N/A'})</span></h4>
-                            <div class="score-badge">⭐ ${st.score || 0} Điểm</div>
-                        </div>
+// 🟢 HÀM MỚI: Tách dòng thông minh bằng Regex (Xử lý cả ký tự \n thực và chuỗi \\n)
+const formatList = (str, emptyMsg) => {
+if (!str) return `<div style="color:#94a3b8; font-style:italic;">${emptyMsg}</div>`;
+// Tách dựa trên ký tự xuống dòng (\n) hoặc chuỗi literal '\\n'
+const items = str.split(/\r?\n|\\n/).filter(i => i.trim() !== '');
+if (items.length === 0) return `<div style="color:#94a3b8; font-style:italic;">${emptyMsg}</div>`;
+return items.map(item => `<div class="note-item">${item}</div>`).join('');
+};
 
-                        <div class="info-row">🎮 <strong>ID Lichess:</strong> <span style="color:#f59e0b; font-weight:700;">${st.lichessId || 'Chưa cập nhật'}</span></div>
+let htmlOutput = `<h3 style="color:#10b981; border-bottom: 2px dashed #bbf7d0; padding-bottom: 12px; margin-top: 0; text-align: center;">✅ TÌM THẤY ${matchedStudents.length} HỌC SINH</h3>`;
+
+matchedStudents.forEach(st => {
+// XỬ LÝ LƯỚI ĐIỂM DANH CHI TIẾT
+let attendanceHtml = '';
+if (st.attendanceDetails && st.attendanceDetails.length > 0) {
+attendanceHtml = st.attendanceDetails.map(att => `
+                       <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px; border-bottom: 1px solid #f1f5f9;">
+                           <div style="display: flex; align-items: center; gap: 10px;">
+                               <span style="display: inline-flex; align-items: center; justify-content: center; width: 42px; font-size: 11px; font-weight: 700; color: #64748b; background: #f8fafc; padding: 4px 0; border-radius: 6px; border: 1px solid #e2e8f0;">${getDayName(att.date)}</span>
+                               <span style="font-weight: 600; color: #334155; font-size: 14px;">${att.date}</span>
+                           </div>
+                           <span style="color: #0ea5e9; font-size: 12px; background: #f0f9ff; padding: 4px 10px; border-radius: 20px; border: 1px solid #bae6fd; font-weight: 600; max-width: 140px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+                               🏫 ${att.className}
+                           </span>
+                       </div>
+                   `).join('');
+} else {
+attendanceHtml = '<div style="color:#94a3b8; font-style:italic; padding: 15px; text-align: center;">Chưa có dữ liệu điểm danh</div>';
+}
+
+htmlOutput += `
+                   <div class="student-card">
+                       <div class="card-header">
+                           <h4>🎓 ${st.name} <span style="font-size:15px; color:#64748b; font-weight:600;">(${st.birthYear || 'N/A'})</span></h4>
+                           <div class="score-badge">⭐ ${st.score || 0} Điểm</div>
+                       </div>
+
+                       <div class="info-row">🎮 <strong>ID Lichess:</strong> <span style="color:#f59e0b; font-weight:700;">${st.lichessId || 'Chưa cập nhật'}</span></div>
+                        <div class="info-row">📝 <strong>Nhận xét chung:</strong> <em style="color:#475569;">${st.notes || 'Chưa có ghi chú'}</em></div>
                         <div class="info-row">📝 <strong>Ghi chú:</strong> <em style="color:#475569;">${st.notes || 'Chưa có ghi chú'}</em></div>
-                        
-                        <div class="notes-grid-3">
-                            <div class="note-box" style="background: #f0fdf4; border: 1px solid #bbf7d0;">
+                       
+                       <div class="notes-grid-3">
+                           <div class="note-box" style="background: #f0fdf4; border: 1px solid #bbf7d0;">
+                                <strong style="color:#16a34a;">✅ Khen thưởng</strong>
                                 <strong style="color:#16a34a;">✅ Thầy/Cô khen</strong>
-                                <div class="note-list custom-scrollbar">${formatList(st.goodDeeds, 'Chưa có ghi nhận')}</div>
-                            </div>
-                            <div class="note-box" style="background: #fef2f2; border: 1px solid #fecaca;">
+                               <div class="note-list custom-scrollbar">${formatList(st.goodDeeds, 'Chưa có ghi nhận')}</div>
+                           </div>
+                           <div class="note-box" style="background: #fef2f2; border: 1px solid #fecaca;">
+                                <strong style="color:#dc2626;">❌ Nhắc nhở</strong>
                                 <strong style="color:#dc2626;">❌ Thầy/Cô nhắc nhở</strong>
-                                <div class="note-list custom-scrollbar">${formatList(st.badDeeds, 'Chưa có ghi nhận')}</div>
-                            </div>
-                            <div class="note-box" style="background: #faf5ff; border: 1px solid #e9d5ff;">
+                               <div class="note-list custom-scrollbar">${formatList(st.badDeeds, 'Chưa có ghi nhận')}</div>
+                           </div>
+                           <div class="note-box" style="background: #faf5ff; border: 1px solid #e9d5ff;">
+                                <strong style="color:#9333ea;">🎁 Phần thưởng</strong>
                                 <strong style="color:#9333ea;">🎁 Phần thưởng đã đạt</strong>
-                                <div class="note-list custom-scrollbar">${formatList(st.gifts, 'Chưa có ghi nhận')}</div>
-                            </div>
-                        </div>
+                               <div class="note-list custom-scrollbar">${formatList(st.gifts, 'Chưa có ghi nhận')}</div>
+                           </div>
+                       </div>
 
-                        <div class="notes-grid-2" style="margin-top: 0;">
-                            
-                            <div class="note-box" style="background: #f8fafc; border: 1px solid #e2e8f0; padding: 0; overflow: hidden; display: flex; flex-direction: column;">
-                                <strong style="color:#475569; padding: 12px 15px; margin: 0; background: #f1f5f9; border-bottom: 1px solid #e2e8f0; display: flex; justify-content: space-between; align-items: center;">
-                                    <span>📆 Chi tiết Điểm danh</span>
-                                </strong>
-                                <div class="custom-scrollbar" style="height: 280px; overflow-y: auto; padding: 5px;">
-                                    ${attendanceHtml}
-                                </div>
-                            </div>
+                       <div class="notes-grid-2" style="margin-top: 0;">
+                           
+                           <div class="note-box" style="background: #f8fafc; border: 1px solid #e2e8f0; padding: 0; overflow: hidden; display: flex; flex-direction: column;">
+                               <strong style="color:#475569; padding: 12px 15px; margin: 0; background: #f1f5f9; border-bottom: 1px solid #e2e8f0; display: flex; justify-content: space-between; align-items: center;">
+                                   <span>📆 Chi tiết Điểm danh</span>
+                               </strong>
+                               <div class="custom-scrollbar" style="height: 280px; overflow-y: auto; padding: 5px;">
+                                   ${attendanceHtml}
+                               </div>
+                           </div>
 
-                            <div class="note-box" style="background: #eff6ff; border: 1px solid #bfdbfe; padding: 0; overflow: hidden; display: flex; flex-direction: column;">
-                                <strong style="color:#1d4ed8; padding: 12px 15px; margin: 0; background: #dbeafe; border-bottom: 1px solid #bfdbfe; display: flex; justify-content: space-between; align-items: center;">
-                                    <span>📊 Lịch sử Điểm số</span>
-                                </strong>
-                                <div class="note-list custom-scrollbar" style="height: 280px; max-height: 280px; padding: 15px;">
-                                    ${formatList(st.scoreHistory, 'Học sinh chưa có lịch sử điểm')}
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                `;
-            });
+                           <div class="note-box" style="background: #eff6ff; border: 1px solid #bfdbfe; padding: 0; overflow: hidden; display: flex; flex-direction: column;">
+                               <strong style="color:#1d4ed8; padding: 12px 15px; margin: 0; background: #dbeafe; border-bottom: 1px solid #bfdbfe; display: flex; justify-content: space-between; align-items: center;">
+                                   <span>📊 Lịch sử Điểm số</span>
+                               </strong>
+                               <div class="note-list custom-scrollbar" style="height: 280px; max-height: 280px; padding: 15px;">
+                                   ${formatList(st.scoreHistory, 'Học sinh chưa có lịch sử điểm')}
+                               </div>
+                           </div>
+                           
+                       </div>
+                   </div>
+               `;
+});
 
-            resultArea.innerHTML = htmlOutput;
+resultArea.innerHTML = htmlOutput;
 
-        } catch (error) {
-            resultArea.innerHTML = '<div style="background: #fef2f2; border: 1px solid #fecaca; padding: 15px; border-radius: 8px; color:#ef4444; font-weight:bold; text-align: center;">❌ Cổng tra cứu đang bảo trì. Hãy đợi thầy cô đồng bộ dữ liệu nhé!</div>';
-        }
-    }
+} catch (error) {
+resultArea.innerHTML = '<div style="background: #fef2f2; border: 1px solid #fecaca; padding: 15px; border-radius: 8px; color:#ef4444; font-weight:bold; text-align: center;">❌ Cổng tra cứu đang bảo trì. Hãy đợi thầy cô đồng bộ dữ liệu nhé!</div>';
+}
+}
 
-    document.getElementById("parentSearchInput").addEventListener("keypress", function(event) {
-        if (event.key === "Enter") {
-            event.preventDefault();
-            searchStudentOnWeb();
-        }
-    });
-    <script>
-        // BỘ CẢM BIẾN: Tự động đo chiều cao trang web và gửi ra ngoài cho Iframe
-        function sendHeightToParent() {
-            // Lấy chiều cao thực tế của toàn bộ nội dung
-            const height = document.documentElement.scrollHeight || document.body.scrollHeight;
-            // Gửi tín hiệu ra ngoài website gốc
-            window.parent.postMessage({ frameHeight: height }, '*');
-        }
-
-        // Kích hoạt cảm biến theo dõi sự thay đổi kích thước
-        const resizeObserver = new ResizeObserver(() => {
-            sendHeightToParent();
-        });
-        
-        // Theo dõi thẻ body (khi có kết quả tra cứu, body sẽ dài ra)
-        resizeObserver.observe(document.body);
-
-        // Gửi lần đầu khi trang vừa tải xong
-        window.onload = sendHeightToParent;
-    </script>
+document.getElementById("parentSearchInput").addEventListener("keypress", function(event) {
+if (event.key === "Enter") {
+event.preventDefault();
+searchStudentOnWeb();
+}
+});
+</script>
 </body>
 </html>

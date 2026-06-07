@@ -10,8 +10,11 @@
     "lichessId": "lamngockhanh",
     "notes": "Lớp 3",
     "goodDeeds": "- [29/4/2026] ngoan\n- [29/4/2026] ád\n- [29/4/2026] ádsad\n- [29/4/2026] đứaad\n- [29/4/2026] qăđá\n- [29/4/2026] ads\n- [29/4/2026] ădă\n- [29/4/2026] ăd\n- [29/4/2026] áda\n- [29/4/2026] qưdá\n- [29/4/2026] hô nay rồi ất con rất tốhô nay rồi ất con rất tốhô nay rồi ất con rất tốhô nay rồi ất con rất tốhô nay rồi ất con rất tốhô nay rồi ất con rất tố\n- [29/4/2026] Chăm chỉ làm bài tập\n- [6/5/2026] Thái độ tốt\n- [17/5/2026] Thái độ tốt\n- [17/5/2026] Ý thức tốt\n- [17/5/2026] Chăm chỉ làm bài tập, Thái độ tốt, Chơi cờ nghiêm túc, Ngoan ngoãn\n- [23/5/2026] Chơi cờ nghiêm túc",
-    "badDeeds": "- [29/4/2026] hư\n- [29/4/2026] sdfsd\n- [29/4/2026] sdf\n- [29/4/2026] sdf\n- [29/4/2026] sadfsd",
-    "gifts": "- [29/4/2026] 1 bút xanh"
+    "badDeeds": "- [29/4/2026] hư\n- [29/4/2026] sdfsd\n- [29/4/2026] sdf\n- [29/4/2026] sadfsd",
+    "gifts": "- [29/4/2026] 1 bút xanh",
+    "scoreHistory": "[23/5] [12:02] -5 điểm (Cộng nhanh)\n[23/5] [12:02] +2 điểm (Cộng nhanh)\n[23/5] [12:02] +3 điểm (Cộng nhanh)\n[23/5] [12:02] +1 điểm (Cộng nhanh)\n[23/5] [12:00] -5 điểm (Cộng nhanh)\n[23/5] [12:00] +1 điểm (Cộng nhanh)\n[23/5] [11:58] +1 điểm (Cộng điểm)\n[23/5] [11:58] +2 điểm (Cộng nhanh)\n[10/5] [00:07] +1 điểm (Cộng điểm)\n[10/5] [00:05] +1 điểm (Cộng điểm)\n[10/5] [00:04] +1 điểm (Cộng điểm)\n[6/5] [11:55] +1 điểm (Cộng điểm)\n[3/5] [23:54] +2 điểm (Từ vòng quay Giải đấu)\n[3/5] [23:49] +1 điểm (Chơi cờ hay)\n[29/4] [17:13] -9 điểm (Từ vòng quay trừ)\n[29/4] [17:13] +10 điểm (Cả lớp ngoan)\n[29/4] [13:15] +4 điểm (Từ vòng quay cộng)\n[29/4] [13:11] -150 điểm (Trừ điểm)\n[29/4] [13:02] +1 điểm (Chơi cờ hay)\n[29/4] [13:02] +1 điểm (Không sợ thua)",
+    "totalSessions": 10,
+    "totalFee": 1600000
   },
   {
     "id": "HS_1777443373210",
@@ -23,9 +26,12 @@
     "score": 33,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "- [23/5/2026] Chơi cờ nghiêm túc\n- [30/5/2026] Ngoan ngoãn\n- [30/5/2026] Ngoan ngoãn\n- [30/5/2026] Ngoan ngoãn",
+    "goodDeeds": "- [23/5/2026] Chơi cờ nghiêm túc\n- [30/5/2026] Ngoan ngoãn",
     "badDeeds": "",
-    "gifts": ""
+    "gifts": "",
+    "scoreHistory": "[30/5] [20:26] +10 điểm (Cả lớp ngoan)\n[6/5] [11:56] +1 điểm (Cộng điểm)\n[4/5] [00:08] +1 điểm (Từ vòng quay Giải đấu)\n[3/5] [22:15] +1 điểm (Cộng điểm thủ công (Giải đấu))\n[29/4] [17:13] +10 điểm (Cả lớp ngoan)",
+    "totalSessions": 6,
+    "totalFee": 910000
   },
   {
     "id": "HS_1777453700637",
@@ -39,7 +45,10 @@
     "notes": "",
     "goodDeeds": "- [6/5/2026] Thực hiện nhiệm vụ tốt\n- [23/5/2026] Chơi cờ nghiêm túc",
     "badDeeds": "",
-    "gifts": ""
+    "gifts": "",
+    "scoreHistory": "[24/5] [16:04] +2 điểm (Cộng nhanh)\n[24/5] [16:04] +5 điểm (Cộng nhanh)\n[6/5] [11:56] +1 điểm (Cộng điểm)\n[3/5] [23:41] +2 điểm (Cộng điểm thủ công (Giải đấu))\n[29/4] [17:13] +10 điểm (Cả lớp ngoan)",
+    "totalSessions": 3,
+    "totalFee": 480000
   },
   {
     "id": "HS_1777452882964",
@@ -51,9 +60,12 @@
     "score": 41,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "- [6/5/2026] Ngoan ngoãn\n- [23/5/2026] Chơi cờ nghiêm túc\n- [30/5/2026] Ngoan ngoãn\n- [30/5/2026] Ngoan ngoãn\n- [30/5/2026] Ngoan ngoãn",
+    "goodDeeds": "- [6/5/2026] Ngoan ngoãn\n- [23/5/2026] Chơi cờ nghiêm túc\n- [30/5/2026] Ngoan ngoãn",
     "badDeeds": "",
-    "gifts": ""
+    "gifts": "",
+    "scoreHistory": "[30/5] [20:26] +10 điểm (Cả lớp ngoan)\n[25/5] [11:11] +3 điểm (Cộng nhanh)\n[24/5] [22:29] +5 điểm (Cộng nhanh)\n[24/5] [22:28] +5 điểm (Cộng nhanh)\n[6/5] [11:55] +1 điểm (Cộng điểm)\n[3/5] [22:08] +4 điểm (Thưởng Vòng Quay (Từ Giải Đấu))\n[3/5] [22:08] +1 điểm (Cộng điểm thủ công (Giải đấu))\n[29/4] [17:13] +10 điểm (Cả lớp ngoan)",
+    "totalSessions": 10,
+    "totalFee": 1450000
   },
   {
     "id": "HS_1780299626896",
@@ -67,7 +79,10 @@
     "notes": "",
     "goodDeeds": "",
     "badDeeds": "",
-    "gifts": ""
+    "gifts": "",
+    "scoreHistory": "[1/6] [14:42] +3 điểm (Cộng nhanh)",
+    "totalSessions": 0,
+    "totalFee": 0
   },
   {
     "id": "HS_1780299637091",
@@ -81,20 +96,9 @@
     "notes": "",
     "goodDeeds": "",
     "badDeeds": "",
-    "gifts": ""
-  },
-  {
-    "id": "HS_1777452882964",
-    "name": "KHuất Nguyễn Tùng",
-    "birthYear": "2020",
-    "school": "",
-    "phoneDad": "0343144948",
-    "phoneMom": "",
-    "score": 41,
-    "lichessId": "",
-    "notes": "",
-    "goodDeeds": "- [6/5/2026] Ngoan ngoãn\n- [23/5/2026] Chơi cờ nghiêm túc\n- [30/5/2026] Ngoan ngoãn\n- [30/5/2026] Ngoan ngoãn\n- [30/5/2026] Ngoan ngoãn",
-    "badDeeds": "",
-    "gifts": ""
+    "gifts": "",
+    "scoreHistory": "[1/6] [14:42] +1 điểm (Cộng điểm)",
+    "totalSessions": 0,
+    "totalFee": 0
   }
 ]

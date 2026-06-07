@@ -7,7 +7,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
         body { font-family: 'Poppins', sans-serif; background: transparent; margin: 0; padding: 10px; }
-        .container { max-width: 700px; margin: 0 auto; background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; border: 1px solid #e2e8f0; }
+        .container { max-width: 800px; margin: 0 auto; background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; border: 1px solid #e2e8f0; }
         h2 { color: #d4af37; font-weight: 800; margin-top: 0; letter-spacing: 0.5px; }
         p { color: #475569; margin-bottom: 25px; font-size: 15px; }
         .search-box { display: flex; gap: 10px; justify-content: center; }
@@ -23,20 +23,18 @@
         .card-header h4 { margin: 0; color: #1e293b; font-size: 22px; font-weight: 800; }
         .score-badge { background: #eff6ff; color: #2563eb; padding: 6px 14px; border-radius: 20px; font-size: 15px; font-weight: 700; border: 1px solid #bfdbfe; }
         
-        .stats-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 20px; }
-        .stat-box { background: #f8fafc; padding: 15px; border-radius: 10px; border: 1px solid #e2e8f0; text-align: center; }
-        .stat-label { font-size: 12px; color: #64748b; text-transform: uppercase; font-weight: 700; margin-bottom: 5px; }
-        .stat-value { font-size: 22px; font-weight: 800; }
-        
         .info-row { font-size: 14px; color: #334155; margin-bottom: 10px; }
         .info-row strong { color: #475569; }
         
-        .notes-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-top: 20px; margin-bottom: 20px; }
+        /* Chia cột linh hoạt */
+        .notes-grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin-top: 20px; margin-bottom: 20px; }
+        .notes-grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-top: 20px; margin-bottom: 20px; }
+        
         .note-box { padding: 15px; border-radius: 10px; }
         .note-box strong { display: block; margin-bottom: 10px; font-size: 14px; }
         
-        .note-list { font-size: 13.5px; color: #334155; max-height: 150px; overflow-y: auto; padding-right: 5px; line-height: 1.6; }
-        .note-item { margin-bottom: 6px; padding-left: 14px; text-indent: -14px; }
+        .note-list { font-size: 13.5px; color: #334155; max-height: 180px; overflow-y: auto; padding-right: 5px; line-height: 1.6; }
+        .note-item { margin-bottom: 8px; padding-left: 14px; text-indent: -14px; }
         .note-item::before { content: "•"; color: currentColor; margin-right: 6px; font-weight: bold; }
         
         /* Tùy chỉnh thanh cuộn đẹp */
@@ -44,8 +42,8 @@
         .custom-scrollbar::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
         
         /* Tối ưu hóa cho thiết bị di động */
-        @media (max-width: 600px) {
-            .notes-grid { grid-template-columns: 1fr; }
+        @media (max-width: 768px) {
+            .notes-grid-3, .notes-grid-2 { grid-template-columns: 1fr; }
             input { width: 55%; }
             .card-header { flex-direction: column; gap: 10px; align-items: flex-start; }
             .container { padding: 20px 15px; }
@@ -55,7 +53,7 @@
 <body>
     <div class="container">
         <h2>🔍 CỔNG TRA CỨU KIỆN TƯỚNG TƯƠNG LAI</h2>
-        <p>Tra cứu Điểm danh, Học phí và Báo cáo học tập chi tiết của con.</p>
+        <p>Tra cứu Điểm danh và Báo cáo học tập chi tiết của con.</p>
         
         <div class="search-box">
             <input type="tel" id="parentSearchInput" placeholder="Nhập SĐT Bố/Mẹ (VD: 0987...)">
@@ -104,13 +102,11 @@
                 return;
             }
 
-            // Định dạng tiền tệ
-            const formatMoney = (amount) => new Intl.NumberFormat('vi-VN', { style: 'currency', currency: 'VND' }).format(amount);
-            
-            // Hàm chuyển chuỗi thành danh sách gạch đầu dòng
+            // 🟢 HÀM MỚI: Tách dòng thông minh bằng Regex (Xử lý cả ký tự \n thực và chuỗi \\n)
             const formatList = (str, emptyMsg) => {
                 if (!str) return `<div style="color:#94a3b8; font-style:italic;">${emptyMsg}</div>`;
-                const items = str.split('\\n').filter(i => i.trim() !== '');
+                // Tách dựa trên ký tự xuống dòng (\n) hoặc chuỗi literal '\\n'
+                const items = str.split(/\r?\n|\\n/).filter(i => i.trim() !== '');
                 if (items.length === 0) return `<div style="color:#94a3b8; font-style:italic;">${emptyMsg}</div>`;
                 return items.map(item => `<div class="note-item">${item}</div>`).join('');
             };
@@ -118,7 +114,7 @@
             let htmlOutput = `<h3 style="color:#10b981; border-bottom: 2px dashed #bbf7d0; padding-bottom: 12px; margin-top: 0; text-align: center;">✅ TÌM THẤY ${matchedStudents.length} HỌC SINH</h3>`;
             
             matchedStudents.forEach(st => {
-                // 🟢 XỬ LÝ LƯỚI ĐIỂM DANH CHI TIẾT
+                // XỬ LÝ LƯỚI ĐIỂM DANH CHI TIẾT
                 let attendanceHtml = '';
                 if (st.attendanceDetails && st.attendanceDetails.length > 0) {
                     attendanceHtml = st.attendanceDetails.map(att => `
@@ -142,38 +138,30 @@
                             <h4>🎓 ${st.name} <span style="font-size:15px; color:#64748b; font-weight:600;">(${st.birthYear || 'N/A'})</span></h4>
                             <div class="score-badge">⭐ ${st.score || 0} Điểm</div>
                         </div>
-                        
-                        <div class="stats-grid">
-                            <div class="stat-box">
-                                <div class="stat-label">Tổng buổi đã học</div>
-                                <div class="stat-value" style="color: #0f172a;">${st.totalSessions || 0} buổi</div>
-                            </div>
-                            <div class="stat-box" style="background: #f0fdf4; border-color: #bbf7d0;">
-                                <div class="stat-label" style="color: #16a34a;">Học phí tích lũy</div>
-                                <div class="stat-value" style="color: #10b981;">${formatMoney(st.totalFee || 0)}</div>
-                            </div>
-                        </div>
 
                         <div class="info-row">🎮 <strong>ID Lichess:</strong> <span style="color:#f59e0b; font-weight:700;">${st.lichessId || 'Chưa cập nhật'}</span></div>
                         <div class="info-row">📝 <strong>Nhận xét chung:</strong> <em style="color:#475569;">${st.notes || 'Chưa có ghi chú'}</em></div>
                         
-                        <div class="notes-grid">
+                        <div class="notes-grid-3">
                             <div class="note-box" style="background: #f0fdf4; border: 1px solid #bbf7d0;">
-                                <strong style="color:#16a34a;">✅ Việc tốt / Khen thưởng</strong>
+                                <strong style="color:#16a34a;">✅ Khen thưởng</strong>
                                 <div class="note-list custom-scrollbar">${formatList(st.goodDeeds, 'Chưa có ghi nhận')}</div>
                             </div>
                             <div class="note-box" style="background: #fef2f2; border: 1px solid #fecaca;">
-                                <strong style="color:#dc2626;">❌ Việc chưa tốt / Nhắc nhở</strong>
+                                <strong style="color:#dc2626;">❌ Nhắc nhở</strong>
                                 <div class="note-list custom-scrollbar">${formatList(st.badDeeds, 'Chưa có ghi nhận')}</div>
+                            </div>
+                            <div class="note-box" style="background: #faf5ff; border: 1px solid #e9d5ff;">
+                                <strong style="color:#9333ea;">🎁 Phần thưởng</strong>
+                                <div class="note-list custom-scrollbar">${formatList(st.gifts, 'Chưa có ghi nhận')}</div>
                             </div>
                         </div>
 
-                        <div class="notes-grid" style="margin-top: 0;">
+                        <div class="notes-grid-2" style="margin-top: 0;">
                             
                             <div class="note-box" style="background: #f8fafc; border: 1px solid #e2e8f0; padding: 0; overflow: hidden; display: flex; flex-direction: column;">
                                 <strong style="color:#475569; padding: 12px 15px; margin: 0; background: #f1f5f9; border-bottom: 1px solid #e2e8f0; display: flex; justify-content: space-between; align-items: center;">
                                     <span>📆 Chi tiết Điểm danh</span>
-                                    <span style="font-size: 11px; background: #cbd5e1; color: #334155; padding: 2px 8px; border-radius: 12px; font-weight: 600;">${st.totalSessions || 0} buổi</span>
                                 </strong>
                                 <div class="custom-scrollbar" style="height: 280px; overflow-y: auto; padding: 5px;">
                                     ${attendanceHtml}
@@ -183,7 +171,6 @@
                             <div class="note-box" style="background: #eff6ff; border: 1px solid #bfdbfe; padding: 0; overflow: hidden; display: flex; flex-direction: column;">
                                 <strong style="color:#1d4ed8; padding: 12px 15px; margin: 0; background: #dbeafe; border-bottom: 1px solid #bfdbfe; display: flex; justify-content: space-between; align-items: center;">
                                     <span>📊 Lịch sử Điểm số</span>
-                                    <span style="font-size: 11px; background: #3b82f6; color: white; padding: 2px 8px; border-radius: 12px; font-weight: 600;">Toàn bộ</span>
                                 </strong>
                                 <div class="note-list custom-scrollbar" style="height: 280px; max-height: 280px; padding: 15px;">
                                     ${formatList(st.scoreHistory, 'Học sinh chưa có lịch sử điểm')}

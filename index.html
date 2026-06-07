@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tra Cứu Học Tập - CLB Kiện Tướng Tương Lai</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Poppins', sans-serif; background: transparent; margin: 0; padding: 10px; }
+        .container { max-width: 600px; margin: 0 auto; background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; border: 1px solid #e2e8f0; }
+        h2 { color: #d4af37; font-weight: 700; margin-top: 0; }
+        p { color: #475569; margin-bottom: 20px; }
+        .search-box { display: flex; gap: 10px; justify-content: center; }
+        input { padding: 12px 20px; font-size: 16px; border: 2px solid #cbd5e1; border-radius: 8px; width: 65%; outline: none; transition: 0.2s; }
+        input:focus { border-color: #3b82f6; }
+        button { padding: 12px 25px; font-size: 16px; background: #3b82f6; color: white; border: none; border-radius: 8px; font-weight: bold; cursor: pointer; transition: 0.2s; white-space: nowrap; }
+        button:hover { background: #2563eb; transform: translateY(-1px); }
+        #searchResultArea { margin-top: 30px; text-align: left; display: none; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; }
+        .card { background: white; border: 1px solid #cbd5e1; border-radius: 8px; padding: 15px; margin-top: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.02); }
+        .card h4 { margin: 0 0 15px 0; color: #1e3a8a; font-size: 18px; }
+        .stat { margin-bottom: 8px; font-size: 14px; }
+        .good-deeds { background: #f0fdf4; padding: 10px; border-radius: 6px; border: 1px solid #bbf7d0; margin-top: 12px; }
+        .good-deeds span { font-size: 13px; color: #334155; white-space: pre-wrap; display: block; margin-top: 5px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>🔍 CỔNG TRA CỨU KIỆN TƯỚNG TƯƠNG LAI</h2>
+        <p>Nhập số điện thoại Bố hoặc Mẹ để xem tiến trình học tập của con.</p>
+        
+        <div class="search-box">
+            <input type="tel" id="parentSearchInput" placeholder="Ví dụ: 0987...">
+            <button onclick="searchStudentOnWeb()">Tìm Kiếm</button>
+        </div>
+
+        <div id="searchResultArea"></div>
+    </div>
+
+    <script>
+    async function searchStudentOnWeb() {
+        const query = document.getElementById('parentSearchInput').value.trim();
+        const resultArea = document.getElementById('searchResultArea');
+        
+        if (!query || query.length < 4) {
+            alert('Vui lòng nhập chính xác số điện thoại!');
+            return;
+        }
+
+        resultArea.style.display = 'block';
+        resultArea.innerHTML = '<p style="text-align:center; color:#64748b;">⏳ Đang kết nối đến kho dữ liệu CLB...</p>';
+
+        // Vì file web và file dữ liệu nằm cùng chỗ trên GitHub, nên gọi trực tiếp luôn
+        const dataUrl = 'public_students.json';
+
+        try {
+            const response = await fetch(dataUrl + '?t=' + new Date().getTime());
+            if (!response.ok) throw new Error('File không tồn tại');
+            const allStudents = await response.json();
+
+            const matchedStudents = allStudents.filter(s => 
+                (s.phoneDad && s.phoneDad.includes(query)) || 
+                (s.phoneMom && s.phoneMom.includes(query))
+            );
+
+            if (matchedStudents.length === 0) {
+                resultArea.innerHTML = '<p style="color:#ef4444; text-align:center; font-weight:bold;">❌ Không tìm thấy kỳ thủ nào khớp với số điện thoại này.</p>';
+                return;
+            }
+
+            let htmlOutput = `<h3 style="color:#10b981; border-bottom: 2px solid #bbf7d0; padding-bottom: 10px; margin-top: 0;">✅ Tìm thấy ${matchedStudents.length} học sinh:</h3>`;
+            
+            matchedStudents.forEach(st => {
+                htmlOutput += `
+                    <div class="card">
+                        <h4>🎓 ${st.name} <span style="font-size:14px; color:#64748b; font-weight:normal;">(${st.birthYear || 'N/A'})</span></h4>
+                        <div class="stat">⭐ <strong>Điểm thi đua:</strong> <span style="color:#3b82f6; font-weight:bold; font-size: 16px;">${st.score || 0}</span></div>
+                        <div class="stat">🎮 <strong>ID Lichess:</strong> <span style="color:#f59e0b; font-weight:600;">${st.lichessId || 'Chưa cập nhật'}</span></div>
+                        <div class="stat">📝 <strong>Nhận xét chung:</strong> <em>${st.notes || 'Đang cập nhật'}</em></div>
+                        
+                        <div class="good-deeds">
+                            <strong style="color:#16a34a;">✅ Việc tốt / Khen thưởng:</strong>
+                            <span>${st.goodDeeds || 'Chưa có ghi nhận'}</span>
+                        </div>
+                    </div>
+                `;
+            });
+
+            resultArea.innerHTML = htmlOutput;
+
+        } catch (error) {
+            resultArea.innerHTML = '<p style="color:#ef4444; text-align:center;">❌ Cổng tra cứu đang bảo trì hoặc chưa có dữ liệu. Hãy đợi thầy cô đồng bộ nhé!</p>';
+        }
+    }
+
+    // Tiện ích: Bấm phím Enter trên bàn phím cũng tự động tìm kiếm
+    document.getElementById("parentSearchInput").addEventListener("keypress", function(event) {
+        if (event.key === "Enter") {
+            event.preventDefault();
+            searchStudentOnWeb();
+        }
+    });
+    </script>
+</body>
+</html>

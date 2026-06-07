@@ -195,6 +195,25 @@
             searchStudentOnWeb();
         }
     });
+    <script>
+        // BỘ CẢM BIẾN: Tự động đo chiều cao trang web và gửi ra ngoài cho Iframe
+        function sendHeightToParent() {
+            // Lấy chiều cao thực tế của toàn bộ nội dung
+            const height = document.documentElement.scrollHeight || document.body.scrollHeight;
+            // Gửi tín hiệu ra ngoài website gốc
+            window.parent.postMessage({ frameHeight: height }, '*');
+        }
+
+        // Kích hoạt cảm biến theo dõi sự thay đổi kích thước
+        const resizeObserver = new ResizeObserver(() => {
+            sendHeightToParent();
+        });
+        
+        // Theo dõi thẻ body (khi có kết quả tra cứu, body sẽ dài ra)
+        resizeObserver.observe(document.body);
+
+        // Gửi lần đầu khi trang vừa tải xong
+        window.onload = sendHeightToParent;
     </script>
 </body>
 </html>

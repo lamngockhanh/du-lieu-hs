@@ -5369,6 +5369,14 @@
       {
         "date": "23/6/2026",
         "className": "CLASS_1782222649113"
+      },
+      {
+        "date": "24/6/2026",
+        "className": "Đội tuyển"
+      },
+      {
+        "date": "23/6/2026",
+        "className": "CLASS_1782222649113"
       }
     ]
   },
@@ -5387,6 +5395,10 @@
     "gifts": "",
     "scoreHistory": "",
     "attendanceDetails": [
+      {
+        "date": "23/6/2026",
+        "className": "CLASS_1782222649113"
+      },
       {
         "date": "23/6/2026",
         "className": "CLASS_1782222649113"
@@ -5411,6 +5423,14 @@
       {
         "date": "23/6/2026",
         "className": "CLASS_1782222649113"
+      },
+      {
+        "date": "24/6/2026",
+        "className": "Đội tuyển"
+      },
+      {
+        "date": "23/6/2026",
+        "className": "CLASS_1782222649113"
       }
     ]
   },
@@ -5429,6 +5449,14 @@
     "gifts": "",
     "scoreHistory": "",
     "attendanceDetails": [
+      {
+        "date": "23/6/2026",
+        "className": "CLASS_1782222649113"
+      },
+      {
+        "date": "24/6/2026",
+        "className": "Đội tuyển"
+      },
       {
         "date": "23/6/2026",
         "className": "CLASS_1782222649113"
@@ -5453,7 +5481,528 @@
       {
         "date": "23/6/2026",
         "className": "CLASS_1782222649113"
+      },
+      {
+        "date": "24/6/2026",
+        "className": "Đội tuyển"
+      },
+      {
+        "date": "23/6/2026",
+        "className": "CLASS_1782222649113"
       }
     ]
+  },
+  {
+    "id": "HS_1782304305362",
+    "name": "Nguyễn Minh Khuê",
+    "birthYear": "2018",
+    "school": "TH Đền Lừ",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "24/6/2026",
+        "className": "Đội tuyển"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782304361204",
+    "name": "Nguyễn Quang Minh",
+    "birthYear": "2015",
+    "school": "THCS Wellspring",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "24/6/2026",
+        "className": "Đội tuyển"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782304395749",
+    "name": "Lê Minh Sơn",
+    "birthYear": "2015",
+    "school": "THCS Nguyễn Phong Sắc",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "24/6/2026",
+        "className": "Đội tuyển"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782304423441",
+    "name": "Vũ Thu Hà",
+    "birthYear": "2018",
+    "school": "TH Tràng An",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "24/6/2026",
+        "className": "Đội tuyển"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782304460068",
+    "name": "Lê Quốc Thiện",
+    "birthYear": "2015",
+    "school": "THCS Tân Định",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "24/6/2026",
+        "className": "Đội tuyển"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782304488271",
+    "name": "Tạ Trần Đăng Anh",
+    "birthYear": "2016",
+    "school": "TH Thanh Lương",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "24/6/2026",
+        "className": "Đội tuyển"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782304515936",
+    "name": "Nguyễn Bảo Quân",
+    "birthYear": "2013",
+    "school": "THCS Trưng Nhị",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "24/6/2026",
+        "className": "Đội tuyển"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782304556364",
+    "name": "Đỗ Vũ An Huy",
+    "birthYear": "2013",
+    "school": "THCS Lương Yên",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "24/6/2026",
+        "className": "Đội tuyển"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782304610043",
+    "name": "Lê Vũ Lộc",
+    "birthYear": "2014",
+    "school": "THCS Ngô Gia Tự",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "24/6/2026",
+        "className": "Đội tuyển"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782304652433",
+    "name": "Phạm Nguyễn Hà Anh",
+    "birthYear": "2009",
+    "school": "THPT Chu Văn An",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "24/6/2026",
+        "className": "Đội tuyển"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782304678758",
+    "name": "Phạm Nguyễn Kim Ngọc",
+    "birthYear": "2015",
+    "school": "THCS Giảng Võ",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "24/6/2026",
+        "className": "Đội tuyển"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782304781182",
+    "name": "Lê Hồ Hải Nam",
+    "birthYear": "2018",
+    "school": "TH Trần Quốc Toản",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "24/6/2026",
+        "className": "Đội tuyển"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782304810950",
+    "name": "Lê Hồ Hải Đăng",
+    "birthYear": "2018",
+    "school": "TH Trần Quốc Toản",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "24/6/2026",
+        "className": "Đội tuyển"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782304911055",
+    "name": "Trần Tân Khoa",
+    "birthYear": "2009",
+    "school": "",
+    "phoneDad": "0913342771",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": []
+  },
+  {
+    "id": "HS_1782305084160",
+    "name": "Đoàn Hải Lâm",
+    "birthYear": "2016",
+    "school": "",
+    "phoneDad": "",
+    "phoneMom": "0359327881",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": []
+  },
+  {
+    "id": "HS_1782305095989",
+    "name": "Nguyễn Bùi Bảo Minh",
+    "birthYear": "2016",
+    "school": "",
+    "phoneDad": "",
+    "phoneMom": "0904555318",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": []
+  },
+  {
+    "id": "HS_1782305114078",
+    "name": "Thảo Phương",
+    "birthYear": "",
+    "school": "",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": []
+  },
+  {
+    "id": "HS_1782305128760",
+    "name": "Lê Quang Lâm",
+    "birthYear": "",
+    "school": "",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": []
+  },
+  {
+    "id": "HS_1782305139094",
+    "name": "Hoàng Thành Nam",
+    "birthYear": "",
+    "school": "",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": []
+  },
+  {
+    "id": "HS_1782305153148",
+    "name": "Nhật Nguyên",
+    "birthYear": "",
+    "school": "",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": []
+  },
+  {
+    "id": "HS_1782305164823",
+    "name": "Phạm Tuấn Nam",
+    "birthYear": "",
+    "school": "",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": []
+  },
+  {
+    "id": "HS_1782305181069",
+    "name": "Nguyễn Đăng Lâm",
+    "birthYear": "",
+    "school": "",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": []
+  },
+  {
+    "id": "HS_1782305193374",
+    "name": "Nguyễn Tú Anh",
+    "birthYear": "",
+    "school": "",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": []
+  },
+  {
+    "id": "HS_1782305218231",
+    "name": "Lê Trung Đức",
+    "birthYear": "",
+    "school": "",
+    "phoneDad": "",
+    "phoneMom": "0985581988",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": []
+  },
+  {
+    "id": "HS_1782305248417",
+    "name": "Đức Nhân",
+    "birthYear": "",
+    "school": "",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": []
+  },
+  {
+    "id": "HS_1782305257781",
+    "name": "Lê Minh Vương",
+    "birthYear": "",
+    "school": "",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": []
+  },
+  {
+    "id": "HS_1782305267592",
+    "name": "Minh Quân",
+    "birthYear": "",
+    "school": "",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": []
+  },
+  {
+    "id": "HS_1782305276800",
+    "name": "Đức Khôi",
+    "birthYear": "",
+    "school": "",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": []
   }
 ]

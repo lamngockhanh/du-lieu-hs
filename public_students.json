@@ -5019,5 +5019,441 @@
         "className": "Thái Hà T3-T6 17h30-19h"
       }
     ]
+  },
+  {
+    "id": "HS_1781866940382",
+    "name": "Hà Tâm Anh",
+    "birthYear": "2018",
+    "school": "TH Lê Văn Tám, Bạch Mai",
+    "phoneDad": "0913027919",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "- [19/6/2026] Ngoan ngoãn",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "19/6/2026",
+        "className": "CLASS_17817992401672"
+      }
+    ]
+  },
+  {
+    "id": "HS_1781867172036",
+    "name": "Cao Minh Minh",
+    "birthYear": "2018",
+    "school": "TH Vinscholl",
+    "phoneDad": "",
+    "phoneMom": "0932773179",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "- [19/6/2026] Chăm chỉ làm bài tập",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "19/6/2026",
+        "className": "CLASS_17817992401672"
+      },
+      {
+        "date": "24/6/2026",
+        "className": "CLASS_17817992401672"
+      }
+    ]
+  },
+  {
+    "id": "HS_1781867287279",
+    "name": "Nguyễn Việt Anh",
+    "birthYear": "2017",
+    "school": "TH Công nghệ giáo dục Hà Nội",
+    "phoneDad": "0915698558",
+    "phoneMom": "0915698558",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "19/6/2026",
+        "className": "CLASS_17817992401672"
+      }
+    ]
+  },
+  {
+    "id": "HS_1781867342645",
+    "name": "Lê Bảo Phúc",
+    "birthYear": "2018",
+    "school": "TH Lê Ngọc Hân",
+    "phoneDad": "",
+    "phoneMom": "0985581988",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "19/6/2026",
+        "className": "CLASS_17817992401672"
+      }
+    ]
+  },
+  {
+    "id": "HS_1781867441511",
+    "name": "Hoàng Phúc Hưng",
+    "birthYear": "2019",
+    "school": "TH Tây Sơn",
+    "phoneDad": "0989823759",
+    "phoneMom": "",
+    "score": 2,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "- [19/6/2026] Thông minh bất ngờ\n- [19/6/2026] Thái độ tốt",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "[19/6] [19:02] +2 điểm (Cộng nhanh)",
+    "attendanceDetails": [
+      {
+        "date": "19/6/2026",
+        "className": "CLASS_17817992401672"
+      }
+    ]
+  },
+  {
+    "id": "HS_1781867511037",
+    "name": "Phạm Minh Quân",
+    "birthYear": "2017",
+    "school": "TH Minh Khai",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 3,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "- [19/6/2026] Ý thức tốt",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "[24/6] [19:01] +3 điểm (Cộng điểm)",
+    "attendanceDetails": [
+      {
+        "date": "19/6/2026",
+        "className": "CLASS_17817992401672"
+      },
+      {
+        "date": "24/6/2026",
+        "className": "CLASS_17817992401672"
+      }
+    ]
+  },
+  {
+    "id": "HS_1781867594279",
+    "name": "Hà Vũ Tín",
+    "birthYear": "2021",
+    "school": "Mầm non Minh Khai",
+    "phoneDad": "",
+    "phoneMom": "0916556388",
+    "score": 3,
+    "lichessId": "",
+    "notes": "Năng khiếu tốt",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "[19/6] [19:03] +1 điểm (Cộng nhanh)\n[24/6] [19:01] +1 điểm (Cộng điểm)\n[24/6] [19:03] +1 điểm (Cộng nhanh)",
+    "attendanceDetails": [
+      {
+        "date": "19/6/2026",
+        "className": "CLASS_17817992401672"
+      },
+      {
+        "date": "24/6/2026",
+        "className": "CLASS_17817992401672"
+      }
+    ]
+  },
+  {
+    "id": "HS_1781867657095",
+    "name": "Đào Hồng Phúc",
+    "birthYear": "2015",
+    "school": "THCS Tràng An",
+    "phoneDad": "",
+    "phoneMom": "0386988979",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "- [19/6/2026] Ý thức tốt",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "19/6/2026",
+        "className": "CLASS_17817992401672"
+      }
+    ]
+  },
+  {
+    "id": "HS_1781867731303",
+    "name": "Phạm Bình Minh",
+    "birthYear": "2015",
+    "school": "THCS Tân ĐỊnh",
+    "phoneDad": "0356759127",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "- [19/6/2026] Thái độ tốt",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "19/6/2026",
+        "className": "CLASS_17817992401672"
+      },
+      {
+        "date": "24/6/2026",
+        "className": "CLASS_17817992401672"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782298136585",
+    "name": "Vũ Trần Minh Đức",
+    "birthYear": "2016",
+    "school": "TH Thanh Trì",
+    "phoneDad": "0978225200",
+    "phoneMom": "0979643932",
+    "score": 2,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "[24/6] [19:02] +2 điểm (Cộng nhanh)",
+    "attendanceDetails": [
+      {
+        "date": "24/6/2026",
+        "className": "CLASS_17817992401672"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782298252871",
+    "name": "Cao Minh Thư",
+    "birthYear": "2015",
+    "school": "THCS Ngô Sĩ Liên",
+    "phoneDad": "",
+    "phoneMom": "0932773179",
+    "score": 1,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "[24/6] [19:02] +1 điểm (Cộng điểm)",
+    "attendanceDetails": [
+      {
+        "date": "24/6/2026",
+        "className": "CLASS_17817992401672"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782298308565",
+    "name": "Nguyễn Công Minh Duy",
+    "birthYear": "2017",
+    "school": "TH Tây Sơn",
+    "phoneDad": "",
+    "phoneMom": "0906118863",
+    "score": 3,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "[24/6] [19:02] +3 điểm (Cộng điểm)",
+    "attendanceDetails": [
+      {
+        "date": "24/6/2026",
+        "className": "CLASS_17817992401672"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782298427678",
+    "name": "Lưu Quang Minh",
+    "birthYear": "2012",
+    "school": "THCS Tô Hoàng",
+    "phoneDad": "",
+    "phoneMom": "0836688386",
+    "score": 4,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "[24/6] [19:02] +4 điểm (Cộng điểm)",
+    "attendanceDetails": [
+      {
+        "date": "24/6/2026",
+        "className": "CLASS_17817992401672"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782298539731",
+    "name": "Phạm Ngọc Minh Châu",
+    "birthYear": "2019",
+    "school": "TH Lê Ngọc Hân",
+    "phoneDad": "",
+    "phoneMom": "0973305519",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "24/6/2026",
+        "className": "CLASS_17817992401672"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782298852340",
+    "name": "Phạm Kim Ngân",
+    "birthYear": "2015",
+    "school": "THCS Tây Sơn",
+    "phoneDad": "",
+    "phoneMom": "0983097368",
+    "score": 3,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "[24/6] [19:02] +3 điểm (Cộng nhanh)",
+    "attendanceDetails": [
+      {
+        "date": "24/6/2026",
+        "className": "CLASS_17817992401672"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782222702298",
+    "name": "Hoàng Đăng Phúc",
+    "birthYear": "2018",
+    "school": "Trường TH Lê Văn Tám",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "23/6/2026",
+        "className": "CLASS_1782222649113"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782222765609",
+    "name": "Vũ Ngọc Thắng",
+    "birthYear": "2016",
+    "school": "TH Archimedes",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "23/6/2026",
+        "className": "CLASS_1782222649113"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782222796129",
+    "name": "Phạm Phương Linh",
+    "birthYear": "2014",
+    "school": "THCS Ngô Gia Tự",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "23/6/2026",
+        "className": "CLASS_1782222649113"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782222825121",
+    "name": "Trần Minh Khang",
+    "birthYear": "2019",
+    "school": "TH Vinschool",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "23/6/2026",
+        "className": "CLASS_1782222649113"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782222851466",
+    "name": "Trương Uyên Thư",
+    "birthYear": "2017",
+    "school": "TH Lĩnh Nam",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "23/6/2026",
+        "className": "CLASS_1782222649113"
+      }
+    ]
   }
 ]

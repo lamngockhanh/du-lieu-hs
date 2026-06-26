@@ -5156,13 +5156,13 @@
     "school": "TH Vinscholl",
     "phoneDad": "",
     "phoneMom": "0932773179",
-    "score": 0,
+    "score": 1,
     "lichessId": "",
     "notes": "",
     "goodDeeds": "- [19/6/2026] Chăm chỉ làm bài tập",
     "badDeeds": "",
     "gifts": "",
-    "scoreHistory": "",
+    "scoreHistory": "[26/6] [19:00] +1 điểm (Cộng điểm)",
     "attendanceDetails": [
       {
         "date": "19/6/2026",
@@ -5171,6 +5171,10 @@
       {
         "date": "24/6/2026",
         "className": "CLASS_17817992401672"
+      },
+      {
+        "date": "26/6/2026",
+        "className": "Nâng cao"
       }
     ]
   },
@@ -5192,6 +5196,10 @@
       {
         "date": "19/6/2026",
         "className": "CLASS_17817992401672"
+      },
+      {
+        "date": "26/6/2026",
+        "className": "Nâng cao"
       }
     ]
   },
@@ -5213,6 +5221,10 @@
       {
         "date": "19/6/2026",
         "className": "CLASS_17817992401672"
+      },
+      {
+        "date": "26/6/2026",
+        "className": "Nâng cao"
       }
     ]
   },
@@ -5234,6 +5246,10 @@
       {
         "date": "19/6/2026",
         "className": "CLASS_17817992401672"
+      },
+      {
+        "date": "26/6/2026",
+        "className": "Nâng cao"
       }
     ]
   },
@@ -5244,13 +5260,13 @@
     "school": "TH Minh Khai",
     "phoneDad": "",
     "phoneMom": "",
-    "score": 3,
+    "score": 8,
     "lichessId": "",
     "notes": "",
     "goodDeeds": "- [19/6/2026] Ý thức tốt",
     "badDeeds": "",
     "gifts": "",
-    "scoreHistory": "[24/6] [19:01] +3 điểm (Cộng điểm)",
+    "scoreHistory": "[24/6] [19:01] +3 điểm (Cộng điểm)\n[26/6] [18:59] +5 điểm (Cộng điểm)",
     "attendanceDetails": [
       {
         "date": "19/6/2026",
@@ -5259,6 +5275,10 @@
       {
         "date": "24/6/2026",
         "className": "CLASS_17817992401672"
+      },
+      {
+        "date": "26/6/2026",
+        "className": "Nâng cao"
       }
     ]
   },
@@ -5269,13 +5289,13 @@
     "school": "Mầm non Minh Khai",
     "phoneDad": "",
     "phoneMom": "0916556388",
-    "score": 3,
+    "score": 6,
     "lichessId": "",
     "notes": "Năng khiếu tốt",
     "goodDeeds": "",
     "badDeeds": "",
     "gifts": "",
-    "scoreHistory": "[19/6] [19:03] +1 điểm (Cộng nhanh)\n[24/6] [19:01] +1 điểm (Cộng điểm)\n[24/6] [19:03] +1 điểm (Cộng nhanh)",
+    "scoreHistory": "[19/6] [19:03] +1 điểm (Cộng nhanh)\n[24/6] [19:01] +1 điểm (Cộng điểm)\n[24/6] [19:03] +1 điểm (Cộng nhanh)\n[26/6] [18:59] +3 điểm (Cộng nhanh)",
     "attendanceDetails": [
       {
         "date": "19/6/2026",
@@ -5284,6 +5304,10 @@
       {
         "date": "24/6/2026",
         "className": "CLASS_17817992401672"
+      },
+      {
+        "date": "26/6/2026",
+        "className": "Nâng cao"
       }
     ]
   },
@@ -5294,17 +5318,21 @@
     "school": "THCS Tràng An",
     "phoneDad": "",
     "phoneMom": "0386988979",
-    "score": 0,
+    "score": 3,
     "lichessId": "",
     "notes": "",
     "goodDeeds": "- [19/6/2026] Ý thức tốt",
     "badDeeds": "",
     "gifts": "",
-    "scoreHistory": "",
+    "scoreHistory": "[26/6] [18:59] +3 điểm (Cộng nhanh)",
     "attendanceDetails": [
       {
         "date": "19/6/2026",
         "className": "CLASS_17817992401672"
+      },
+      {
+        "date": "26/6/2026",
+        "className": "Nâng cao"
       }
     ]
   },
@@ -5330,6 +5358,10 @@
       {
         "date": "24/6/2026",
         "className": "CLASS_17817992401672"
+      },
+      {
+        "date": "26/6/2026",
+        "className": "Nâng cao"
       }
     ]
   },
@@ -5372,6 +5404,10 @@
       {
         "date": "24/6/2026",
         "className": "CLASS_17817992401672"
+      },
+      {
+        "date": "26/6/2026",
+        "className": "Nâng cao"
       }
     ]
   },
@@ -6131,6 +6167,69 @@
       {
         "date": "25/6/2026",
         "className": "Thái Hà T5-T6 19h30 - 21h"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782471294331",
+    "name": "Nguyễn Minh Huyền",
+    "birthYear": "2018",
+    "school": "Lớp 3A2 TH Lê Ngọc Hân",
+    "phoneDad": "",
+    "phoneMom": "0979878886",
+    "score": 2,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "[26/6] [18:59] +2 điểm (Cộng nhanh)",
+    "attendanceDetails": [
+      {
+        "date": "26/6/2026",
+        "className": "Nâng cao"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782471383634",
+    "name": "Vương Minh Long",
+    "birthYear": "2017",
+    "school": "PT Nguyễn Đình Chiều",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 2,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "[26/6] [19:00] +2 điểm (Cộng nhanh)",
+    "attendanceDetails": [
+      {
+        "date": "26/6/2026",
+        "className": "Nâng cao"
+      }
+    ]
+  },
+  {
+    "id": "HS_1782471522009",
+    "name": "Hoàng Anh Việt",
+    "birthYear": "2017",
+    "school": "TH Quang Trung",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 2,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "[26/6] [18:59] +2 điểm (Cộng nhanh)",
+    "attendanceDetails": [
+      {
+        "date": "26/6/2026",
+        "className": "Nâng cao"
       }
     ]
   }

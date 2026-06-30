@@ -5513,6 +5513,10 @@
       {
         "date": "26/6/2026",
         "className": "Nâng cao"
+      },
+      {
+        "date": "17/6/2026",
+        "className": "Nâng cao"
       }
     ]
   },
@@ -5685,8 +5689,8 @@
     "score": 0,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "",
-    "badDeeds": "",
+    "goodDeeds": "- [26/6/2026] Thông minh bất ngờ",
+    "badDeeds": "- [26/6/2026] Không tập trung\n- [26/6/2026] Hay quên không mang sách bài tập",
     "gifts": "",
     "scoreHistory": "",
     "attendanceDetails": [
@@ -5699,8 +5703,24 @@
         "className": "Đội tuyển"
       },
       {
+        "date": "26/6/2026",
+        "className": "Đội tuyển"
+      },
+      {
         "date": "23/6/2026",
         "className": "CLASS_1782222649113"
+      },
+      {
+        "date": "27/6/2026",
+        "className": "Lớp thi toàn quốc 2026"
+      },
+      {
+        "date": "30/6/2026",
+        "className": "Lớp thi toàn quốc 2026"
+      },
+      {
+        "date": "29/6/2026",
+        "className": "Lớp thi toàn quốc 2026"
       }
     ]
   },
@@ -5714,8 +5734,8 @@
     "score": 0,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "",
-    "badDeeds": "",
+    "goodDeeds": "- [26/6/2026] Thông minh bất ngờ",
+    "badDeeds": "- [26/6/2026] Lười làm bài tập",
     "gifts": "",
     "scoreHistory": "",
     "attendanceDetails": [
@@ -5724,8 +5744,20 @@
         "className": "CLASS_1782222649113"
       },
       {
+        "date": "26/6/2026",
+        "className": "Đội tuyển"
+      },
+      {
         "date": "23/6/2026",
         "className": "CLASS_1782222649113"
+      },
+      {
+        "date": "27/6/2026",
+        "className": "Lớp thi toàn quốc 2026"
+      },
+      {
+        "date": "29/6/2026",
+        "className": "Lớp thi toàn quốc 2026"
       }
     ]
   },
@@ -5739,8 +5771,8 @@
     "score": 0,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "",
-    "badDeeds": "",
+    "goodDeeds": "- [26/6/2026] Chơi cờ nghiêm túc",
+    "badDeeds": "- [26/6/2026] Lười làm bài tập",
     "gifts": "",
     "scoreHistory": "",
     "attendanceDetails": [
@@ -5753,8 +5785,20 @@
         "className": "Đội tuyển"
       },
       {
+        "date": "26/6/2026",
+        "className": "Đội tuyển"
+      },
+      {
         "date": "23/6/2026",
         "className": "CLASS_1782222649113"
+      },
+      {
+        "date": "27/6/2026",
+        "className": "Lớp thi toàn quốc 2026"
+      },
+      {
+        "date": "29/6/2026",
+        "className": "Lớp thi toàn quốc 2026"
       }
     ]
   },
@@ -5768,7 +5812,7 @@
     "score": 0,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "",
+    "goodDeeds": "- [26/6/2026] Ngoan ngoãn",
     "badDeeds": "",
     "gifts": "",
     "scoreHistory": "",
@@ -5779,6 +5823,10 @@
       },
       {
         "date": "24/6/2026",
+        "className": "Đội tuyển"
+      },
+      {
+        "date": "26/6/2026",
         "className": "Đội tuyển"
       },
       {
@@ -5797,7 +5845,7 @@
     "score": 0,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "",
+    "goodDeeds": "- [26/6/2026] Ngoan ngoãn\n- [26/6/2026] Chăm chỉ làm bài tập\n- [26/6/2026] Thái độ tốt\n- [26/6/2026] Thái độ tốt",
     "badDeeds": "",
     "gifts": "",
     "scoreHistory": "",
@@ -5811,8 +5859,16 @@
         "className": "Đội tuyển"
       },
       {
+        "date": "26/6/2026",
+        "className": "Đội tuyển"
+      },
+      {
         "date": "23/6/2026",
         "className": "CLASS_1782222649113"
+      },
+      {
+        "date": "30/6/2026",
+        "className": "Lớp thi toàn quốc 2026"
       }
     ]
   },
@@ -5826,7 +5882,7 @@
     "score": 0,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "",
+    "goodDeeds": "- [26/6/2026] Ngoan ngoãn",
     "badDeeds": "",
     "gifts": "",
     "scoreHistory": "",
@@ -5834,6 +5890,14 @@
       {
         "date": "24/6/2026",
         "className": "Đội tuyển"
+      },
+      {
+        "date": "27/6/2026",
+        "className": "Lớp thi toàn quốc 2026"
+      },
+      {
+        "date": "30/6/2026",
+        "className": "Lớp thi toàn quốc 2026"
       }
     ]
   },
@@ -5847,13 +5911,17 @@
     "score": 0,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "",
+    "goodDeeds": "- [26/6/2026] Ngoan ngoãn\n- [26/6/2026] Chơi cờ nghiêm túc",
     "badDeeds": "",
     "gifts": "",
     "scoreHistory": "",
     "attendanceDetails": [
       {
         "date": "24/6/2026",
+        "className": "Đội tuyển"
+      },
+      {
+        "date": "26/6/2026",
         "className": "Đội tuyển"
       }
     ]
@@ -5889,7 +5957,7 @@
     "score": 0,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "",
+    "goodDeeds": "- [26/6/2026] Ngoan ngoãn\n- [26/6/2026] Chăm chỉ làm bài tập",
     "badDeeds": "",
     "gifts": "",
     "scoreHistory": "",
@@ -5960,6 +6028,10 @@
       {
         "date": "24/6/2026",
         "className": "Đội tuyển"
+      },
+      {
+        "date": "26/6/2026",
+        "className": "Đội tuyển"
       }
     ]
   },
@@ -5974,12 +6046,16 @@
     "lichessId": "",
     "notes": "",
     "goodDeeds": "",
-    "badDeeds": "",
+    "badDeeds": "- [26/6/2026] Lười làm bài tập\n- [26/6/2026] Mất trật tự\n- [26/6/2026] Mất trật tự\n- [26/6/2026] Lười làm bài tập",
     "gifts": "",
     "scoreHistory": "",
     "attendanceDetails": [
       {
         "date": "24/6/2026",
+        "className": "Đội tuyển"
+      },
+      {
+        "date": "26/6/2026",
         "className": "Đội tuyển"
       }
     ]
@@ -6001,6 +6077,10 @@
     "attendanceDetails": [
       {
         "date": "24/6/2026",
+        "className": "Đội tuyển"
+      },
+      {
+        "date": "26/6/2026",
         "className": "Đội tuyển"
       }
     ]
@@ -6099,11 +6179,16 @@
     "score": 0,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "",
-    "badDeeds": "",
+    "goodDeeds": "- [26/6/2026] Chăm chỉ làm bài tập\n- [26/6/2026] Ngoan ngoãn",
+    "badDeeds": "- [26/6/2026] Quá ồn ào",
     "gifts": "",
     "scoreHistory": "",
-    "attendanceDetails": []
+    "attendanceDetails": [
+      {
+        "date": "26/6/2026",
+        "className": "Đội tuyển"
+      }
+    ]
   },
   {
     "id": "HS_1782305084160",
@@ -6131,11 +6216,16 @@
     "score": 0,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "",
-    "badDeeds": "",
+    "goodDeeds": "- [26/6/2026] Ngoan ngoãn",
+    "badDeeds": "- [26/6/2026] Lười làm bài tập",
     "gifts": "",
     "scoreHistory": "",
-    "attendanceDetails": []
+    "attendanceDetails": [
+      {
+        "date": "26/6/2026",
+        "className": "Đội tuyển"
+      }
+    ]
   },
   {
     "id": "HS_1782305114078",
@@ -6147,11 +6237,16 @@
     "score": 0,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "",
+    "goodDeeds": "- [26/6/2026] Ngoan ngoãn",
     "badDeeds": "",
     "gifts": "",
     "scoreHistory": "",
-    "attendanceDetails": []
+    "attendanceDetails": [
+      {
+        "date": "26/6/2026",
+        "className": "Đội tuyển"
+      }
+    ]
   },
   {
     "id": "HS_1782305128760",
@@ -6167,7 +6262,12 @@
     "badDeeds": "",
     "gifts": "",
     "scoreHistory": "",
-    "attendanceDetails": []
+    "attendanceDetails": [
+      {
+        "date": "26/6/2026",
+        "className": "Đội tuyển"
+      }
+    ]
   },
   {
     "id": "HS_1782305139094",
@@ -6179,11 +6279,16 @@
     "score": 0,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "",
-    "badDeeds": "",
+    "goodDeeds": "- [26/6/2026] Ngoan ngoãn",
+    "badDeeds": "- [26/6/2026] Lười làm bài tập",
     "gifts": "",
     "scoreHistory": "",
-    "attendanceDetails": []
+    "attendanceDetails": [
+      {
+        "date": "26/6/2026",
+        "className": "Đội tuyển"
+      }
+    ]
   },
   {
     "id": "HS_1782305153148",
@@ -6199,7 +6304,12 @@
     "badDeeds": "",
     "gifts": "",
     "scoreHistory": "",
-    "attendanceDetails": []
+    "attendanceDetails": [
+      {
+        "date": "26/6/2026",
+        "className": "Đội tuyển"
+      }
+    ]
   },
   {
     "id": "HS_1782305164823",
@@ -6227,11 +6337,16 @@
     "score": 0,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "",
-    "badDeeds": "",
+    "goodDeeds": "- [26/6/2026] Ngoan ngoãn\n- [26/6/2026] Chơi cờ nghiêm túc\n- [26/6/2026] Thái độ tốt",
+    "badDeeds": "- [26/6/2026] Lười làm bài tập",
     "gifts": "",
     "scoreHistory": "",
-    "attendanceDetails": []
+    "attendanceDetails": [
+      {
+        "date": "26/6/2026",
+        "className": "Đội tuyển"
+      }
+    ]
   },
   {
     "id": "HS_1782305193374",
@@ -6243,11 +6358,16 @@
     "score": 0,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "",
-    "badDeeds": "",
+    "goodDeeds": "- [26/6/2026] Ngoan ngoãn\n- [26/6/2026] Chơi cờ nghiêm túc\n- [26/6/2026] Ý thức tốt",
+    "badDeeds": "- [26/6/2026] Lười làm bài tập",
     "gifts": "",
     "scoreHistory": "",
-    "attendanceDetails": []
+    "attendanceDetails": [
+      {
+        "date": "26/6/2026",
+        "className": "Đội tuyển"
+      }
+    ]
   },
   {
     "id": "HS_1782305218231",
@@ -6327,7 +6447,12 @@
     "badDeeds": "",
     "gifts": "",
     "scoreHistory": "",
-    "attendanceDetails": []
+    "attendanceDetails": [
+      {
+        "date": "26/6/2026",
+        "className": "Đội tuyển"
+      }
+    ]
   },
   {
     "id": "HS_1782390684660",

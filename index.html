@@ -7,7 +7,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
 body { font-family: 'Poppins', sans-serif; background: transparent; margin: 0; padding: 10px; }
-.container { max-width: 800px; margin: 0 auto; background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; border: 1px solid #e2e8f0; }
+.container { max-width: 880px; margin: 0 auto; background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; border: 1px solid #e2e8f0; }
 h2 { color: #d4af37; font-weight: 800; margin-top: 0; letter-spacing: 0.5px; }
 p { color: #475569; margin-bottom: 25px; font-size: 15px; }
 .search-box { display: flex; gap: 10px; justify-content: center; }
@@ -18,10 +18,68 @@ button:hover { background: #2563eb; transform: translateY(-2px); box-shadow: 0 4
 
 #searchResultArea { margin-top: 35px; text-align: left; display: none; }
 
+.season-panel {
+    background: linear-gradient(135deg, #fff7ed, #fffbeb);
+    border: 1px solid #fed7aa;
+    border-radius: 12px;
+    padding: 14px 16px;
+    margin: 0 0 18px 0;
+    display: flex;
+    gap: 14px;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.season-panel-title {
+    color: #92400e;
+    font-size: 14px;
+    font-weight: 800;
+}
+.season-panel-sub {
+    color: #b45309;
+    font-size: 12px;
+    margin-top: 3px;
+}
+.season-select {
+    min-width: 260px;
+    max-width: 100%;
+    padding: 11px 14px;
+    border-radius: 10px;
+    border: 2px solid #f59e0b;
+    background: white;
+    color: #1e293b;
+    font-weight: 800;
+    outline: none;
+    cursor: pointer;
+}
+.season-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 5px 11px;
+    border-radius: 999px;
+    background: #fef3c7;
+    color: #92400e;
+    font-size: 12px;
+    font-weight: 800;
+    border: 1px solid #fde68a;
+}
+.season-empty {
+    background: #f8fafc;
+    border: 1px dashed #cbd5e1;
+    border-radius: 10px;
+    padding: 12px;
+    color: #64748b;
+    font-size: 13px;
+    text-align: center;
+    margin-top: 10px;
+}
+
 .student-card { background: white; border: 1px solid #cbd5e1; border-radius: 12px; padding: 25px; margin-top: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.05); }
-.card-header { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #f1f5f9; padding-bottom: 15px; margin-bottom: 20px; }
+.card-header { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #f1f5f9; padding-bottom: 15px; margin-bottom: 20px; gap: 12px; }
 .card-header h4 { margin: 0; color: #1e293b; font-size: 22px; font-weight: 800; }
-.score-badge { background: #eff6ff; color: #2563eb; padding: 6px 14px; border-radius: 20px; font-size: 15px; font-weight: 700; border: 1px solid #bfdbfe; }
+.score-badge { background: #eff6ff; color: #2563eb; padding: 6px 14px; border-radius: 20px; font-size: 15px; font-weight: 700; border: 1px solid #bfdbfe; white-space: nowrap; }
+.score-badge.all { background: #fef3c7; color: #b45309; border-color: #fde68a; }
 
 .info-row { font-size: 14px; color: #334155; margin-bottom: 10px; }
 .info-row strong { color: #475569; }
@@ -44,9 +102,13 @@ button:hover { background: #2563eb; transform: translateY(-2px); box-shadow: 0 4
 /* Tối ưu hóa cho thiết bị di động */
 @media (max-width: 768px) {
     .notes-grid-3, .notes-grid-2 { grid-template-columns: 1fr; }
-    input { width: 55%; }
+    .search-box { flex-direction: column; }
+    input { width: 100%; box-sizing: border-box; }
+    button { width: 100%; }
     .card-header { flex-direction: column; gap: 10px; align-items: flex-start; }
     .container { padding: 20px 15px; }
+    .season-panel { align-items: stretch; }
+    .season-select { width: 100%; min-width: 0; }
 }
 </style>
 </head>
@@ -67,10 +129,17 @@ button:hover { background: #2563eb; transform: translateY(-2px); box-shadow: 0 4
 // ==============================================================
 // 🟢 BỘ CÔNG CỤ BẢO MẬT (CHUNG CHÌA KHÓA VỚI APP QUẢN LÝ)
 // ==============================================================
+const ALL_SEASONS_ID = '__ALL_SEASONS__';
+const ALL_SEASONS_NAME = 'TẤT CẢ CÁC MÙA';
+
+let cachedMatchedStudents = [];
+let cachedPointSeasons = [];
+let selectedParentSeasonId = ALL_SEASONS_ID;
+
 function encodeSecretData(text) {
     if (!text || text.trim() === '') return '';
     const key = "KTTL_SECURE_2026"; // Chìa khóa xào trộn đồng bộ với phần mềm
-    
+
     const utf8Text = unescape(encodeURIComponent(text.trim()));
     let res = '';
     for(let i = 0; i < utf8Text.length; i++) {
@@ -79,19 +148,411 @@ function encodeSecretData(text) {
     return window.btoa(res); 
 }
 
+function escapeHtml(value) {
+    return String(value ?? '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+}
+
+function normalizeVietnamese(str) {
+    return String(str || '')
+        .toLowerCase()
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .replace(/đ/g, 'd')
+        .trim();
+}
+
+function isAllSeasonsName(nameOrId) {
+    const v = normalizeVietnamese(nameOrId);
+    return v.includes('tat ca') || v.includes('all season') || v.includes('all_season') || String(nameOrId || '') === ALL_SEASONS_ID;
+}
+
 // Hàm quy đổi ngày sang Thứ
 const getDayName = (dateStr) => {
-    const parts = dateStr.split('/');
-    if (parts.length !== 3) return 'Ngày';
-    const d = new Date(parts[2], parts[1] - 1, parts[0]);
+    const parts = String(dateStr || '').split('/');
+    if (parts.length < 2) return 'Ngày';
+    const year = parts[2] || new Date().getFullYear();
+    const d = new Date(year, parts[1] - 1, parts[0]);
     const days = ['CN', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7'];
     return days[d.getDay()];
 };
 
+function normalizePublicPayload(payload) {
+    // Tương thích cả 2 kiểu:
+    // 1. public_students.json là mảng học sinh như bản cũ.
+    // 2. public_students.json là object { students: [], pointSeasons: [] } nếu sau này nâng cấp bộ đẩy dữ liệu.
+    if (Array.isArray(payload)) {
+        return {
+            students: payload,
+            pointSeasons: collectPointSeasonsFromStudents(payload)
+        };
+    }
+
+    const students =
+        Array.isArray(payload?.students) ? payload.students :
+        Array.isArray(payload?.publicStudents) ? payload.publicStudents :
+        Array.isArray(payload?.data) ? payload.data : [];
+
+    const pointSeasons =
+        Array.isArray(payload?.pointSeasons) ? payload.pointSeasons :
+        Array.isArray(payload?.seasons) ? payload.seasons :
+        collectPointSeasonsFromStudents(students);
+
+    return { students, pointSeasons };
+}
+
+function collectPointSeasonsFromStudents(students) {
+    const map = new Map();
+
+    (students || []).forEach(st => {
+        const candidates = [];
+
+        if (Array.isArray(st.pointSeasons)) candidates.push(...st.pointSeasons);
+        if (Array.isArray(st._pointSeasons)) candidates.push(...st._pointSeasons);
+        if (Array.isArray(st.seasonList)) candidates.push(...st.seasonList);
+
+        candidates.forEach(season => {
+            if (!season) return;
+            const id = String(season.id || season.seasonId || season.key || '').trim();
+            const name = String(season.name || season.title || season.label || id).trim();
+            if (!id || isAllSeasonsName(id) || isAllSeasonsName(name)) return;
+            if (!map.has(id)) map.set(id, { id, name });
+        });
+
+        if (st.seasons && typeof st.seasons === 'object') {
+            Object.keys(st.seasons).forEach(id => {
+                if (!id || isAllSeasonsName(id)) return;
+                const seasonData = st.seasons[id] || {};
+                const name = seasonData.seasonName || seasonData.name || seasonData.title || id;
+                if (isAllSeasonsName(name)) return;
+                if (!map.has(id)) map.set(id, { id, name });
+            });
+        }
+    });
+
+    return Array.from(map.values());
+}
+
+function mergeSeasonLists(globalSeasons, matchedStudents) {
+    const map = new Map();
+
+    (globalSeasons || []).forEach(season => {
+        if (!season) return;
+        const id = String(season.id || season.seasonId || season.key || '').trim();
+        const name = String(season.name || season.title || season.label || id).trim();
+        if (!id || isAllSeasonsName(id) || isAllSeasonsName(name)) return;
+        map.set(id, { id, name });
+    });
+
+    collectPointSeasonsFromStudents(matchedStudents).forEach(season => {
+        if (!map.has(season.id)) map.set(season.id, season);
+    });
+
+    return Array.from(map.values());
+}
+
+function getRawSeasonData(student, seasonId) {
+    if (!student || !student.seasons || typeof student.seasons !== 'object') return null;
+    if (student.seasons[seasonId]) return student.seasons[seasonId];
+
+    // Dự phòng: có bản lưu mùa bằng tên thay vì id.
+    const target = normalizeVietnamese(seasonId);
+    const matchedKey = Object.keys(student.seasons).find(key => {
+        const data = student.seasons[key] || {};
+        return normalizeVietnamese(key) === target ||
+               normalizeVietnamese(data.name) === target ||
+               normalizeVietnamese(data.seasonName) === target ||
+               normalizeVietnamese(data.title) === target;
+    });
+
+    return matchedKey ? student.seasons[matchedKey] : null;
+}
+
+function findAllSeasonsData(student) {
+    if (!student || !student.seasons || typeof student.seasons !== 'object') return null;
+
+    const allKey = Object.keys(student.seasons).find(key => {
+        const data = student.seasons[key] || {};
+        return isAllSeasonsName(key) ||
+               isAllSeasonsName(data.name) ||
+               isAllSeasonsName(data.seasonName) ||
+               isAllSeasonsName(data.title);
+    });
+
+    return allKey ? student.seasons[allKey] : null;
+}
+
+function readField(obj, keys, fallback = '') {
+    if (!obj) return fallback;
+    for (const key of keys) {
+        if (obj[key] !== undefined && obj[key] !== null && String(obj[key]) !== '') return obj[key];
+    }
+    return fallback;
+}
+
+function normalizeSeasonView(student, seasonId) {
+    const isAll = !seasonId || seasonId === ALL_SEASONS_ID;
+
+    if (isAll) {
+        const allData = findAllSeasonsData(student);
+
+        // Ưu tiên dữ liệu "TẤT CẢ CÁC MÙA" nếu app đã đẩy lên.
+        if (allData) {
+            return {
+                seasonName: ALL_SEASONS_NAME,
+                score: Number(readField(allData, ['score', 'totalScore'], student.score || 0)) || 0,
+                notes: readField(allData, ['notes', 'comment', 'generalNotes'], student.notes || ''),
+                goodDeeds: readField(allData, ['goodDeeds', 'goodMarks', 'greenMarks', 'goodNotes'], student.goodDeeds || ''),
+                badDeeds: readField(allData, ['badDeeds', 'badMarks', 'redMarks', 'badNotes'], student.badDeeds || ''),
+                gifts: readField(allData, ['gifts', 'rewards', 'giftNotes'], student.gifts || ''),
+                scoreHistory: readField(allData, ['scoreHistory', 'history', 'scoreLog'], student.scoreHistory || ''),
+                isAll: true,
+                hasSeasonData: true
+            };
+        }
+
+        // Nếu chưa có mùa tổng, dùng dữ liệu legacy bản cũ.
+        return {
+            seasonName: ALL_SEASONS_NAME,
+            score: Number(student.score || 0) || 0,
+            notes: student.notes || '',
+            goodDeeds: student.goodDeeds || '',
+            badDeeds: student.badDeeds || '',
+            gifts: student.gifts || '',
+            scoreHistory: student.scoreHistory || '',
+            isAll: true,
+            hasSeasonData: true
+        };
+    }
+
+    const data = getRawSeasonData(student, seasonId);
+    const seasonName = getSeasonName(seasonId);
+
+    if (!data) {
+        return {
+            seasonName,
+            score: 0,
+            notes: student.notes || '',
+            goodDeeds: '',
+            badDeeds: '',
+            gifts: '',
+            scoreHistory: '',
+            isAll: false,
+            hasSeasonData: false
+        };
+    }
+
+    return {
+        seasonName,
+        score: Number(readField(data, ['score', 'totalScore'], 0)) || 0,
+        notes: readField(data, ['notes', 'comment', 'generalNotes'], student.notes || ''),
+        goodDeeds: readField(data, ['goodDeeds', 'goodMarks', 'greenMarks', 'goodNotes'], ''),
+        badDeeds: readField(data, ['badDeeds', 'badMarks', 'redMarks', 'badNotes'], ''),
+        gifts: readField(data, ['gifts', 'rewards', 'giftNotes'], ''),
+        scoreHistory: readField(data, ['scoreHistory', 'history', 'scoreLog'], ''),
+        isAll: false,
+        hasSeasonData: true
+    };
+}
+
+function getSeasonName(seasonId) {
+    if (!seasonId || seasonId === ALL_SEASONS_ID) return ALL_SEASONS_NAME;
+    const found = (cachedPointSeasons || []).find(s => String(s.id) === String(seasonId));
+    return found ? found.name : seasonId;
+}
+
+function buildSeasonSelector() {
+    const seasons = mergeSeasonLists(cachedPointSeasons, cachedMatchedStudents);
+    cachedPointSeasons = seasons;
+
+    if (!selectedParentSeasonId) selectedParentSeasonId = ALL_SEASONS_ID;
+    if (selectedParentSeasonId !== ALL_SEASONS_ID && !seasons.some(s => s.id === selectedParentSeasonId)) {
+        selectedParentSeasonId = ALL_SEASONS_ID;
+    }
+
+    const options = [
+        `<option value="${ALL_SEASONS_ID}" ${selectedParentSeasonId === ALL_SEASONS_ID ? 'selected' : ''}>📚 ${ALL_SEASONS_NAME}</option>`
+    ];
+
+    seasons.forEach(season => {
+        options.push(`<option value="${escapeHtml(season.id)}" ${selectedParentSeasonId === season.id ? 'selected' : ''}>🏆 ${escapeHtml(season.name)}</option>`);
+    });
+
+    return `
+        <div class="season-panel">
+            <div>
+                <div class="season-panel-title">🏆 Tùy chọn xem theo mùa/tháng</div>
+                <div class="season-panel-sub">Phụ huynh có thể xem riêng từng mùa để biết con được bao nhiêu điểm, khen thưởng, nhắc nhở và lịch sử điểm.</div>
+            </div>
+            <div>
+                <select id="parentSeasonSelect" class="season-select" onchange="handleParentSeasonChange()">
+                    ${options.join('')}
+                </select>
+            </div>
+        </div>
+    `;
+}
+
+function handleParentSeasonChange() {
+    const select = document.getElementById('parentSeasonSelect');
+    selectedParentSeasonId = select ? select.value : ALL_SEASONS_ID;
+    renderMatchedStudents();
+}
+
+function formatList(str, emptyMsg) {
+    if (!str) return `<div style="color:#94a3b8; font-style:italic;">${emptyMsg}</div>`;
+
+    const items = String(str)
+        .split(/\r?\n|\\n/)
+        .map(i => i.trim())
+        .filter(i => i !== '');
+
+    if (items.length === 0) return `<div style="color:#94a3b8; font-style:italic;">${emptyMsg}</div>`;
+
+    // Đọc ngày tháng trong ngoặc vuông để phân loại Cũ - Mới
+    items.sort((a, b) => {
+        const extractTime = (text) => {
+            // Bắt định dạng ngày: [29/4/2026] hoặc [23/5]
+            const dateMatch = text.match(/\[(\d{1,2})\/(\d{1,2})(?:\/(\d{4}))?\]/);
+            let time = 0;
+            if (dateMatch) {
+                const day = parseInt(dateMatch[1]);
+                const month = parseInt(dateMatch[2]);
+                const year = dateMatch[3] ? parseInt(dateMatch[3]) : new Date().getFullYear();
+                time = new Date(year, month - 1, day).getTime();
+            }
+            // Bắt thêm định dạng giờ (nếu có): [12:02]
+            const timeMatch = text.match(/\[(\d{1,2}):(\d{2})\]/);
+            if (timeMatch) {
+                time += (parseInt(timeMatch[1]) * 60 + parseInt(timeMatch[2])) * 60000;
+            }
+            return time;
+        };
+        // B trừ A = Trả về dòng có thời gian lớn nhất (Mới nhất) lên đầu
+        return extractTime(b) - extractTime(a);
+    });
+
+    return items.map(item => `<div class="note-item">${escapeHtml(item)}</div>`).join('');
+}
+
+function buildAttendanceHtml(st) {
+    let attendanceHtml = '';
+    if (st.attendanceDetails && st.attendanceDetails.length > 0) {
+        const sortedAttendance = [...st.attendanceDetails].sort((a, b) => {
+            const pa = String(a.date || '').split('/');
+            const pb = String(b.date || '').split('/');
+            const dateA = new Date(pa[2] || new Date().getFullYear(), (pa[1] || 1) - 1, pa[0] || 1).getTime();
+            const dateB = new Date(pb[2] || new Date().getFullYear(), (pb[1] || 1) - 1, pb[0] || 1).getTime();
+            return dateB - dateA;
+        });
+
+        attendanceHtml = sortedAttendance.map(att => `
+            <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px; border-bottom: 1px solid #f1f5f9;">
+                <div style="display: flex; align-items: center; gap: 10px;">
+                    <span style="display: inline-flex; align-items: center; justify-content: center; width: 42px; font-size: 11px; font-weight: 700; color: #64748b; background: #f8fafc; padding: 4px 0; border-radius: 6px; border: 1px solid #e2e8f0;">${getDayName(att.date)}</span>
+                    <span style="font-weight: 600; color: #334155; font-size: 14px;">${escapeHtml(att.date || '')}</span>
+                </div>
+                <span style="color: #0ea5e9; font-size: 12px; background: #f0f9ff; padding: 4px 10px; border-radius: 20px; border: 1px solid #bae6fd; font-weight: 600; max-width: 140px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+                    🏫 ${escapeHtml(att.className || '')}
+                </span>
+            </div>
+        `).join('');
+    } else {
+        attendanceHtml = '<div style="color:#94a3b8; font-style:italic; padding: 15px; text-align: center;">Chưa có dữ liệu điểm danh</div>';
+    }
+    return attendanceHtml;
+}
+
+function renderMatchedStudents() {
+    const resultArea = document.getElementById('searchResultArea');
+    if (!cachedMatchedStudents || cachedMatchedStudents.length === 0) {
+        resultArea.innerHTML = '<div style="background: #fef2f2; border: 1px solid #fecaca; padding: 15px; border-radius: 8px; color:#ef4444; font-weight:bold; text-align: center;">❌ Không tìm thấy kỳ thủ nào. Vui lòng kiểm tra lại xem bạn đã gõ chính xác 100% SĐT chưa.</div>';
+        return;
+    }
+
+    let htmlOutput = `
+        <h3 style="color:#10b981; border-bottom: 2px dashed #bbf7d0; padding-bottom: 12px; margin-top: 0; text-align: center;">
+            ✅ TÌM THẤY ${cachedMatchedStudents.length} HỌC SINH
+        </h3>
+        ${buildSeasonSelector()}
+    `;
+
+    cachedMatchedStudents.forEach(st => {
+        const seasonView = normalizeSeasonView(st, selectedParentSeasonId);
+        const attendanceHtml = buildAttendanceHtml(st);
+        const scoreBadgeClass = seasonView.isAll ? 'score-badge all' : 'score-badge';
+
+        htmlOutput += `
+            <div class="student-card">
+                <div class="card-header">
+                    <h4>🎓 ${escapeHtml(st.name || '')} <span style="font-size:15px; color:#64748b; font-weight:600;">(${escapeHtml(st.birthYear || 'N/A')})</span></h4>
+                    <div class="${scoreBadgeClass}">⭐ ${seasonView.score || 0} Điểm</div>
+                </div>
+
+                <div class="info-row">
+                    <span class="season-chip">${seasonView.isAll ? '📚' : '🏆'} Đang xem: ${escapeHtml(seasonView.seasonName)}</span>
+                </div>
+
+                ${!seasonView.hasSeasonData ? `
+                    <div class="season-empty">
+                        Mùa này chưa có dữ liệu điểm/nhận xét cho học sinh này.
+                    </div>
+                ` : ''}
+
+                <div class="info-row" style="margin-top: 12px;">🎮 <strong>ID Lichess:</strong> <span style="color:#f59e0b; font-weight:700;">${escapeHtml(st.lichessId || 'Chưa cập nhật')}</span></div>
+                <div class="info-row">📝 <strong>Nhận xét chung:</strong> <em style="color:#475569;">${escapeHtml(seasonView.notes || 'Chưa có ghi chú')}</em></div>
+
+                <div class="notes-grid-3">
+                    <div class="note-box" style="background: #f0fdf4; border: 1px solid #bbf7d0;">
+                        <strong style="color:#16a34a;">✅ Khen thưởng</strong>
+                        <div class="note-list custom-scrollbar">${formatList(seasonView.goodDeeds, 'Chưa có ghi nhận trong mùa này')}</div>
+                    </div>
+                    <div class="note-box" style="background: #fef2f2; border: 1px solid #fecaca;">
+                        <strong style="color:#dc2626;">❌ Nhắc nhở</strong>
+                        <div class="note-list custom-scrollbar">${formatList(seasonView.badDeeds, 'Chưa có ghi nhận trong mùa này')}</div>
+                    </div>
+                    <div class="note-box" style="background: #faf5ff; border: 1px solid #e9d5ff;">
+                        <strong style="color:#9333ea;">🎁 Phần thưởng</strong>
+                        <div class="note-list custom-scrollbar">${formatList(seasonView.gifts, 'Chưa có ghi nhận trong mùa này')}</div>
+                    </div>
+                </div>
+
+                <div class="notes-grid-2" style="margin-top: 0;">
+
+                    <div class="note-box" style="background: #f8fafc; border: 1px solid #e2e8f0; padding: 0; overflow: hidden; display: flex; flex-direction: column;">
+                        <strong style="color:#475569; padding: 12px 15px; margin: 0; background: #f1f5f9; border-bottom: 1px solid #e2e8f0; display: flex; justify-content: space-between; align-items: center;">
+                            <span>📆 Chi tiết Điểm danh</span>
+                        </strong>
+                        <div class="custom-scrollbar" style="height: 280px; overflow-y: auto; padding: 5px;">
+                            ${attendanceHtml}
+                        </div>
+                    </div>
+
+                    <div class="note-box" style="background: #eff6ff; border: 1px solid #bfdbfe; padding: 0; overflow: hidden; display: flex; flex-direction: column;">
+                        <strong style="color:#1d4ed8; padding: 12px 15px; margin: 0; background: #dbeafe; border-bottom: 1px solid #bfdbfe; display: flex; justify-content: space-between; align-items: center;">
+                            <span>📊 Lịch sử Điểm số</span>
+                        </strong>
+                        <div class="note-list custom-scrollbar" style="height: 280px; max-height: 280px; padding: 15px;">
+                            ${formatList(seasonView.scoreHistory, 'Học sinh chưa có lịch sử điểm trong mùa này')}
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        `;
+    });
+
+    resultArea.innerHTML = htmlOutput;
+}
+
 async function searchStudentOnWeb() {
     const query = document.getElementById('parentSearchInput').value.trim();
     const resultArea = document.getElementById('searchResultArea');
-    
+
     // Yêu cầu nhập ít nhất 8-10 số để tránh nhập bừa
     if (!query || query.length < 8) {
         alert('Vui lòng nhập ĐẦY ĐỦ và CHÍNH XÁC số điện thoại đã đăng ký!');
@@ -109,7 +570,9 @@ async function searchStudentOnWeb() {
     try {
         const response = await fetch(dataUrl + '?t=' + new Date().getTime());
         if (!response.ok) throw new Error('File không tồn tại');
-        const allStudents = await response.json();
+        const payload = await response.json();
+        const normalized = normalizePublicPayload(payload);
+        const allStudents = normalized.students || [];
 
         // 🔒 TÌM KIẾM DỰA TRÊN CHUỖI ĐÃ MÃ HÓA (CHỐNG LỘ DATA)
         const matchedStudents = allStudents.filter(s => 
@@ -118,122 +581,16 @@ async function searchStudentOnWeb() {
         );
 
         if (matchedStudents.length === 0) {
+            cachedMatchedStudents = [];
             resultArea.innerHTML = '<div style="background: #fef2f2; border: 1px solid #fecaca; padding: 15px; border-radius: 8px; color:#ef4444; font-weight:bold; text-align: center;">❌ Không tìm thấy kỳ thủ nào. Vui lòng kiểm tra lại xem bạn đã gõ chính xác 100% SĐT chưa.</div>';
             return;
         }
 
-        // 🟢 THUẬT TOÁN BÓC TÁCH NGÀY/GIỜ VÀ ÉP SẮP XẾP MỚI NHẤT LÊN ĐẦU
-        const formatList = (str, emptyMsg) => {
-            if (!str) return `<div style="color:#94a3b8; font-style:italic;">${emptyMsg}</div>`;
-            const items = str.split(/\r?\n|\\n/).filter(i => i.trim() !== '');
-            if (items.length === 0) return `<div style="color:#94a3b8; font-style:italic;">${emptyMsg}</div>`;
-            
-            // Đọc ngày tháng trong ngoặc vuông để phân loại Cũ - Mới
-            items.sort((a, b) => {
-                const extractTime = (text) => {
-                    // Bắt định dạng ngày: [29/4/2026] hoặc [23/5]
-                    const dateMatch = text.match(/\[(\d{1,2})\/(\d{1,2})(?:\/(\d{4}))?\]/);
-                    let time = 0;
-                    if (dateMatch) {
-                        const day = parseInt(dateMatch[1]);
-                        const month = parseInt(dateMatch[2]);
-                        const year = dateMatch[3] ? parseInt(dateMatch[3]) : new Date().getFullYear();
-                        time = new Date(year, month - 1, day).getTime();
-                    }
-                    // Bắt thêm định dạng giờ (nếu có): [12:02]
-                    const timeMatch = text.match(/\[(\d{1,2}):(\d{2})\]/);
-                    if (timeMatch) {
-                        time += (parseInt(timeMatch[1]) * 60 + parseInt(timeMatch[2])) * 60000;
-                    }
-                    return time;
-                };
-                // B trừ A = Trả về dòng có thời gian lớn nhất (Mới nhất) lên đầu
-                return extractTime(b) - extractTime(a);
-            });
+        cachedMatchedStudents = matchedStudents;
+        cachedPointSeasons = mergeSeasonLists(normalized.pointSeasons, matchedStudents);
+        selectedParentSeasonId = ALL_SEASONS_ID;
 
-            return items.map(item => `<div class="note-item">${item}</div>`).join('');
-        };
-
-        let htmlOutput = `<h3 style="color:#10b981; border-bottom: 2px dashed #bbf7d0; padding-bottom: 12px; margin-top: 0; text-align: center;">✅ TÌM THẤY ${matchedStudents.length} HỌC SINH</h3>`;
-        
-        matchedStudents.forEach(st => {
-            // 🟢 ĐẢM BẢO LƯỚI ĐIỂM DANH LUÔN LÀ MỚI NHẤT LÊN ĐẦU
-            let attendanceHtml = '';
-            if (st.attendanceDetails && st.attendanceDetails.length > 0) {
-                const sortedAttendance = [...st.attendanceDetails].sort((a, b) => {
-                    const pa = a.date.split('/');
-                    const pb = b.date.split('/');
-                    const dateA = new Date(pa[2] || new Date().getFullYear(), (pa[1] || 1) - 1, pa[0] || 1).getTime();
-                    const dateB = new Date(pb[2] || new Date().getFullYear(), (pb[1] || 1) - 1, pb[0] || 1).getTime();
-                    return dateB - dateA;
-                });
-
-                attendanceHtml = sortedAttendance.map(att => `
-                    <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px; border-bottom: 1px solid #f1f5f9;">
-                        <div style="display: flex; align-items: center; gap: 10px;">
-                            <span style="display: inline-flex; align-items: center; justify-content: center; width: 42px; font-size: 11px; font-weight: 700; color: #64748b; background: #f8fafc; padding: 4px 0; border-radius: 6px; border: 1px solid #e2e8f0;">${getDayName(att.date)}</span>
-                            <span style="font-weight: 600; color: #334155; font-size: 14px;">${att.date}</span>
-                        </div>
-                        <span style="color: #0ea5e9; font-size: 12px; background: #f0f9ff; padding: 4px 10px; border-radius: 20px; border: 1px solid #bae6fd; font-weight: 600; max-width: 140px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-                            🏫 ${att.className}
-                        </span>
-                    </div>
-                `).join('');
-            } else {
-                attendanceHtml = '<div style="color:#94a3b8; font-style:italic; padding: 15px; text-align: center;">Chưa có dữ liệu điểm danh</div>';
-            }
-
-            htmlOutput += `
-                <div class="student-card">
-                    <div class="card-header">
-                        <h4>🎓 ${st.name} <span style="font-size:15px; color:#64748b; font-weight:600;">(${st.birthYear || 'N/A'})</span></h4>
-                        <div class="score-badge">⭐ ${st.score || 0} Điểm</div>
-                    </div>
-
-                    <div class="info-row">🎮 <strong>ID Lichess:</strong> <span style="color:#f59e0b; font-weight:700;">${st.lichessId || 'Chưa cập nhật'}</span></div>
-                    <div class="info-row">📝 <strong>Nhận xét chung:</strong> <em style="color:#475569;">${st.notes || 'Chưa có ghi chú'}</em></div>
-                    
-                    <div class="notes-grid-3">
-                        <div class="note-box" style="background: #f0fdf4; border: 1px solid #bbf7d0;">
-                            <strong style="color:#16a34a;">✅ Khen thưởng</strong>
-                            <div class="note-list custom-scrollbar">${formatList(st.goodDeeds, 'Chưa có ghi nhận')}</div>
-                        </div>
-                        <div class="note-box" style="background: #fef2f2; border: 1px solid #fecaca;">
-                            <strong style="color:#dc2626;">❌ Nhắc nhở</strong>
-                            <div class="note-list custom-scrollbar">${formatList(st.badDeeds, 'Chưa có ghi nhận')}</div>
-                        </div>
-                        <div class="note-box" style="background: #faf5ff; border: 1px solid #e9d5ff;">
-                            <strong style="color:#9333ea;">🎁 Phần thưởng</strong>
-                            <div class="note-list custom-scrollbar">${formatList(st.gifts, 'Chưa có ghi nhận')}</div>
-                        </div>
-                    </div>
-
-                    <div class="notes-grid-2" style="margin-top: 0;">
-                        
-                        <div class="note-box" style="background: #f8fafc; border: 1px solid #e2e8f0; padding: 0; overflow: hidden; display: flex; flex-direction: column;">
-                            <strong style="color:#475569; padding: 12px 15px; margin: 0; background: #f1f5f9; border-bottom: 1px solid #e2e8f0; display: flex; justify-content: space-between; align-items: center;">
-                                <span>📆 Chi tiết Điểm danh</span>
-                            </strong>
-                            <div class="custom-scrollbar" style="height: 280px; overflow-y: auto; padding: 5px;">
-                                ${attendanceHtml}
-                            </div>
-                        </div>
-
-                        <div class="note-box" style="background: #eff6ff; border: 1px solid #bfdbfe; padding: 0; overflow: hidden; display: flex; flex-direction: column;">
-                            <strong style="color:#1d4ed8; padding: 12px 15px; margin: 0; background: #dbeafe; border-bottom: 1px solid #bfdbfe; display: flex; justify-content: space-between; align-items: center;">
-                                <span>📊 Lịch sử Điểm số</span>
-                            </strong>
-                            <div class="note-list custom-scrollbar" style="height: 280px; max-height: 280px; padding: 15px;">
-                                ${formatList(st.scoreHistory, 'Học sinh chưa có lịch sử điểm')}
-                            </div>
-                        </div>
-                        
-                    </div>
-                </div>
-            `;
-        });
-
-        resultArea.innerHTML = htmlOutput;
+        renderMatchedStudents();
 
     } catch (error) {
         resultArea.innerHTML = '<div style="background: #fef2f2; border: 1px solid #fecaca; padding: 15px; border-radius: 8px; color:#ef4444; font-weight:bold; text-align: center;">❌ Cổng tra cứu đang bảo trì. Hãy đợi thầy cô đồng bộ dữ liệu nhé!</div>';

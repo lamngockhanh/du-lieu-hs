@@ -1989,44 +1989,16 @@
     "school": "TH Kim Liên",
     "phoneDad": "",
     "phoneMom": "0976033464",
-    "score": 0,
+    "score": 64,
     "lichessId": "",
     "notes": "Lớp 3",
-    "goodDeeds": "",
-    "badDeeds": "",
+    "goodDeeds": "- [5/7/2026] Chăm chỉ làm bài tập",
+    "badDeeds": "- [5/7/2026] không làm bài tập trong giờ",
     "gifts": "",
-    "scoreHistory": "",
+    "scoreHistory": "[5/7] [14:36] +10 điểm (đi học)\n[5/7] [14:37] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:37] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:37] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:02] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:02] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:29] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:33] -5 điểm (Cộng nhanh)\n[5/7] [15:43] +3 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:52] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:02] +2 điểm (Cả lớp ngoan)\n[5/7] [16:04] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:09] +2 điểm (Cả lớp ngoan)\n[5/7] [16:16] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:31] +10 điểm (nhiệm vụ tốt)",
     "attendanceDetails": [
       {
         "date": "7/5/2026",
-        "className": "Thái Hà T5-T6 19h30 - 21h"
-      },
-      {
-        "date": "14/5/2026",
-        "className": "Thái Hà T5-T6 19h30 - 21h"
-      },
-      {
-        "date": "21/5/2026",
-        "className": "CLASS_1779007066151_3"
-      },
-      {
-        "date": "4/6/2026",
-        "className": "Thái Hà T5-T6 19h30 - 21h"
-      },
-      {
-        "date": "11/6/2026",
-        "className": "Thái Hà T5-T6 19h30 - 21h"
-      },
-      {
-        "date": "18/6/2026",
-        "className": "Thái Hà T5-T6 19h30 - 21h"
-      },
-      {
-        "date": "25/6/2026",
-        "className": "Thái Hà T5-T6 19h30 - 21h"
-      },
-      {
-        "date": "2/7/2026",
         "className": "Thái Hà T5-T6 19h30 - 21h"
       },
       {
@@ -2056,6 +2028,18 @@
       {
         "date": "28/6/2026",
         "className": "Thái Hà Chủ Nhật 14h"
+      },
+      {
+        "date": "5/7/2026",
+        "className": "Thái Hà Chủ Nhật 14h"
+      },
+      {
+        "date": "24/5/2026",
+        "className": "CLASS_1779007066151_7"
+      },
+      {
+        "date": "31/5/2026",
+        "className": "CLASS_1779007066151_7"
       }
     ]
   },
@@ -3258,13 +3242,13 @@
     "school": "THCS Thái Thịnh",
     "phoneDad": "",
     "phoneMom": "0936069898",
-    "score": 0,
+    "score": 66,
     "lichessId": "",
     "notes": "Lớp 8",
-    "goodDeeds": "",
+    "goodDeeds": "- [5/7/2026] Chăm chỉ làm bài tập",
     "badDeeds": "",
     "gifts": "",
-    "scoreHistory": "",
+    "scoreHistory": "[5/7] [14:36] +10 điểm (đi học)\n[5/7] [14:37] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:47] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:54] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:20] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:53] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:02] +2 điểm (Cả lớp ngoan)\n[5/7] [16:03] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:06] +7 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:07] -14 điểm (Trừ điểm)\n[5/7] [16:09] +2 điểm (Cả lớp ngoan)\n[5/7] [16:16] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:16] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:27] +7 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:30] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:31] +10 điểm (nhiệm vụ tốt)",
     "attendanceDetails": [
       {
         "date": "16/5/2026",
@@ -3287,16 +3271,12 @@
         "className": "Thái Hà Chủ Nhật 14h"
       },
       {
-        "date": "23/5/2026",
-        "className": "CLASS_1779007066151_1"
+        "date": "5/7/2026",
+        "className": "Thái Hà Chủ Nhật 14h"
       },
       {
-        "date": "30/5/2026",
-        "className": "CLASS_1779007066151_1"
-      },
-      {
-        "date": "20/6/2026",
-        "className": "Thái Hà Thứ 7"
+        "date": "24/5/2026",
+        "className": "CLASS_1779007066151_7"
       }
     ]
   },
@@ -4198,13 +4178,13 @@
     "school": "",
     "phoneDad": "",
     "phoneMom": "",
-    "score": 0,
+    "score": 44,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "",
+    "goodDeeds": "- [5/7/2026] Ý thức tốt",
     "badDeeds": "",
     "gifts": "",
-    "scoreHistory": "",
+    "scoreHistory": "[5/7] [14:36] +10 điểm (đi học)\n[5/7] [14:51] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:02] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:48] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:49] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:02] +2 điểm (Cả lớp ngoan)\n[5/7] [16:09] +2 điểm (Cả lớp ngoan)\n[5/7] [16:31] +10 điểm (nhiệm vụ tốt)",
     "attendanceDetails": [
       {
         "date": "10/5/2026",
@@ -4233,6 +4213,10 @@
       {
         "date": "21/6/2026",
         "className": "Thái Hà Chủ Nhật 14h"
+      },
+      {
+        "date": "5/7/2026",
+        "className": "Thái Hà Chủ Nhật 14h"
       }
     ]
   },
@@ -4243,13 +4227,13 @@
     "school": "",
     "phoneDad": "",
     "phoneMom": "0852925555",
-    "score": 0,
+    "score": 73,
     "lichessId": "",
     "notes": "Khỉ đít đỏ",
-    "goodDeeds": "",
-    "badDeeds": "",
+    "goodDeeds": "- [5/7/2026] Thực hiện nhiệm vụ tốt\n- [5/7/2026] Hăng hái",
+    "badDeeds": "- [5/7/2026] không mang sách\n- [5/7/2026] chạy nhảy, bò trườn trong lớp",
     "gifts": "",
-    "scoreHistory": "",
+    "scoreHistory": "[5/7] [14:36] +10 điểm (đi học)\n[5/7] [14:36] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:36] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:42] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:57] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:22] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:33] -5 điểm (Cộng nhanh)\n[5/7] [15:41] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:47] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:59] +34 điểm (Từ vòng quay cộng)\n[5/7] [16:02] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:02] +2 điểm (Cả lớp ngoan)\n[5/7] [16:03] -5 điểm (nói tự do)\n[5/7] [16:24] -20 điểm (Cộng nhanh)\n[5/7] [16:24] +5 điểm (Cộng nhanh)\n[5/7] [16:30] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:31] +10 điểm (nhiệm vụ tốt)",
     "attendanceDetails": [
       {
         "date": "10/5/2026",
@@ -4269,6 +4253,10 @@
       },
       {
         "date": "28/6/2026",
+        "className": "Thái Hà Chủ Nhật 14h"
+      },
+      {
+        "date": "5/7/2026",
         "className": "Thái Hà Chủ Nhật 14h"
       }
     ]
@@ -4305,13 +4293,13 @@
     "school": "",
     "phoneDad": "",
     "phoneMom": "",
-    "score": 0,
+    "score": 93,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "",
+    "goodDeeds": "- [5/7/2026] Chăm chỉ làm bài tập",
     "badDeeds": "",
     "gifts": "",
-    "scoreHistory": "",
+    "scoreHistory": "[5/7] [14:36] +10 điểm (đi học)\n[5/7] [14:37] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:37] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:42] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:42] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:54] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:22] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:34] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:47] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:53] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:00] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:02] +2 điểm (Cả lớp ngoan)\n[5/7] [16:05] +8 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:09] +2 điểm (Cả lớp ngoan)\n[5/7] [16:17] +8 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:29] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:31] +10 điểm (nhiệm vụ tốt)",
     "attendanceDetails": [
       {
         "date": "10/5/2026",
@@ -4335,6 +4323,10 @@
       },
       {
         "date": "28/6/2026",
+        "className": "Thái Hà Chủ Nhật 14h"
+      },
+      {
+        "date": "5/7/2026",
         "className": "Thái Hà Chủ Nhật 14h"
       }
     ]
@@ -6749,13 +6741,13 @@
     "school": "",
     "phoneDad": "",
     "phoneMom": "0908983886",
-    "score": 93,
+    "score": 167,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "- [4/7/2026] Ý thức tốt",
+    "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [5/7/2026] Chăm chỉ làm bài tập\n- [5/7/2026] DẤU ẤN XANH VIP PRO\n- [5/7/2026] DẤU ẤN XANH VIP PRO",
     "badDeeds": "",
     "gifts": "",
-    "scoreHistory": "[4/7] [14:17] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:38] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:46] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:33] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:33] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:34] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:34] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:47] +8 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:00] +5 điểm (Cộng nhanh)\n[4/7] [16:07] +7 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:20] +10 điểm (Cộng nhanh)\n[4/7] [16:28] +9 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)",
+    "scoreHistory": "[4/7] [14:17] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:38] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:46] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:33] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:33] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:34] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:34] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:47] +8 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:00] +5 điểm (Cộng nhanh)\n[4/7] [16:07] +7 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:20] +10 điểm (Cộng nhanh)\n[4/7] [16:28] +9 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[5/7] [14:36] +10 điểm (đi học)\n[5/7] [14:36] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:36] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:02] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:29] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:46] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:01] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:02] +2 điểm (Cả lớp ngoan)\n[5/7] [16:09] +2 điểm (Cả lớp ngoan)\n[5/7] [16:11] +8 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:18] +8 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:30] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:31] +10 điểm (nhiệm vụ tốt)",
     "attendanceDetails": [
       {
         "date": "25/6/2026",
@@ -6768,6 +6760,10 @@
       {
         "date": "4/7/2026",
         "className": "Thái Hà Thứ 7"
+      },
+      {
+        "date": "5/7/2026",
+        "className": "Thái Hà Chủ Nhật 14h"
       }
     ]
   },
@@ -7116,6 +7112,48 @@
       {
         "date": "4/7/2026",
         "className": "GAMUDA T7 CN"
+      }
+    ]
+  },
+  {
+    "id": "HS_1783236758347",
+    "name": "Bắp (Minh Quang)",
+    "birthYear": "2020",
+    "school": "",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 47,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "[5/7] [14:36] +10 điểm (đi học)\n[5/7] [14:37] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:37] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:48] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:00] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:02] +2 điểm (Cả lớp ngoan)\n[5/7] [16:09] +2 điểm (Cả lớp ngoan)\n[5/7] [16:20] +3 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:31] +10 điểm (nhiệm vụ tốt)",
+    "attendanceDetails": [
+      {
+        "date": "5/7/2026",
+        "className": "Thái Hà Chủ Nhật 14h"
+      }
+    ]
+  },
+  {
+    "id": "HS_1783236855869",
+    "name": "Đặng Đức Đạt",
+    "birthYear": "2017",
+    "school": "",
+    "phoneDad": "",
+    "phoneMom": "0962191996",
+    "score": 72,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "- [5/7/2026] Chăm chỉ làm bài tập",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "[5/7] [14:36] +10 điểm (đi học)\n[5/7] [14:37] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:37] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:37] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:47] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:57] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:20] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:38] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:43] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:46] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:51] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:02] +2 điểm (Cả lớp ngoan)\n[5/7] [16:09] +2 điểm (Cả lớp ngoan)\n[5/7] [16:31] +10 điểm (nhiệm vụ tốt)",
+    "attendanceDetails": [
+      {
+        "date": "5/7/2026",
+        "className": "Thái Hà Chủ Nhật 14h"
       }
     ]
   }

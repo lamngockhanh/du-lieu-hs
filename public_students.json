@@ -852,17 +852,21 @@
     "school": "",
     "phoneDad": "",
     "phoneMom": "",
-    "score": 0,
+    "score": 84,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "",
+    "goodDeeds": "- [5/7/2026] Ý thức tốt",
     "badDeeds": "",
     "gifts": "",
-    "scoreHistory": "",
+    "scoreHistory": "[5/7] [18:31] +10 điểm (ngoan)\n[5/7] [18:36] +18 điểm (Từ vòng quay cộng)\n[5/7] [18:44] +3 điểm (Cộng nhanh bằng phím số)\n[5/7] [18:47] +6 điểm (Cộng nhanh bằng phím số)\n[5/7] [18:47] +7 điểm (Cộng nhanh bằng phím số)\n[5/7] [18:49] +15 điểm (Cộng nhanh)\n[5/7] [18:54] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [18:54] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [18:54] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [19:02] +10 điểm (nhiem vu tot)",
     "attendanceDetails": [
       {
         "date": "24/5/2026",
         "className": "CLASS_1779007066151_6"
+      },
+      {
+        "date": "5/7/2026",
+        "className": "GAMUDA T7 CN"
       }
     ]
   },
@@ -894,13 +898,13 @@
     "school": "",
     "phoneDad": "",
     "phoneMom": "0948429888",
-    "score": 0,
+    "score": 128,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "",
+    "goodDeeds": "- [5/7/2026] Ý thức tốt\n- [5/7/2026] DẤU ẤN XANH VIP PRO",
     "badDeeds": "",
     "gifts": "",
-    "scoreHistory": "",
+    "scoreHistory": "[5/7] [17:43] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [18:31] +10 điểm (ngoan)\n[5/7] [18:37] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [18:45] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [18:45] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [18:50] +15 điểm (Cộng nhanh)\n[5/7] [18:51] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [18:51] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [18:51] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [18:51] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [18:52] +20 điểm (Cộng nhanh)\n[5/7] [18:55] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [18:57] +10 điểm (Cộng nhanh)\n[5/7] [18:57] +15 điểm (Cộng nhanh)\n[5/7] [18:59] +3 điểm (Cộng nhanh bằng phím số)\n[5/7] [19:02] +10 điểm (nhiem vu tot)",
     "attendanceDetails": [
       {
         "date": "7/6/2026",
@@ -912,6 +916,10 @@
       },
       {
         "date": "28/6/2026",
+        "className": "GAMUDA T7 CN"
+      },
+      {
+        "date": "5/7/2026",
         "className": "GAMUDA T7 CN"
       }
     ]
@@ -923,13 +931,13 @@
     "school": "",
     "phoneDad": "",
     "phoneMom": "0948429888",
-    "score": 0,
+    "score": 70,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "",
+    "goodDeeds": "- [5/7/2026] Ý thức tốt\n- [5/7/2026] Hăng hái",
     "badDeeds": "",
     "gifts": "",
-    "scoreHistory": "",
+    "scoreHistory": "[5/7] [17:42] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [17:56] -2 điểm (Cộng nhanh)\n[5/7] [17:56] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [18:31] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [18:31] +10 điểm (ngoan)\n[5/7] [18:40] +3 điểm (Cộng nhanh bằng phím số)\n[5/7] [18:42] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [18:49] +5 điểm (Cộng nhanh)\n[5/7] [18:54] +6 điểm (Cộng nhanh bằng phím số)\n[5/7] [18:54] +6 điểm (Cộng nhanh bằng phím số)\n[5/7] [18:54] +7 điểm (Cộng nhanh bằng phím số)\n[5/7] [19:02] +10 điểm (nhiem vu tot)\n[5/7] [19:02] +5 điểm (Cộng nhanh bằng phím số)",
     "attendanceDetails": [
       {
         "date": "7/6/2026",
@@ -941,6 +949,10 @@
       },
       {
         "date": "28/6/2026",
+        "className": "GAMUDA T7 CN"
+      },
+      {
+        "date": "5/7/2026",
         "className": "GAMUDA T7 CN"
       }
     ]

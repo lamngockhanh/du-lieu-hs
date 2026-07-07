@@ -121,13 +121,13 @@
     "school": "TH Đoàn Thị Điểm",
     "phoneDad": "",
     "phoneMom": "0989834495",
-    "score": 0,
+    "score": 39,
     "lichessId": "",
     "notes": "Lớp 1, nhà ỏ Đặng Tiến Đông",
-    "goodDeeds": "",
+    "goodDeeds": "- [7/7/2026] Đi học chăm chỉ\n- [7/7/2026] Ý thức tốt",
     "badDeeds": "",
     "gifts": "",
-    "scoreHistory": "",
+    "scoreHistory": "[7/7] [18:48] +10 điểm (đi học chăm)\n[7/7] [18:49] +5 điểm (Cộng nhanh)\n[7/7] [18:50] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [18:50] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [18:50] +4 điểm (Cộng nhanh bằng phím số)\n[7/7] [19:04] +10 điểm (nhiệm vụ tốt)",
     "attendanceDetails": [
       {
         "date": "28/4/2026",
@@ -156,6 +156,10 @@
       {
         "date": "16/6/2026",
         "className": "Thái Hà T3-T6 17h30-19h"
+      },
+      {
+        "date": "7/7/2026",
+        "className": "Thái Hà T3-T6 17h30-19h"
       }
     ]
   },
@@ -166,13 +170,13 @@
     "school": "",
     "phoneDad": "",
     "phoneMom": "",
-    "score": 50,
+    "score": 93,
     "lichessId": "",
     "notes": "5 tuổi",
-    "goodDeeds": "- [3/7/2026] Ý thức tốt\n- [3/7/2026] Ngoan ngoãn\n- [3/7/2026] Thực hiện nhiệm vụ tốt",
+    "goodDeeds": "- [3/7/2026] Ý thức tốt\n- [3/7/2026] Ngoan ngoãn\n- [3/7/2026] Thực hiện nhiệm vụ tốt\n- [7/7/2026] Đi học chăm chỉ\n- [7/7/2026] Ý thức tốt",
     "badDeeds": "",
     "gifts": "",
-    "scoreHistory": "[3/7] [18:13] +10 điểm (đi học chăm)\n[3/7] [18:13] +5 điểm (Cộng nhanh)\n[3/7] [18:13] +10 điểm (Cộng nhanh)\n[3/7] [18:17] +5 điểm (Cộng nhanh)\n[3/7] [18:26] +5 điểm (Cộng nhanh)\n[3/7] [18:33] +5 điểm (Cộng nhanh)\n[3/7] [19:00] +10 điểm (nhiệm vụ tốt)",
+    "scoreHistory": "[3/7] [18:13] +10 điểm (đi học chăm)\n[3/7] [18:13] +5 điểm (Cộng nhanh)\n[3/7] [18:13] +10 điểm (Cộng nhanh)\n[3/7] [18:17] +5 điểm (Cộng nhanh)\n[3/7] [18:26] +5 điểm (Cộng nhanh)\n[3/7] [18:33] +5 điểm (Cộng nhanh)\n[3/7] [19:00] +10 điểm (nhiệm vụ tốt)\n[7/7] [18:48] +10 điểm (đi học chăm)\n[7/7] [18:49] +10 điểm (Cộng nhanh)\n[7/7] [18:50] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [18:50] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [18:50] +3 điểm (Cộng nhanh bằng phím số)\n[7/7] [19:04] +10 điểm (nhiệm vụ tốt)",
     "attendanceDetails": [
       {
         "date": "12/5/2026",
@@ -196,6 +200,10 @@
       },
       {
         "date": "3/7/2026",
+        "className": "Thái Hà T3-T6 17h30-19h"
+      },
+      {
+        "date": "7/7/2026",
         "className": "Thái Hà T3-T6 17h30-19h"
       }
     ]
@@ -572,13 +580,13 @@
     "school": "",
     "phoneDad": "",
     "phoneMom": "0983539661",
-    "score": 45,
+    "score": 83,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "- [3/7/2026] Ý thức tốt\n- [3/7/2026] Thực hiện nhiệm vụ tốt",
+    "goodDeeds": "- [3/7/2026] Ý thức tốt\n- [3/7/2026] Thực hiện nhiệm vụ tốt\n- [7/7/2026] Đi học chăm chỉ\n- [7/7/2026] Ý thức tốt",
     "badDeeds": "",
     "gifts": "",
-    "scoreHistory": "[3/7] [18:13] +10 điểm (đi học chăm)\n[3/7] [18:17] +15 điểm (Cộng nhanh)\n[3/7] [18:33] +10 điểm (Cộng nhanh)\n[3/7] [19:00] +10 điểm (nhiệm vụ tốt)",
+    "scoreHistory": "[3/7] [18:13] +10 điểm (đi học chăm)\n[3/7] [18:17] +15 điểm (Cộng nhanh)\n[3/7] [18:33] +10 điểm (Cộng nhanh)\n[3/7] [19:00] +10 điểm (nhiệm vụ tốt)\n[7/7] [18:48] +10 điểm (đi học chăm)\n[7/7] [18:51] +6 điểm (Cộng nhanh bằng phím số)\n[7/7] [18:51] +6 điểm (Cộng nhanh bằng phím số)\n[7/7] [18:51] +6 điểm (Cộng nhanh bằng phím số)\n[7/7] [19:04] +10 điểm (nhiệm vụ tốt)",
     "attendanceDetails": [
       {
         "date": "5/6/2026",
@@ -602,6 +610,10 @@
       },
       {
         "date": "3/7/2026",
+        "className": "Thái Hà T3-T6 17h30-19h"
+      },
+      {
+        "date": "7/7/2026",
         "className": "Thái Hà T3-T6 17h30-19h"
       }
     ]
@@ -1880,13 +1892,13 @@
     "school": "TH La Thành",
     "phoneDad": "",
     "phoneMom": "0904819399",
-    "score": 0,
+    "score": 40,
     "lichessId": "",
     "notes": "Lớp 1",
-    "goodDeeds": "",
+    "goodDeeds": "- [7/7/2026] Đi học chăm chỉ\n- [7/7/2026] Ý thức tốt",
     "badDeeds": "",
     "gifts": "",
-    "scoreHistory": "",
+    "scoreHistory": "[7/7] [18:48] +10 điểm (đi học chăm)\n[7/7] [18:49] +10 điểm (Cộng nhanh)\n[7/7] [18:50] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [18:50] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [19:04] +10 điểm (nhiệm vụ tốt)",
     "attendanceDetails": [
       {
         "date": "7/5/2026",
@@ -1929,6 +1941,10 @@
         "className": "Thái Hà T3-T6 17h30-19h"
       },
       {
+        "date": "7/7/2026",
+        "className": "Thái Hà T3-T6 17h30-19h"
+      },
+      {
         "date": "21/5/2026",
         "className": "CLASS_1779007066151_3"
       },
@@ -1939,14 +1955,6 @@
       {
         "date": "28/5/2026",
         "className": "CLASS_1779007066151_3"
-      },
-      {
-        "date": "25/6/2026",
-        "className": "Thái Hà T5-T6 19h30 - 21h"
-      },
-      {
-        "date": "2/7/2026",
-        "className": "Thái Hà T5-T6 19h30 - 21h"
       }
     ]
   },
@@ -5598,13 +5606,13 @@
     "school": "",
     "phoneDad": "",
     "phoneMom": "",
-    "score": 34,
+    "score": 72,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "- [3/7/2026] Ý thức tốt\n- [3/7/2026] Thông minh bất ngờ\n- [3/7/2026] Thực hiện nhiệm vụ tốt",
+    "goodDeeds": "- [3/7/2026] Ý thức tốt\n- [3/7/2026] Thông minh bất ngờ\n- [3/7/2026] Thực hiện nhiệm vụ tốt\n- [7/7/2026] Đi học chăm chỉ\n- [7/7/2026] Ý thức tốt",
     "badDeeds": "",
     "gifts": "",
-    "scoreHistory": "[3/7] [18:13] +10 điểm (đi học chăm)\n[3/7] [18:18] +9 điểm (Cộng điểm)\n[3/7] [18:44] +5 điểm (Cộng nhanh)\n[3/7] [19:00] +10 điểm (nhiệm vụ tốt)",
+    "scoreHistory": "[3/7] [18:13] +10 điểm (đi học chăm)\n[3/7] [18:18] +9 điểm (Cộng điểm)\n[3/7] [18:44] +5 điểm (Cộng nhanh)\n[3/7] [19:00] +10 điểm (nhiệm vụ tốt)\n[7/7] [18:48] +10 điểm (đi học chăm)\n[7/7] [18:50] +6 điểm (Cộng nhanh bằng phím số)\n[7/7] [18:50] +6 điểm (Cộng nhanh bằng phím số)\n[7/7] [18:50] +6 điểm (Cộng nhanh bằng phím số)\n[7/7] [19:04] +10 điểm (nhiệm vụ tốt)",
     "attendanceDetails": [
       {
         "date": "23/6/2026",
@@ -5616,6 +5624,10 @@
       },
       {
         "date": "3/7/2026",
+        "className": "Thái Hà T3-T6 17h30-19h"
+      },
+      {
+        "date": "7/7/2026",
         "className": "Thái Hà T3-T6 17h30-19h"
       }
     ]
@@ -7219,6 +7231,27 @@
       {
         "date": "6/7/2026",
         "className": "Khoá Hè Nguyễn Tuân Sáng"
+      }
+    ]
+  },
+  {
+    "id": "HS_1783424858912",
+    "name": "Nguyễn Nhật Huy",
+    "birthYear": "2021",
+    "school": "",
+    "phoneDad": "",
+    "phoneMom": "0973553838",
+    "score": 47,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "- [7/7/2026] Đi học chăm chỉ\n- [7/7/2026] Ý thức tốt",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "[7/7] [18:48] +10 điểm (đi học chăm)\n[7/7] [18:49] +10 điểm (Cộng nhanh)\n[7/7] [18:50] +6 điểm (Cộng nhanh bằng phím số)\n[7/7] [18:50] +6 điểm (Cộng nhanh bằng phím số)\n[7/7] [18:50] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [19:04] +10 điểm (nhiệm vụ tốt)",
+    "attendanceDetails": [
+      {
+        "date": "7/7/2026",
+        "className": "Thái Hà T3-T6 17h30-19h"
       }
     ]
   }

@@ -1188,13 +1188,13 @@
     "school": "",
     "phoneDad": "",
     "phoneMom": "",
-    "score": 74,
+    "score": 146,
     "lichessId": "",
     "notes": "5 tuổi",
-    "goodDeeds": "- [6/7/2026] Đi học chăm chỉ\n- [7/7/2026] Chơi cờ nghiêm túc\n- [7/7/2026] Đi học chăm chỉ",
-    "badDeeds": "- [6/7/2026] chơi cờ không nghiêm túc",
+    "goodDeeds": "- [6/7/2026] Đi học chăm chỉ\n- [7/7/2026] Chơi cờ nghiêm túc\n- [7/7/2026] Đi học chăm chỉ\n- [8/7/2026] Đi học chăm chỉ\n- [8/7/2026] Hăng hái\n- [8/7/2026] DẤU ẤN XANH VIP PRO",
+    "badDeeds": "- [6/7/2026] chơi cờ không nghiêm túc\n- [8/7/2026] Nói leo",
     "gifts": "",
-    "scoreHistory": "[6/7] [18:08] +10 điểm (đi học chăm)\n[6/7] [18:21] +7 điểm (Cộng nhanh bằng phím số)\n[6/7] [18:24] +5 điểm (Cộng nhanh bằng phím số)\n[6/7] [18:30] +10 điểm (nhiệm vụ tốt)\n[7/7] [09:29] +4 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:35] +4 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:43] +4 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:49] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:58] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [10:32] +10 điểm (Cả lớp ngoan)\n[7/7] [10:33] +10 điểm (nhiệm vụ tốt)",
+    "scoreHistory": "[6/7] [18:08] +10 điểm (đi học chăm)\n[6/7] [18:21] +7 điểm (Cộng nhanh bằng phím số)\n[6/7] [18:24] +5 điểm (Cộng nhanh bằng phím số)\n[6/7] [18:30] +10 điểm (nhiệm vụ tốt)\n[7/7] [09:29] +4 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:35] +4 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:43] +4 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:49] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:58] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [10:32] +10 điểm (Cả lớp ngoan)\n[7/7] [10:33] +10 điểm (nhiệm vụ tốt)\n[8/7] [09:12] +5 điểm (Cộng nhanh bằng phím số)\n[8/7] [09:24] +5 điểm (Cộng nhanh bằng phím số)\n[8/7] [09:28] +5 điểm (Cộng nhanh bằng phím số)\n[8/7] [09:33] -5 điểm (Cộng nhanh)\n[8/7] [09:50] +5 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:09] +5 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:22] +10 điểm (Cả lớp ngoan)\n[8/7] [10:26] +5 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:26] +5 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:26] +5 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:30] +12 điểm (Từ vòng quay cộng)\n[8/7] [10:33] +15 điểm (Cả lớp ngoan)",
     "attendanceDetails": [
       {
         "date": "4/5/2026",
@@ -1226,6 +1226,10 @@
       },
       {
         "date": "7/7/2026",
+        "className": "Khoá Hè Nguyễn Tuân Sáng"
+      },
+      {
+        "date": "8/7/2026",
         "className": "Khoá Hè Nguyễn Tuân Sáng"
       },
       {
@@ -4630,13 +4634,13 @@
     "school": "TH Phan Đình Giót",
     "phoneDad": "0915185588",
     "phoneMom": "",
-    "score": 84,
+    "score": 140,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "- [7/7/2026] Hăng hái\n- [7/7/2026] Đi học chăm chỉ\n- [7/7/2026] Đi học chăm chỉ",
-    "badDeeds": "",
+    "goodDeeds": "- [7/7/2026] Hăng hái\n- [7/7/2026] Đi học chăm chỉ\n- [7/7/2026] Đi học chăm chỉ\n- [8/7/2026] Đi học chăm chỉ\n- [8/7/2026] Hăng hái\n- [8/7/2026] DẤU ẤN XANH VIP PRO",
+    "badDeeds": "- [8/7/2026] Quá ồn ào",
     "gifts": "",
-    "scoreHistory": "[7/7] [08:56] +40 điểm (Cộng điểm)\n[7/7] [09:06] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:29] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:29] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [10:06] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [10:07] +4 điểm (Cộng nhanh bằng phím số)\n[7/7] [10:32] +10 điểm (Cả lớp ngoan)\n[7/7] [10:33] +10 điểm (nhiệm vụ tốt)",
+    "scoreHistory": "[7/7] [08:56] +40 điểm (Cộng điểm)\n[7/7] [09:06] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:29] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:29] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [10:06] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [10:07] +4 điểm (Cộng nhanh bằng phím số)\n[7/7] [10:32] +10 điểm (Cả lớp ngoan)\n[7/7] [10:33] +10 điểm (nhiệm vụ tốt)\n[8/7] [09:05] -5 điểm (Cộng nhanh)\n[8/7] [09:06] +5 điểm (Cộng nhanh bằng phím số)\n[8/7] [09:13] -5 điểm (Cộng nhanh)\n[8/7] [09:15] +4 điểm (Cộng nhanh bằng phím số)\n[8/7] [09:31] +5 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:07] -5 điểm (Cộng nhanh)\n[8/7] [10:20] +5 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:22] +10 điểm (Cả lớp ngoan)\n[8/7] [10:30] +2 điểm (Từ vòng quay cộng)\n[8/7] [10:31] +9 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:31] +9 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:31] +7 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:33] +15 điểm (Cả lớp ngoan)",
     "attendanceDetails": [
       {
         "date": "1/6/2026",
@@ -4728,6 +4732,10 @@
       },
       {
         "date": "7/7/2026",
+        "className": "Khoá Hè Nguyễn Tuân Sáng"
+      },
+      {
+        "date": "8/7/2026",
         "className": "Khoá Hè Nguyễn Tuân Sáng"
       }
     ]
@@ -5141,13 +5149,13 @@
     "school": "",
     "phoneDad": "",
     "phoneMom": "0936274116",
-    "score": 80,
+    "score": 186,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "- [7/7/2026] Ý thức tốt\n- [7/7/2026] Thực hiện nhiệm vụ tốt\n- [7/7/2026] Đi học chăm chỉ",
+    "goodDeeds": "- [7/7/2026] Ý thức tốt\n- [7/7/2026] Thực hiện nhiệm vụ tốt\n- [7/7/2026] Đi học chăm chỉ\n- [8/7/2026] Đi học chăm chỉ\n- [8/7/2026] DẤU ẤN XANH VIP PRO",
     "badDeeds": "",
     "gifts": "",
-    "scoreHistory": "[7/7] [09:01] +40 điểm (Cộng điểm)\n[7/7] [09:37] +4 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:43] +4 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:49] +4 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:58] +4 điểm (Cộng nhanh bằng phím số)\n[7/7] [10:10] +4 điểm (Từ vòng quay cộng)\n[7/7] [10:32] +10 điểm (Cả lớp ngoan)\n[7/7] [10:33] +10 điểm (nhiệm vụ tốt)",
+    "scoreHistory": "[7/7] [09:01] +40 điểm (Cộng điểm)\n[7/7] [09:37] +4 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:43] +4 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:49] +4 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:58] +4 điểm (Cộng nhanh bằng phím số)\n[7/7] [10:10] +4 điểm (Từ vòng quay cộng)\n[7/7] [10:32] +10 điểm (Cả lớp ngoan)\n[7/7] [10:33] +10 điểm (nhiệm vụ tốt)\n[8/7] [09:06] +4 điểm (Cộng nhanh bằng phím số)\n[8/7] [09:12] +4 điểm (Cộng nhanh bằng phím số)\n[8/7] [09:24] +4 điểm (Cộng nhanh bằng phím số)\n[8/7] [09:28] +4 điểm (Cộng nhanh bằng phím số)\n[8/7] [09:33] -5 điểm (Cộng nhanh)\n[8/7] [09:50] +4 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:01] +5 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:17] +5 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:21] +5 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:22] +10 điểm (Cả lớp ngoan)\n[8/7] [10:25] +9 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:25] +9 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:25] +7 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:29] +26 điểm (Từ vòng quay cộng)\n[8/7] [10:33] +15 điểm (Cả lớp ngoan)",
     "attendanceDetails": [
       {
         "date": "17/6/2026",
@@ -5168,6 +5176,10 @@
       {
         "date": "7/7/2026",
         "className": "Khoá Hè Nguyễn Tuân Sáng"
+      },
+      {
+        "date": "8/7/2026",
+        "className": "Khoá Hè Nguyễn Tuân Sáng"
       }
     ]
   },
@@ -5178,13 +5190,13 @@
     "school": "",
     "phoneDad": "",
     "phoneMom": "0982018760",
-    "score": 139,
+    "score": 259,
     "lichessId": "",
     "notes": "",
-    "goodDeeds": "- [3/7/2026] Ý thức tốt\n- [7/7/2026] Ý thức tốt\n- [7/7/2026] DẤU ẤN XANH VIP PRO\n- [7/7/2026] Đi học chăm chỉ",
-    "badDeeds": "",
+    "goodDeeds": "- [3/7/2026] Ý thức tốt\n- [7/7/2026] Ý thức tốt\n- [7/7/2026] DẤU ẤN XANH VIP PRO\n- [7/7/2026] Đi học chăm chỉ\n- [8/7/2026] Đi học chăm chỉ\n- [8/7/2026] DẤU ẤN XANH VIP PRO",
+    "badDeeds": "- [8/7/2026] nói leo",
     "gifts": "",
-    "scoreHistory": "[3/7] [09:18] +10 điểm (đi học chăm)\n[3/7] [09:20] +5 điểm (Cộng nhanh)\n[3/7] [09:32] +5 điểm (Cộng nhanh)\n[3/7] [09:40] +5 điểm (Cộng nhanh)\n[3/7] [09:46] +4 điểm (Cộng nhanh)\n[3/7] [09:50] +4 điểm (Cộng nhanh)\n[3/7] [09:57] +4 điểm (Cộng nhanh)\n[3/7] [09:58] +2 điểm (Cộng nhanh)\n[3/7] [09:58] +1 điểm (Cộng nhanh)\n[3/7] [10:01] +5 điểm (Cộng nhanh)\n[3/7] [10:02] +2 điểm (Cộng nhanh)\n[3/7] [10:02] +1 điểm (Cộng nhanh)\n[3/7] [10:17] -5 điểm (Cộng nhanh)\n[3/7] [10:21] +2 điểm (Cộng nhanh)\n[3/7] [10:23] +5 điểm (Cộng nhanh)\n[3/7] [10:35] +10 điểm (nhiệm vụ tốt)\n[7/7] [09:03] +40 điểm (Cộng điểm)\n[7/7] [09:29] +4 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:29] +4 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:35] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:43] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [10:12] +1 điểm (Cộng nhanh)\n[7/7] [10:32] +10 điểm (Cả lớp ngoan)\n[7/7] [10:33] +10 điểm (nhiệm vụ tốt)",
+    "scoreHistory": "[3/7] [09:18] +10 điểm (đi học chăm)\n[3/7] [09:20] +5 điểm (Cộng nhanh)\n[3/7] [09:32] +5 điểm (Cộng nhanh)\n[3/7] [09:40] +5 điểm (Cộng nhanh)\n[3/7] [09:46] +4 điểm (Cộng nhanh)\n[3/7] [09:50] +4 điểm (Cộng nhanh)\n[3/7] [09:57] +4 điểm (Cộng nhanh)\n[3/7] [09:58] +2 điểm (Cộng nhanh)\n[3/7] [09:58] +1 điểm (Cộng nhanh)\n[3/7] [10:01] +5 điểm (Cộng nhanh)\n[3/7] [10:02] +2 điểm (Cộng nhanh)\n[3/7] [10:02] +1 điểm (Cộng nhanh)\n[3/7] [10:17] -5 điểm (Cộng nhanh)\n[3/7] [10:21] +2 điểm (Cộng nhanh)\n[3/7] [10:23] +5 điểm (Cộng nhanh)\n[3/7] [10:35] +10 điểm (nhiệm vụ tốt)\n[7/7] [09:03] +40 điểm (Cộng điểm)\n[7/7] [09:29] +4 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:29] +4 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:35] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [09:43] +5 điểm (Cộng nhanh bằng phím số)\n[7/7] [10:12] +1 điểm (Cộng nhanh)\n[7/7] [10:32] +10 điểm (Cả lớp ngoan)\n[7/7] [10:33] +10 điểm (nhiệm vụ tốt)\n[8/7] [09:15] +5 điểm (Cộng nhanh bằng phím số)\n[8/7] [09:31] +4 điểm (Cộng nhanh bằng phím số)\n[8/7] [09:55] +6 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:13] +5 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:20] +5 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:22] +10 điểm (Cả lớp ngoan)\n[8/7] [10:24] +40 điểm (Từ vòng quay cộng)\n[8/7] [10:24] +5 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:24] +5 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:24] +5 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:24] +5 điểm (Cộng nhanh bằng phím số)\n[8/7] [10:29] +10 điểm (Từ vòng quay cộng)\n[8/7] [10:33] +15 điểm (Cả lớp ngoan)",
     "attendanceDetails": [
       {
         "date": "18/6/2026",
@@ -5236,6 +5248,10 @@
       },
       {
         "date": "7/7/2026",
+        "className": "Khoá Hè Nguyễn Tuân Sáng"
+      },
+      {
+        "date": "8/7/2026",
         "className": "Khoá Hè Nguyễn Tuân Sáng"
       }
     ]

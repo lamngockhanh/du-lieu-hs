@@ -136,16 +136,67 @@ let cachedMatchedStudents = [];
 let cachedPointSeasons = [];
 let selectedParentSeasonId = ALL_SEASONS_ID;
 
-function encodeSecretData(text) {
-    if (!text || text.trim() === '') return '';
-    const key = "KTTL_SECURE_2026"; // Chìa khóa xào trộn đồng bộ với phần mềm
+function normalizePhone(value) {
+    let phone = String(value || '').replace(/\D/g, '');
+    if (!phone) return '';
 
-    const utf8Text = unescape(encodeURIComponent(text.trim()));
+    if (phone.startsWith('0084')) {
+        phone = '0' + phone.slice(4);
+    } else if (phone.startsWith('84')) {
+        phone = '0' + phone.slice(2);
+    }
+
+    if (phone.length === 9 && /^[35789]/.test(phone)) {
+        phone = '0' + phone;
+    }
+
+    return phone;
+}
+
+function encodeSecretData(text) {
+    const normalized = normalizePhone(text);
+    if (!normalized) return '';
+    const key = "KTTL_SECURE_2026";
+
+    const utf8Text = unescape(encodeURIComponent(normalized));
     let res = '';
     for(let i = 0; i < utf8Text.length; i++) {
         res += String.fromCharCode(utf8Text.charCodeAt(i) ^ key.charCodeAt(i % key.length));
     }
-    return window.btoa(res); 
+    return window.btoa(res);
+}
+
+function decodeSecretData(value) {
+    if (!value) return '';
+    const key = "KTTL_SECURE_2026";
+    try {
+        const decoded = window.atob(String(value).trim());
+        let res = '';
+        for (let i = 0; i < decoded.length; i++) {
+            res += String.fromCharCode(decoded.charCodeAt(i) ^ key.charCodeAt(i % key.length));
+        }
+        return decodeURIComponent(escape(res));
+    } catch (error) {
+        return '';
+    }
+}
+
+function phoneMatches(storedValue, normalizedQuery) {
+    if (!storedValue || !normalizedQuery) return false;
+    const stored = String(storedValue).trim();
+    const normalizedHash = encodeSecretData(normalizedQuery);
+
+    // Chuẩn mới: SĐT đã chuẩn hóa rồi mới mã hóa.
+    if (stored === normalizedHash) return true;
+
+    // Tương thích dữ liệu cũ từng bị ghi SĐT thô lên JSON.
+    if (/^[0-9\s.\-()+]+$/.test(stored) && normalizePhone(stored) === normalizedQuery) {
+        return true;
+    }
+
+    // Tương thích dữ liệu cũ đã mã hóa khi SĐT còn khoảng trắng/dấu chấm/+84.
+    const decoded = decodeSecretData(stored);
+    return decoded ? normalizePhone(decoded) === normalizedQuery : false;
 }
 
 function escapeHtml(value) {
@@ -550,50 +601,49 @@ function renderMatchedStudents() {
 }
 
 async function searchStudentOnWeb() {
-    const query = document.getElementById('parentSearchInput').value.trim();
+    const rawQuery = document.getElementById('parentSearchInput').value.trim();
+    const query = normalizePhone(rawQuery);
     const resultArea = document.getElementById('searchResultArea');
 
-    // Yêu cầu nhập ít nhất 8-10 số để tránh nhập bừa
-    if (!query || query.length < 8) {
-        alert('Vui lòng nhập ĐẦY ĐỦ và CHÍNH XÁC số điện thoại đã đăng ký!');
+    if (!query || query.length < 9 || query.length > 11) {
+        alert('Vui lòng nhập đầy đủ số điện thoại đã đăng ký. Có thể nhập dạng 09xx..., 84... hoặc +84...');
         return;
     }
 
     resultArea.style.display = 'block';
     resultArea.innerHTML = '<p style="text-align:center; color:#64748b; font-weight: 600;">⏳ Đang kiểm tra hệ thống bảo mật...</p>';
 
-    // 🔒 MÃ HÓA SĐT MÀ PHỤ HUYNH VỪA NHẬP ĐỂ TÌM KIẾM
-    const hashedQuery = encodeSecretData(query);
-
     const dataUrl = 'public_students.json';
 
     try {
-        const response = await fetch(dataUrl + '?t=' + new Date().getTime());
-        if (!response.ok) throw new Error('File không tồn tại');
+        const response = await fetch(dataUrl + '?t=' + Date.now(), {
+            cache: 'no-store',
+            headers: { 'Cache-Control': 'no-cache' }
+        });
+        if (!response.ok) throw new Error(`Không tải được dữ liệu (HTTP ${response.status})`);
+
         const payload = await response.json();
         const normalized = normalizePublicPayload(payload);
-        const allStudents = normalized.students || [];
+        const allStudents = (normalized.students || []).filter(student => student && !student.deleted);
 
-        // 🔒 TÌM KIẾM DỰA TRÊN CHUỖI ĐÃ MÃ HÓA (CHỐNG LỘ DATA)
-        const matchedStudents = allStudents.filter(s => 
-            (s.phoneDad && s.phoneDad === hashedQuery) || 
-            (s.phoneMom && s.phoneMom === hashedQuery)
+        const matchedStudents = allStudents.filter(student =>
+            phoneMatches(student.phoneDad, query) || phoneMatches(student.phoneMom, query)
         );
 
         if (matchedStudents.length === 0) {
             cachedMatchedStudents = [];
-            resultArea.innerHTML = '<div style="background: #fef2f2; border: 1px solid #fecaca; padding: 15px; border-radius: 8px; color:#ef4444; font-weight:bold; text-align: center;">❌ Không tìm thấy kỳ thủ nào. Vui lòng kiểm tra lại xem bạn đã gõ chính xác 100% SĐT chưa.</div>';
+            resultArea.innerHTML = '<div style="background: #fef2f2; border: 1px solid #fecaca; padding: 15px; border-radius: 8px; color:#ef4444; font-weight:bold; text-align: center;">❌ Không tìm thấy học sinh theo số điện thoại này. Vui lòng kiểm tra số đã đăng ký với CLB.</div>';
             return;
         }
 
         cachedMatchedStudents = matchedStudents;
         cachedPointSeasons = mergeSeasonLists(normalized.pointSeasons, matchedStudents);
         selectedParentSeasonId = ALL_SEASONS_ID;
-
         renderMatchedStudents();
 
     } catch (error) {
-        resultArea.innerHTML = '<div style="background: #fef2f2; border: 1px solid #fecaca; padding: 15px; border-radius: 8px; color:#ef4444; font-weight:bold; text-align: center;">❌ Cổng tra cứu đang bảo trì. Hãy đợi thầy cô đồng bộ dữ liệu nhé!</div>';
+        console.error('Lỗi tra cứu học sinh:', error);
+        resultArea.innerHTML = '<div style="background: #fef2f2; border: 1px solid #fecaca; padding: 15px; border-radius: 8px; color:#ef4444; font-weight:bold; text-align: center;">❌ Không tải được dữ liệu tra cứu. Vui lòng thử lại sau hoặc báo cho CLB kiểm tra kết nối server.</div>';
     }
 }
 

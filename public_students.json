@@ -1,6 +1,6 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-07-11T08:41:55.363Z",
+  "generatedAt": "2026-07-11T09:32:31.322Z",
   "generatedBy": "DEVICE_1783759312607_s807db84",
   "studentCount": 226,
   "pointSeasons": [
@@ -562,18 +562,20 @@
       "name": "Ben",
       "birthYear": "2019",
       "school": "",
-      "phoneDad": "",
+      "phoneDad": "e21ldGlqcXJtZA==",
       "phoneMom": "",
-      "score": 84,
+      "score": 258,
       "lichessId": "",
       "notes": "",
-      "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [4/7/2026] Hăng hái",
+      "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [4/7/2026] Hăng hái\n- [11/7/2026] Đi học chăm chỉ\n- [11/7/2026] Có tinh thần giúp đỡ bạn\n- [11/7/2026] DẤU ẤN XANH VIP PRO",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[4/7] [14:18] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:27] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:35] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:51] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:59] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:09] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:25] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:04] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:20] +20 điểm (Cộng nhanh)\n[4/7] [16:25] +9 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:27] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:36] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:58] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:07] +5 điểm (Cộng nhanh bằng phím số)",
-      "badges": [],
-      "totalSessions": 6,
-      "totalFee": 960000,
+      "scoreHistory": "[4/7] [14:18] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:27] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:35] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:51] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:59] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:09] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:25] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:04] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:20] +20 điểm (Cộng nhanh)\n[4/7] [16:25] +9 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:27] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:36] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:58] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:07] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:45] +20 điểm (Tư duy tốt)\n[11/7] [15:52] +1 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:05] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:14] +100 điểm (Cộng điểm)\n[11/7] [16:24] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:31] +20 điểm (Thái độ tốt)",
+      "badges": [
+        "Nhân vật nổi tiếng/ronaldo.webp"
+      ],
+      "totalSessions": 10,
+      "totalFee": 1600000,
       "attendanceDetails": [
         {
           "date": "11/7/2026",
@@ -675,19 +677,21 @@
           "notes": ""
         },
         "SEASON_DEFAULT_2026_07": {
-          "score": 102,
-          "scoreHistory": "[4/7] [14:18] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:27] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:35] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:51] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:59] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:09] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:25] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:04] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:20] +20 điểm (Cộng nhanh)\n[4/7] [16:25] +9 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:27] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:36] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:58] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:07] +5 điểm (Cộng nhanh bằng phím số)",
-          "badges": [],
-          "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [4/7/2026] Hăng hái",
+          "score": 258,
+          "scoreHistory": "[4/7] [14:18] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:27] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:35] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:51] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:59] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:09] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:25] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:04] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:20] +20 điểm (Cộng nhanh)\n[4/7] [16:25] +9 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:27] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:36] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:58] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:07] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:45] +20 điểm (Tư duy tốt)\n[11/7] [15:52] +1 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:05] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:14] +100 điểm (Cộng điểm)\n[11/7] [16:24] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:31] +20 điểm (Thái độ tốt)",
+          "badges": [
+            "Nhân vật nổi tiếng/ronaldo.webp"
+          ],
+          "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [4/7/2026] Hăng hái\n- [11/7/2026] Đi học chăm chỉ\n- [11/7/2026] Có tinh thần giúp đỡ bạn\n- [11/7/2026] DẤU ẤN XANH VIP PRO",
           "badDeeds": "",
           "gifts": "",
           "seasonName": "Tháng 7-8/2026",
           "notes": ""
         }
       },
-      "updatedBy": "DEVICE_1783754444927_cv6gwgzv",
+      "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 0
+      "updatedAt": 1783762349027
     },
     {
       "id": "HS_1778240095811",
@@ -817,18 +821,20 @@
       "name": "Bon",
       "birthYear": "2019",
       "school": "",
-      "phoneDad": "",
+      "phoneDad": "e21sdGdldHJkZA==",
       "phoneMom": "",
-      "score": 94,
+      "score": 245,
       "lichessId": "",
       "notes": "Lớp 1",
-      "goodDeeds": "- [4/7/2026] Ý thức tốt",
+      "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [11/7/2026] Đi học chăm chỉ\n- [11/7/2026] Có tinh thần giúp đỡ bạn\n- [11/7/2026] DẤU ẤN XANH VIP PRO",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[4/7] [14:18] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:49] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:04] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:04] +3 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:22] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:39] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:56] +38 điểm (Từ vòng quay cộng)\n[4/7] [15:59] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:23] +7 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:27] +8 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:29] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:37] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:42] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:54] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:07] +3 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:07] +1 điểm (Cộng nhanh bằng phím số)",
-      "badges": [],
-      "totalSessions": 6,
-      "totalFee": 960000,
+      "scoreHistory": "[4/7] [14:18] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:49] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:04] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:04] +3 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:22] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:39] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:56] +38 điểm (Từ vòng quay cộng)\n[4/7] [15:59] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:23] +7 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:27] +8 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:29] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:37] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:42] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:54] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:07] +3 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:07] +1 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:45] +20 điểm (Tư duy tốt)\n[11/7] [15:48] +50 điểm (Từ vòng quay cộng)\n[11/7] [16:05] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:14] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:20] +7 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:31] +20 điểm (Thái độ tốt)",
+      "badges": [
+        "Nhân vật nổi tiếng/ronaldo.webp"
+      ],
+      "totalSessions": 9,
+      "totalFee": 1440000,
       "attendanceDetails": [
         {
           "date": "11/7/2026",
@@ -921,19 +927,21 @@
           "notes": ""
         },
         "SEASON_DEFAULT_2026_07": {
-          "score": 123,
-          "scoreHistory": "[4/7] [14:18] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:49] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:04] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:04] +3 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:22] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:39] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:56] +38 điểm (Từ vòng quay cộng)\n[4/7] [15:59] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:23] +7 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:27] +8 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:29] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:37] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:42] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:54] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:07] +3 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:07] +1 điểm (Cộng nhanh bằng phím số)",
-          "badges": [],
-          "goodDeeds": "- [4/7/2026] Ý thức tốt",
+          "score": 245,
+          "scoreHistory": "[4/7] [14:18] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:49] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:04] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:04] +3 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:22] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:39] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:56] +38 điểm (Từ vòng quay cộng)\n[4/7] [15:59] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:23] +7 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:27] +8 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:29] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:37] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:42] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:54] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:07] +3 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:07] +1 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:45] +20 điểm (Tư duy tốt)\n[11/7] [15:48] +50 điểm (Từ vòng quay cộng)\n[11/7] [16:05] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:14] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:20] +7 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:31] +20 điểm (Thái độ tốt)",
+          "badges": [
+            "Nhân vật nổi tiếng/ronaldo.webp"
+          ],
+          "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [11/7/2026] Đi học chăm chỉ\n- [11/7/2026] Có tinh thần giúp đỡ bạn\n- [11/7/2026] DẤU ẤN XANH VIP PRO",
           "badDeeds": "",
           "gifts": "",
           "seasonName": "Tháng 7-8/2026",
           "notes": ""
         }
       },
-      "updatedBy": "DEVICE_1783754444927_cv6gwgzv",
+      "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 0
+      "updatedAt": 1783762349027
     },
     {
       "id": "HS_1781939491834",
@@ -2535,14 +2543,16 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "e21ifm5qdHpsZA==",
-      "score": 72,
+      "score": 161,
       "lichessId": "",
       "notes": "",
-      "goodDeeds": "- [5/7/2026] Chăm chỉ làm bài tập",
+      "goodDeeds": "- [5/7/2026] Chăm chỉ làm bài tập\n- [11/7/2026] Đi học chăm chỉ\n- [11/7/2026] Có tinh thần giúp đỡ bạn\n- [11/7/2026] Thông minh bất ngờ\n- [11/7/2026] DẤU ẤN XANH VIP PRO",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[5/7] [14:36] +10 điểm (đi học)\n[5/7] [14:37] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:37] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:47] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:57] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:20] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:38] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:43] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:46] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:51] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:02] +2 điểm (Cả lớp ngoan)\n[5/7] [16:09] +2 điểm (Cả lớp ngoan)\n[5/7] [16:31] +10 điểm (nhiệm vụ tốt)\n[11/7] [15:02] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:10] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:28] +10 điểm (Cộng nhanh bằng phím số)",
-      "badges": [],
+      "scoreHistory": "[5/7] [14:36] +10 điểm (đi học)\n[5/7] [14:37] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:37] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:47] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:57] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:20] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:38] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:43] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:46] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:51] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:02] +2 điểm (Cả lớp ngoan)\n[5/7] [16:09] +2 điểm (Cả lớp ngoan)\n[5/7] [16:31] +10 điểm (nhiệm vụ tốt)\n[11/7] [15:02] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:10] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:28] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:45] +20 điểm (Tư duy tốt)\n[11/7] [16:14] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:17] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:31] +20 điểm (Thái độ tốt)",
+      "badges": [
+        "Nhân vật nổi tiếng/200.webp"
+      ],
       "totalSessions": 2,
       "totalFee": 320000,
       "attendanceDetails": [
@@ -2564,10 +2574,12 @@
       "classesListStr": "Thái Hà Thứ 7, Thái Hà Chủ Nhật 14h",
       "seasons": {
         "SEASON_DEFAULT_2026_07": {
-          "score": 91,
-          "scoreHistory": "[5/7] [14:36] +10 điểm (đi học)\n[5/7] [14:37] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:37] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:47] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:57] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:20] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:38] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:43] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:46] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:51] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:02] +2 điểm (Cả lớp ngoan)\n[5/7] [16:09] +2 điểm (Cả lớp ngoan)\n[5/7] [16:31] +10 điểm (nhiệm vụ tốt)\n[11/7] [15:02] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:10] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:28] +10 điểm (Cộng nhanh bằng phím số)",
-          "badges": [],
-          "goodDeeds": "- [5/7/2026] Chăm chỉ làm bài tập",
+          "score": 161,
+          "scoreHistory": "[5/7] [14:36] +10 điểm (đi học)\n[5/7] [14:37] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:37] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:47] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:57] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:20] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:38] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:43] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:46] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:51] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:02] +2 điểm (Cả lớp ngoan)\n[5/7] [16:09] +2 điểm (Cả lớp ngoan)\n[5/7] [16:31] +10 điểm (nhiệm vụ tốt)\n[11/7] [15:02] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:10] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:28] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:45] +20 điểm (Tư duy tốt)\n[11/7] [16:14] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:17] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:31] +20 điểm (Thái độ tốt)",
+          "badges": [
+            "Nhân vật nổi tiếng/200.webp"
+          ],
+          "goodDeeds": "- [5/7/2026] Chăm chỉ làm bài tập\n- [11/7/2026] Đi học chăm chỉ\n- [11/7/2026] Có tinh thần giúp đỡ bạn\n- [11/7/2026] Thông minh bất ngờ\n- [11/7/2026] DẤU ẤN XANH VIP PRO",
           "badDeeds": "",
           "gifts": "",
           "seasonName": "Tháng 7-8/2026",
@@ -2576,7 +2588,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 0
+      "updatedAt": 1783762349026
     },
     {
       "id": "HS_1778416002830",
@@ -3913,16 +3925,18 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "",
-      "score": 63,
+      "score": 251,
       "lichessId": "",
       "notes": "Gạo",
-      "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [4/7/2026] Hăng hái",
+      "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [4/7/2026] Hăng hái\n- [11/7/2026] Đi học chăm chỉ\n- [11/7/2026] Có tinh thần giúp đỡ bạn\n- [11/7/2026] DẤU ẤN XANH VIP PRO",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[4/7] [14:15] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:22] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:34] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:43] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:59] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:06] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:11] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:19] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:20] +1 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:33] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:27] +3 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:28] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:28] +8 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:36] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:49] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:58] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:31] +5 điểm (Cộng nhanh bằng phím số)",
-      "badges": [],
-      "totalSessions": 6,
-      "totalFee": 960000,
+      "scoreHistory": "[4/7] [14:15] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:22] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:34] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:43] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:59] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:06] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:11] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:19] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:20] +1 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:33] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:27] +3 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:28] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:28] +8 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:36] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:49] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:58] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:31] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:45] +20 điểm (Tư duy tốt)\n[11/7] [15:52] +1 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:52] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:52] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:14] +100 điểm (Cộng điểm)\n[11/7] [16:17] +3 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:31] +20 điểm (Thái độ tốt)",
+      "badges": [
+        "Nhân vật nổi tiếng/ronaldo.webp"
+      ],
+      "totalSessions": 9,
+      "totalFee": 1440000,
       "attendanceDetails": [
         {
           "date": "11/7/2026",
@@ -4015,19 +4029,21 @@
           "notes": ""
         },
         "SEASON_DEFAULT_2026_07": {
-          "score": 92,
-          "scoreHistory": "[4/7] [14:15] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:22] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:34] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:43] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:59] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:06] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:11] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:19] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:20] +1 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:33] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:27] +3 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:28] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:28] +8 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:36] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:49] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:58] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:31] +5 điểm (Cộng nhanh bằng phím số)",
-          "badges": [],
-          "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [4/7/2026] Hăng hái",
+          "score": 251,
+          "scoreHistory": "[4/7] [14:15] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:22] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:34] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:43] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:59] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:06] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:11] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:19] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:20] +1 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:33] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:27] +3 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:28] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:28] +8 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:36] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:49] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:58] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:31] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:45] +20 điểm (Tư duy tốt)\n[11/7] [15:52] +1 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:52] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:52] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:14] +100 điểm (Cộng điểm)\n[11/7] [16:17] +3 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:31] +20 điểm (Thái độ tốt)",
+          "badges": [
+            "Nhân vật nổi tiếng/ronaldo.webp"
+          ],
+          "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [4/7/2026] Hăng hái\n- [11/7/2026] Đi học chăm chỉ\n- [11/7/2026] Có tinh thần giúp đỡ bạn\n- [11/7/2026] DẤU ẤN XANH VIP PRO",
           "badDeeds": "",
           "gifts": "",
           "seasonName": "Tháng 7-8/2026",
           "notes": ""
         }
       },
-      "updatedBy": "DEVICE_1783754444927_cv6gwgzv",
+      "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 0
+      "updatedAt": 1783762349027
     },
     {
       "id": "HS_1779023595842",
@@ -4156,18 +4172,20 @@
       "name": "Gia Bảo",
       "birthYear": "2015",
       "school": "",
-      "phoneDad": "",
+      "phoneDad": "e21idGxgcnFtag==",
       "phoneMom": "",
-      "score": 106,
+      "score": 252,
       "lichessId": "",
       "notes": "",
-      "goodDeeds": "- [4/7/2026] Ý thức tốt",
+      "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [11/7/2026] Đi học chăm chỉ\n- [11/7/2026] Có tinh thần giúp đỡ bạn\n- [11/7/2026] DẤU ẤN XANH VIP PRO",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[4/7] [14:15] +5 điểm (Cộng nhanh)\n[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:38] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:46] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:51] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:01] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:09] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:25] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:46] +8 điểm (Cộng nhanh)\n[4/7] [15:59] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:07] +7 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:20] +30 điểm (Cộng điểm)\n[4/7] [16:24] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [12:16] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:27] +9 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:27] +1 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:29] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:37] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:49] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:02] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:32] +5 điểm (Cộng nhanh bằng phím số)",
-      "badges": [],
-      "totalSessions": 5,
-      "totalFee": 800000,
+      "scoreHistory": "[4/7] [14:15] +5 điểm (Cộng nhanh)\n[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:38] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:46] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:51] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:01] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:09] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:25] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:46] +8 điểm (Cộng nhanh)\n[4/7] [15:59] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:07] +7 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:20] +30 điểm (Cộng điểm)\n[4/7] [16:24] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [12:16] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:27] +9 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:27] +1 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:29] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:37] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:49] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:02] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:32] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:45] +20 điểm (Tư duy tốt)\n[11/7] [15:51] +1 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:01] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:13] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:20] +6 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:24] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:27] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:29] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:31] +20 điểm (Thái độ tốt)",
+      "badges": [
+        "Nhân vật nổi tiếng/ronaldo.webp"
+      ],
+      "totalSessions": 8,
+      "totalFee": 1280000,
       "attendanceDetails": [
         {
           "date": "11/7/2026",
@@ -4251,19 +4269,21 @@
           "notes": ""
         },
         "SEASON_DEFAULT_2026_07": {
-          "score": 150,
-          "scoreHistory": "[4/7] [14:15] +5 điểm (Cộng nhanh)\n[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:38] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:46] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:51] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:01] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:09] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:25] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:46] +8 điểm (Cộng nhanh)\n[4/7] [15:59] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:07] +7 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:20] +30 điểm (Cộng điểm)\n[4/7] [16:24] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:27] +9 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:27] +1 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:29] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:37] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:49] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:02] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:32] +5 điểm (Cộng nhanh bằng phím số)",
-          "badges": [],
-          "goodDeeds": "- [4/7/2026] Ý thức tốt",
+          "score": 252,
+          "scoreHistory": "[4/7] [14:15] +5 điểm (Cộng nhanh)\n[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:38] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:46] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:51] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:01] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:09] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:25] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:46] +8 điểm (Cộng nhanh)\n[4/7] [15:59] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:07] +7 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:20] +30 điểm (Cộng điểm)\n[4/7] [16:24] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:27] +9 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:27] +1 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:29] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:37] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:49] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:02] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:32] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:45] +20 điểm (Tư duy tốt)\n[11/7] [15:51] +1 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:01] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:13] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:20] +6 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:24] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:27] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:29] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:31] +20 điểm (Thái độ tốt)",
+          "badges": [
+            "Nhân vật nổi tiếng/ronaldo.webp"
+          ],
+          "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [11/7/2026] Đi học chăm chỉ\n- [11/7/2026] Có tinh thần giúp đỡ bạn\n- [11/7/2026] DẤU ẤN XANH VIP PRO",
           "badDeeds": "",
           "gifts": "",
           "seasonName": "Tháng 7-8/2026",
           "notes": ""
         }
       },
-      "updatedBy": "DEVICE_1783754444927_cv6gwgzv",
+      "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 0
+      "updatedAt": 1783762349027
     },
     {
       "id": "HS_1781866940382",
@@ -9141,16 +9161,18 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "",
-      "score": 62,
+      "score": 265,
       "lichessId": "",
       "notes": "",
-      "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [4/7/2026] Hăng hái",
+      "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [4/7/2026] Hăng hái\n- [11/7/2026] Đi học chăm chỉ\n- [11/7/2026] Có tinh thần giúp đỡ bạn\n- [11/7/2026] DẤU ẤN XANH VIP PRO",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:42] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:03] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:04] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:17] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:35] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:39] +5 điểm (Cộng nhanh)\n[4/7] [16:20] +10 điểm (Cộng nhanh)\n[4/7] [16:29] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:27] +5 điểm (Cộng nhanh bằng phím số)",
-      "badges": [],
-      "totalSessions": 6,
-      "totalFee": 960000,
+      "scoreHistory": "[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:42] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:03] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:04] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:17] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:35] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:39] +5 điểm (Cộng nhanh)\n[4/7] [16:20] +10 điểm (Cộng nhanh)\n[4/7] [16:29] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:27] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:45] +20 điểm (Tư duy tốt)\n[11/7] [15:49] +38 điểm (Từ vòng quay cộng)\n[11/7] [15:52] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:14] +100 điểm (Cộng điểm)\n[11/7] [16:16] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:31] +20 điểm (Thái độ tốt)",
+      "badges": [
+        "Nhân vật nổi tiếng/ronaldo.webp"
+      ],
+      "totalSessions": 9,
+      "totalFee": 1440000,
       "attendanceDetails": [
         {
           "date": "11/7/2026",
@@ -9243,19 +9265,21 @@
           "notes": ""
         },
         "SEASON_DEFAULT_2026_07": {
-          "score": 72,
-          "scoreHistory": "[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:42] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:03] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:04] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:17] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:35] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:39] +5 điểm (Cộng nhanh)\n[4/7] [16:20] +10 điểm (Cộng nhanh)\n[4/7] [16:29] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:27] +5 điểm (Cộng nhanh bằng phím số)",
-          "badges": [],
-          "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [4/7/2026] Hăng hái",
+          "score": 265,
+          "scoreHistory": "[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:42] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:03] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:04] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:17] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:35] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:39] +5 điểm (Cộng nhanh)\n[4/7] [16:20] +10 điểm (Cộng nhanh)\n[4/7] [16:29] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:27] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:45] +20 điểm (Tư duy tốt)\n[11/7] [15:49] +38 điểm (Từ vòng quay cộng)\n[11/7] [15:52] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:14] +100 điểm (Cộng điểm)\n[11/7] [16:16] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:31] +20 điểm (Thái độ tốt)",
+          "badges": [
+            "Nhân vật nổi tiếng/ronaldo.webp"
+          ],
+          "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [4/7/2026] Hăng hái\n- [11/7/2026] Đi học chăm chỉ\n- [11/7/2026] Có tinh thần giúp đỡ bạn\n- [11/7/2026] DẤU ẤN XANH VIP PRO",
           "badDeeds": "",
           "gifts": "",
           "seasonName": "Tháng 7-8/2026",
           "notes": ""
         }
       },
-      "updatedBy": "DEVICE_1783754444927_cv6gwgzv",
+      "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 0
+      "updatedAt": 1783762349027
     },
     {
       "id": "HS_1782304515936",
@@ -10026,16 +10050,18 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "",
-      "score": 75,
+      "score": 250,
       "lichessId": "",
       "notes": "",
-      "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [4/7/2026] Hăng hái",
+      "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [4/7/2026] Hăng hái\n- [11/7/2026] Đi học chăm chỉ\n- [11/7/2026] Có tinh thần giúp đỡ bạn\n- [11/7/2026] DẤU ẤN XANH VIP PRO",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:22] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:34] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:51] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:06] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:18] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:37] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:01] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:20] +20 điểm (Cộng điểm)\n[4/7] [16:26] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:27] +8 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:30] +5 điểm (Cộng nhanh bằng phím số)",
-      "badges": [],
-      "totalSessions": 2,
-      "totalFee": 320000,
+      "scoreHistory": "[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:22] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:34] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:51] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:06] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:18] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:37] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:01] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:20] +20 điểm (Cộng điểm)\n[4/7] [16:26] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:27] +8 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:30] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:45] +20 điểm (Tư duy tốt)\n[11/7] [15:54] +84 điểm (Từ vòng quay cộng)\n[11/7] [16:03] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:14] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:23] +3 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:24] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:31] +20 điểm (Thái độ tốt)",
+      "badges": [
+        "Kiếm hoạt hình/bich-lan-doc-vuong-kiem-limited.webp"
+      ],
+      "totalSessions": 4,
+      "totalFee": 640000,
       "attendanceDetails": [
         {
           "date": "11/7/2026",
@@ -10083,19 +10109,21 @@
           "notes": ""
         },
         "SEASON_DEFAULT_2026_07": {
-          "score": 88,
-          "scoreHistory": "[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:22] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:34] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:51] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:06] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:18] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:37] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:01] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:20] +20 điểm (Cộng điểm)\n[4/7] [16:26] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:27] +8 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:30] +5 điểm (Cộng nhanh bằng phím số)",
-          "badges": [],
-          "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [4/7/2026] Hăng hái",
+          "score": 250,
+          "scoreHistory": "[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:22] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:34] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:51] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:06] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:18] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:37] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:01] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:20] +20 điểm (Cộng điểm)\n[4/7] [16:26] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:27] +8 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:30] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:45] +20 điểm (Tư duy tốt)\n[11/7] [15:54] +84 điểm (Từ vòng quay cộng)\n[11/7] [16:03] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:14] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:23] +3 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:24] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:31] +20 điểm (Thái độ tốt)",
+          "badges": [
+            "Kiếm hoạt hình/bich-lan-doc-vuong-kiem-limited.webp"
+          ],
+          "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [4/7/2026] Hăng hái\n- [11/7/2026] Đi học chăm chỉ\n- [11/7/2026] Có tinh thần giúp đỡ bạn\n- [11/7/2026] DẤU ẤN XANH VIP PRO",
           "badDeeds": "",
           "gifts": "",
           "seasonName": "Tháng 7-8/2026",
           "notes": ""
         }
       },
-      "updatedBy": "DEVICE_1783754444927_cv6gwgzv",
+      "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 0
+      "updatedAt": 1783762349027
     },
     {
       "id": "HS_1782564514434",
@@ -11691,16 +11719,18 @@
       "school": "THCS Thái Thịnh",
       "phoneDad": "",
       "phoneMom": "e21nem9lfHtsag==",
-      "score": 443,
+      "score": 255,
       "lichessId": "",
       "notes": "Lớp 8",
-      "goodDeeds": "- [17/5/2026] Thực hiện nhiệm vụ tốt\n- [24/5/2026] Thực hiện nhiệm vụ tốt\n- [24/5/2026] DẤU ẤN XANH VIP PRO\n- [30/5/2026] Ngoan ngoãn\n- [20/6/2026] Thực hiện nhiệm vụ tốt\n- [20/6/2026] Ý thức tốt\n- [20/6/2026] Chăm chỉ làm bài tập\n- [21/6/2026] Thông minh bất ngờ\n- [21/6/2026] DẤU ẤN XANH VIP PRO\n- [28/6/2026] Ý thức tốt\n- [28/6/2026] Hăng hái\n- [5/7/2026] Chăm chỉ làm bài tập",
+      "goodDeeds": "- [17/5/2026] Thực hiện nhiệm vụ tốt\n- [24/5/2026] Thực hiện nhiệm vụ tốt\n- [24/5/2026] DẤU ẤN XANH VIP PRO\n- [30/5/2026] Ngoan ngoãn\n- [20/6/2026] Thực hiện nhiệm vụ tốt\n- [20/6/2026] Ý thức tốt\n- [20/6/2026] Chăm chỉ làm bài tập\n- [21/6/2026] Thông minh bất ngờ\n- [21/6/2026] DẤU ẤN XANH VIP PRO\n- [28/6/2026] Ý thức tốt\n- [28/6/2026] Hăng hái\n- [5/7/2026] Chăm chỉ làm bài tập\n- [11/7/2026] Đi học chăm chỉ\n- [11/7/2026] Có tinh thần giúp đỡ bạn\n- [11/7/2026] DẤU ẤN XANH VIP PRO",
       "badDeeds": "- [23/5/2026] Thái độ chưa tốt\n- [24/5/2026] Nói bậy/ nói hư\n- [30/5/2026] Nói bậy/ nói hư\n- [28/6/2026] nói linh tinh",
       "gifts": "- [24/5/2026] Ếch nhảy\n[21/6/2026] [16:11] Dấu ấn xanh VIP PRO (Từ vòng quay)\n[21/6/2026] [16:13] Danh hiệu VIP (Từ vòng quay)",
-      "scoreHistory": "[5/7] [14:36] +10 điểm (đi học)\n[5/7] [14:37] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:47] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:54] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:20] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:53] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:02] +2 điểm (Cả lớp ngoan)\n[5/7] [16:03] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:06] +7 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:07] -14 điểm (Trừ điểm)\n[5/7] [16:09] +2 điểm (Cả lớp ngoan)\n[5/7] [16:16] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:27] +7 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:30] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:31] +10 điểm (nhiệm vụ tốt)\n[16/5] [14:15] +37 điểm (Cộng điểm)\n[16/5] [14:20] -1 điểm (Trừ điểm)\n[16/5] [14:31] +1 điểm (Cộng điểm)\n[16/5] [14:35] +5 điểm (đi học chăm)\n[16/5] [14:50] +2 điểm (Cộng điểm)\n[16/5] [14:55] +2 điểm (Ý thức tốt)\n[16/5] [15:21] +2 điểm (Cộng điểm)\n[16/5] [16:25] +1 điểm (thông minh)\n[16/5] [16:31] +1 điểm (Cộng điểm)\n[16/5] [16:33] +5 điểm (nhiệm vụ tốt)\n[17/5] [16:05] +5 điểm (đi học chăm)\n[17/5] [16:28] +1 điểm (Cộng điểm)\n[17/5] [16:34] +5 điểm (nhiệm vụ tốt)\n[23/5] [14:27] +2 điểm (Cộng nhanh)\n[23/5] [14:35] +2 điểm (Cộng nhanh)\n[23/5] [14:59] +2 điểm (Cộng nhanh)\n[23/5] [15:11] +3 điểm (Cộng nhanh)\n[23/5] [15:21] +1 điểm (Cộng nhanh)\n[23/5] [15:47] +4 điểm (Cộng nhanh)\n[23/5] [15:49] +-5 điểm (Cả lớp ngoan)\n[23/5] [15:59] +5 điểm (Cả lớp ngoan)\n[23/5] [16:19] +1 điểm (Cộng nhanh)\n[23/5] [16:35] +5 điểm (nhiệm vụ tốt)\n[24/5] [14:46] +5 điểm (đi học chăm)\n[24/5] [14:50] +2 điểm (Cộng nhanh)\n[24/5] [14:57] +1 điểm (Cộng nhanh)\n[24/5] [15:24] +3 điểm (Cộng nhanh)\n[24/5] [16:03] +2 điểm (Cộng nhanh)\n[24/5] [16:24] +1 điểm (Cộng nhanh)\n[24/5] [16:33] +5 điểm (nhiệm vụ tốt)\n[30/5] [14:19] +2 điểm (Cộng nhanh)\n[30/5] [14:31] +5 điểm (đi học chăm)\n[30/5] [14:34] +3 điểm (Cộng nhanh)\n[30/5] [15:03] +2 điểm (Cộng nhanh)\n[30/5] [15:16] +3 điểm (Cộng nhanh)\n[30/5] [15:51] +1 điểm (Cộng nhanh)\n[30/5] [16:04] +1 điểm (bu)\n[30/5] [16:14] +1 điểm (Cả lớp ngoan)\n[30/5] [16:20] +2 điểm (Bon gansh team)\n[30/5] [16:22] +5 điểm (Bon ganh het ca lop)\n[30/5] [16:32] +5 điểm (nhiệm vụ tốt)\n[20/6] [14:30] +4 điểm (Cộng nhanh)\n[20/6] [15:42] +10 điểm (Cộng nhanh)\n[20/6] [15:54] +10 điểm (Cộng nhanh)\n[20/6] [16:16] +5 điểm (Cộng nhanh)\n[20/6] [16:26] +5 điểm (Cộng nhanh)\n[20/6] [16:32] +10 điểm (nhiệm vụ tốt)\n[21/6] [14:14] +4 điểm (Cộng nhanh)\n[21/6] [15:14] +10 điểm (Cộng nhanh)\n[21/6] [15:14] +2 điểm (Cộng nhanh)\n[21/6] [15:17] +10 điểm (đi học ngoan)\n[21/6] [15:27] +5 điểm (Cộng nhanh)\n[21/6] [15:33] +5 điểm (Cộng nhanh)\n[21/6] [15:42] +5 điểm (Cộng nhanh)\n[21/6] [15:48] +5 điểm (Cộng nhanh)\n[21/6] [16:12] +83 điểm (Từ vòng quay cộng)\n[21/6] [16:31] +10 điểm (nhiệm vụ tốt)\n[28/6] [15:42] +5 điểm (Cộng nhanh)\n[28/6] [15:55] +4 điểm (Cộng nhanh)\n[28/6] [16:05] +20 điểm (đi học chăm)\n[28/6] [16:25] +10 điểm (Cộng nhanh)\n[28/6] [16:30] +20 điểm (Cộng nhanh)\n[11/7] [14:28] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:36] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:10] +4 điểm (Cộng nhanh bằng phím số)",
-      "badges": [],
-      "totalSessions": 5,
-      "totalFee": 800000,
+      "scoreHistory": "[5/7] [14:36] +10 điểm (đi học)\n[5/7] [14:37] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:47] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:54] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:20] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:53] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:02] +2 điểm (Cả lớp ngoan)\n[5/7] [16:03] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:06] +7 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:07] -14 điểm (Trừ điểm)\n[5/7] [16:09] +2 điểm (Cả lớp ngoan)\n[5/7] [16:16] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:27] +7 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:30] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:31] +10 điểm (nhiệm vụ tốt)\n[16/5] [14:15] +37 điểm (Cộng điểm)\n[16/5] [14:20] -1 điểm (Trừ điểm)\n[16/5] [14:31] +1 điểm (Cộng điểm)\n[16/5] [14:35] +5 điểm (đi học chăm)\n[16/5] [14:50] +2 điểm (Cộng điểm)\n[16/5] [14:55] +2 điểm (Ý thức tốt)\n[16/5] [15:21] +2 điểm (Cộng điểm)\n[16/5] [16:25] +1 điểm (thông minh)\n[16/5] [16:31] +1 điểm (Cộng điểm)\n[16/5] [16:33] +5 điểm (nhiệm vụ tốt)\n[17/5] [16:05] +5 điểm (đi học chăm)\n[17/5] [16:28] +1 điểm (Cộng điểm)\n[17/5] [16:34] +5 điểm (nhiệm vụ tốt)\n[23/5] [14:27] +2 điểm (Cộng nhanh)\n[23/5] [14:35] +2 điểm (Cộng nhanh)\n[23/5] [14:59] +2 điểm (Cộng nhanh)\n[23/5] [15:11] +3 điểm (Cộng nhanh)\n[23/5] [15:21] +1 điểm (Cộng nhanh)\n[23/5] [15:47] +4 điểm (Cộng nhanh)\n[23/5] [15:49] +-5 điểm (Cả lớp ngoan)\n[23/5] [15:59] +5 điểm (Cả lớp ngoan)\n[23/5] [16:19] +1 điểm (Cộng nhanh)\n[23/5] [16:35] +5 điểm (nhiệm vụ tốt)\n[24/5] [14:46] +5 điểm (đi học chăm)\n[24/5] [14:50] +2 điểm (Cộng nhanh)\n[24/5] [14:57] +1 điểm (Cộng nhanh)\n[24/5] [15:24] +3 điểm (Cộng nhanh)\n[24/5] [16:03] +2 điểm (Cộng nhanh)\n[24/5] [16:24] +1 điểm (Cộng nhanh)\n[24/5] [16:33] +5 điểm (nhiệm vụ tốt)\n[30/5] [14:19] +2 điểm (Cộng nhanh)\n[30/5] [14:31] +5 điểm (đi học chăm)\n[30/5] [14:34] +3 điểm (Cộng nhanh)\n[30/5] [15:03] +2 điểm (Cộng nhanh)\n[30/5] [15:16] +3 điểm (Cộng nhanh)\n[30/5] [15:51] +1 điểm (Cộng nhanh)\n[30/5] [16:04] +1 điểm (bu)\n[30/5] [16:14] +1 điểm (Cả lớp ngoan)\n[30/5] [16:20] +2 điểm (Bon gansh team)\n[30/5] [16:22] +5 điểm (Bon ganh het ca lop)\n[30/5] [16:32] +5 điểm (nhiệm vụ tốt)\n[20/6] [14:30] +4 điểm (Cộng nhanh)\n[20/6] [15:42] +10 điểm (Cộng nhanh)\n[20/6] [15:54] +10 điểm (Cộng nhanh)\n[20/6] [16:16] +5 điểm (Cộng nhanh)\n[20/6] [16:26] +5 điểm (Cộng nhanh)\n[20/6] [16:32] +10 điểm (nhiệm vụ tốt)\n[21/6] [14:14] +4 điểm (Cộng nhanh)\n[21/6] [15:14] +10 điểm (Cộng nhanh)\n[21/6] [15:14] +2 điểm (Cộng nhanh)\n[21/6] [15:17] +10 điểm (đi học ngoan)\n[21/6] [15:27] +5 điểm (Cộng nhanh)\n[21/6] [15:33] +5 điểm (Cộng nhanh)\n[21/6] [15:42] +5 điểm (Cộng nhanh)\n[21/6] [15:48] +5 điểm (Cộng nhanh)\n[21/6] [16:12] +83 điểm (Từ vòng quay cộng)\n[21/6] [16:31] +10 điểm (nhiệm vụ tốt)\n[28/6] [15:42] +5 điểm (Cộng nhanh)\n[28/6] [15:55] +4 điểm (Cộng nhanh)\n[28/6] [16:05] +20 điểm (đi học chăm)\n[28/6] [16:25] +10 điểm (Cộng nhanh)\n[28/6] [16:30] +20 điểm (Cộng nhanh)\n[11/7] [14:28] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:36] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:10] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:45] +20 điểm (Tư duy tốt)\n[11/7] [15:54] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:02] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:14] +100 điểm (Cộng điểm)\n[11/7] [16:16] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:24] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:31] +20 điểm (Thái độ tốt)",
+      "badges": [
+        "Khác/logo kttl 250 250.png"
+      ],
+      "totalSessions": 8,
+      "totalFee": 1280000,
       "attendanceDetails": [
         {
           "date": "11/7/2026",
@@ -11790,19 +11820,21 @@
           "notes": ""
         },
         "SEASON_DEFAULT_2026_07": {
-          "score": 80,
-          "scoreHistory": "[5/7] [14:36] +10 điểm (đi học)\n[5/7] [14:37] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:47] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:54] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:20] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:53] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:02] +2 điểm (Cả lớp ngoan)\n[5/7] [16:03] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:06] +7 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:07] -14 điểm (Trừ điểm)\n[5/7] [16:09] +2 điểm (Cả lớp ngoan)\n[5/7] [16:16] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:27] +7 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:30] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:31] +10 điểm (nhiệm vụ tốt)\n[11/7] [14:28] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:36] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:10] +4 điểm (Cộng nhanh bằng phím số)",
-          "badges": [],
-          "goodDeeds": "- [5/7/2026] Chăm chỉ làm bài tập",
+          "score": 255,
+          "scoreHistory": "[5/7] [14:36] +10 điểm (đi học)\n[5/7] [14:37] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:47] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [14:54] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:20] +4 điểm (Cộng nhanh bằng phím số)\n[5/7] [15:53] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:02] +2 điểm (Cả lớp ngoan)\n[5/7] [16:03] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:06] +7 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:07] -14 điểm (Trừ điểm)\n[5/7] [16:09] +2 điểm (Cả lớp ngoan)\n[5/7] [16:16] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:27] +7 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:30] +5 điểm (Cộng nhanh bằng phím số)\n[5/7] [16:31] +10 điểm (nhiệm vụ tốt)\n[11/7] [14:28] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:36] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:10] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:45] +20 điểm (Tư duy tốt)\n[11/7] [15:54] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:02] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:14] +100 điểm (Cộng điểm)\n[11/7] [16:16] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:24] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:31] +20 điểm (Thái độ tốt)",
+          "badges": [
+            "Khác/logo kttl 250 250.png"
+          ],
+          "goodDeeds": "- [5/7/2026] Chăm chỉ làm bài tập\n- [11/7/2026] Đi học chăm chỉ\n- [11/7/2026] Có tinh thần giúp đỡ bạn\n- [11/7/2026] DẤU ẤN XANH VIP PRO",
           "badDeeds": "",
           "gifts": "",
           "seasonName": "Tháng 7-8/2026",
           "notes": ""
         }
       },
-      "updatedBy": "DEVICE_1783754444927_cv6gwgzv",
+      "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 0
+      "updatedAt": 1783762349026
     },
     {
       "id": "HS_1781867287279",
@@ -11861,16 +11893,18 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "",
-      "score": 0,
+      "score": 154,
       "lichessId": "",
       "notes": "Nôbel",
-      "goodDeeds": "",
+      "goodDeeds": "- [11/7/2026] Đi học chăm chỉ\n- [11/7/2026] Có tinh thần giúp đỡ bạn\n- [11/7/2026] DẤU ẤN XANH VIP PRO",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[11/7] [14:30] +64 điểm (Cộng điểm)",
-      "badges": [],
-      "totalSessions": 5,
-      "totalFee": 800000,
+      "scoreHistory": "[11/7] [14:30] +64 điểm (Cộng điểm)\n[11/7] [15:45] +20 điểm (Tư duy tốt)\n[11/7] [15:55] +8 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:55] +1 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:14] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:18] +3 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:26] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:31] +20 điểm (Thái độ tốt)",
+      "badges": [
+        "Nhân vật nổi tiếng/ronaldo.webp"
+      ],
+      "totalSessions": 6,
+      "totalFee": 960000,
       "attendanceDetails": [
         {
           "date": "11/7/2026",
@@ -11936,19 +11970,21 @@
           "notes": ""
         },
         "SEASON_DEFAULT_2026_07": {
-          "score": 64,
-          "scoreHistory": "[11/7] [14:30] +64 điểm (Cộng điểm)",
-          "badges": [],
-          "goodDeeds": "",
+          "score": 154,
+          "scoreHistory": "[11/7] [14:30] +64 điểm (Cộng điểm)\n[11/7] [15:45] +20 điểm (Tư duy tốt)\n[11/7] [15:55] +8 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:55] +1 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:14] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:18] +3 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:26] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:31] +20 điểm (Thái độ tốt)",
+          "badges": [
+            "Nhân vật nổi tiếng/ronaldo.webp"
+          ],
+          "goodDeeds": "- [11/7/2026] Đi học chăm chỉ\n- [11/7/2026] Có tinh thần giúp đỡ bạn\n- [11/7/2026] DẤU ẤN XANH VIP PRO",
           "badDeeds": "",
           "gifts": "",
           "seasonName": "Tháng 7-8/2026",
           "notes": ""
         }
       },
-      "updatedBy": "DEVICE_1783754444927_cv6gwgzv",
+      "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 0
+      "updatedAt": 1783762349027
     },
     {
       "id": "HS_1779073757160",
@@ -13387,18 +13423,20 @@
       "name": "Thành An",
       "birthYear": "2017",
       "school": "",
-      "phoneDad": "",
+      "phoneDad": "e21idGxgcnFtag==",
       "phoneMom": "",
-      "score": 103,
+      "score": 331,
       "lichessId": "",
       "notes": "",
-      "goodDeeds": "- [4/7/2026] Ý thức tốt",
+      "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [11/7/2026] Đi học chăm chỉ\n- [11/7/2026] Có tinh thần giúp đỡ bạn\n- [11/7/2026] DẤU ẤN XANH VIP PRO",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[4/7] [14:17] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:27] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:35] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:43] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:52] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:01] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:06] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:38] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:00] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:10] +7 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:20] +30 điểm (Cộng điểm)\n[4/7] [16:22] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:27] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:36] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:43] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:54] +5 điểm (Cộng nhanh bằng phím số)",
-      "badges": [],
-      "totalSessions": 5,
-      "totalFee": 800000,
+      "scoreHistory": "[4/7] [14:17] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:27] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:35] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:43] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:52] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:01] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:06] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:38] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:00] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:10] +7 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:20] +30 điểm (Cộng điểm)\n[4/7] [16:22] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:27] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:36] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:43] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:54] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:45] +20 điểm (Tư duy tốt)\n[11/7] [15:49] +29 điểm (Từ vòng quay cộng)\n[11/7] [15:51] +1 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:03] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:14] +100 điểm (Cộng điểm)\n[11/7] [16:19] +6 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:24] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:26] +1 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:27] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:31] +20 điểm (Thái độ tốt)",
+      "badges": [
+        "Nhân vật nổi tiếng/ronaldo.webp"
+      ],
+      "totalSessions": 8,
+      "totalFee": 1280000,
       "attendanceDetails": [
         {
           "date": "11/7/2026",
@@ -13482,19 +13520,21 @@
           "notes": ""
         },
         "SEASON_DEFAULT_2026_07": {
-          "score": 129,
-          "scoreHistory": "[4/7] [14:17] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:27] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:35] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:43] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:52] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:01] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:06] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:38] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:00] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:10] +7 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:20] +30 điểm (Cộng điểm)\n[4/7] [16:22] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:27] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:36] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:43] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:54] +5 điểm (Cộng nhanh bằng phím số)",
-          "badges": [],
-          "goodDeeds": "- [4/7/2026] Ý thức tốt",
+          "score": 331,
+          "scoreHistory": "[4/7] [14:17] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:20] +10 điểm (Cả lớp ngoan)\n[4/7] [14:27] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:35] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:43] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [14:52] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:01] +4 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:06] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [15:38] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:00] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:10] +7 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:20] +30 điểm (Cộng điểm)\n[4/7] [16:22] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [16:33] +9 điểm (nhiệm vụ tốt)\n[11/7] [14:27] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:36] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:43] +4 điểm (Cộng nhanh bằng phím số)\n[11/7] [14:54] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [15:45] +20 điểm (Tư duy tốt)\n[11/7] [15:49] +29 điểm (Từ vòng quay cộng)\n[11/7] [15:51] +1 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:03] +5 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:14] +100 điểm (Cộng điểm)\n[11/7] [16:19] +6 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:24] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:26] +1 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:27] +10 điểm (Cộng nhanh bằng phím số)\n[11/7] [16:31] +20 điểm (Thái độ tốt)",
+          "badges": [
+            "Nhân vật nổi tiếng/ronaldo.webp"
+          ],
+          "goodDeeds": "- [4/7/2026] Ý thức tốt\n- [11/7/2026] Đi học chăm chỉ\n- [11/7/2026] Có tinh thần giúp đỡ bạn\n- [11/7/2026] DẤU ẤN XANH VIP PRO",
           "badDeeds": "",
           "gifts": "",
           "seasonName": "Tháng 7-8/2026",
           "notes": ""
         }
       },
-      "updatedBy": "DEVICE_1783754444927_cv6gwgzv",
+      "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 0
+      "updatedAt": 1783762349027
     },
     {
       "id": "HS_1782305114078",

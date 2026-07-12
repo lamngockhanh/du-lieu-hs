@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-07-12T09:32:38.969Z",
+  "generatedAt": "2026-07-12T12:02:16.737Z",
   "generatedBy": "DEVICE_1783759312607_s807db84",
-  "studentCount": 226,
+  "studentCount": 227,
   "pointSeasons": [
     {
       "id": "SEASON_1783040286559_gfgmc",
@@ -2926,17 +2926,22 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "e21sfm9hcHBnaw==",
-      "score": 0,
+      "score": 95,
       "lichessId": "",
       "notes": "",
-      "goodDeeds": "",
+      "goodDeeds": "- [12/7/2026] Đi học chăm chỉ",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "",
+      "scoreHistory": "[12/7] [17:56] +10 điểm (Ngoan ngoãn)\n[12/7] [17:56] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:22] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:38] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:39] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:40] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:46] +5 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:48] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)",
       "badges": [],
-      "totalSessions": 2,
-      "totalFee": 2,
+      "totalSessions": 3,
+      "totalFee": 3,
       "attendanceDetails": [
+        {
+          "date": "12/7/2026",
+          "className": "GAMUDA T7 CN",
+          "classId": "CLASS_1779007066151_6"
+        },
         {
           "date": "28/6/2026",
           "className": "GAMUDA T7 CN"
@@ -2959,10 +2964,10 @@
       "classesListStr": "GAMUDA T7 CN",
       "seasons": {
         "SEASON_DEFAULT_2026_07": {
-          "score": 0,
-          "scoreHistory": "",
+          "score": 95,
+          "scoreHistory": "[12/7] [17:56] +10 điểm (Ngoan ngoãn)\n[12/7] [17:56] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:22] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:38] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:39] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:40] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:46] +5 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:48] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)",
           "badges": [],
-          "goodDeeds": "",
+          "goodDeeds": "- [12/7/2026] Đi học chăm chỉ",
           "badDeeds": "",
           "gifts": "",
           "seasonName": "Tháng 7-8/2026",
@@ -2971,7 +2976,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 0
+      "updatedAt": 1783857734372
     },
     {
       "id": "HS_1782958752508",
@@ -7097,20 +7102,26 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "e21nfm1rc3BjYQ==",
-      "score": 41,
+      "score": 186,
       "lichessId": "",
       "notes": "",
-      "goodDeeds": "- [4/7/2026] Đi học chăm chỉ\n- [4/7/2026] Hăng hái\n- [16/5/2026] DẤU ẤN XANH VIP PRO\n- [30/5/2026] DẤU ẤN XANH VIP PRO",
+      "goodDeeds": "- [4/7/2026] Đi học chăm chỉ\n- [4/7/2026] Hăng hái\n- [16/5/2026] DẤU ẤN XANH VIP PRO\n- [30/5/2026] DẤU ẤN XANH VIP PRO\n- [12/7/2026] Đi học chăm chỉ\n- [12/7/2026] Hăng hái\n- [12/7/2026] DẤU ẤN XANH VIP PRO",
       "badDeeds": "- [16/5/2026] nhảy múa trong lớp",
       "gifts": "- [16/5/2026] Khủng Long\n- [30/5/2026] Sticker",
-      "scoreHistory": "[4/7] [17:48] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [18:03] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [18:03] +10 điểm (Cả lớp ngoan)\n[4/7] [18:20] -2 điểm (Cộng nhanh)\n[4/7] [18:26] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [18:26] -5 điểm (Cộng nhanh)\n[4/7] [18:33] -2 điểm (Cộng nhanh)\n[4/7] [18:33] +2 điểm (Cộng nhanh bằng phím số)\n[4/7] [18:44] +1 điểm (Cả lớp ngoan)\n[4/7] [18:53] +1 điểm (Cộng nhanh)\n[4/7] [19:02] +5 điểm (Cả lớp ngoan)\n[4/7] [19:02] +10 điểm (nhiệm vụ tốt)\n[9/5] [17:40] +77 điểm (Cộng điểm)\n[9/5] [17:55] +1 điểm (Không sợ thua)\n[9/5] [18:02] +2 điểm (Chơi cờ hay)\n[9/5] [18:10] +1 điểm (Không sợ thua)\n[9/5] [18:12] +2 điểm (Làm bài tập tốt)\n[9/5] [18:13] -1 điểm (đứng lên tự do trong lớp)\n[9/5] [18:30] +2 điểm (Chơi cờ hay)\n[9/5] [18:33] +4 điểm (Làm bài tập tốt)\n[9/5] [18:41] +1 điểm (Giải bài tập nhanh)\n[9/5] [18:52] +1 điểm (Cộng điểm)\n[16/5] [17:32] +5 điểm (đi học chăm)\n[16/5] [17:32] +2 điểm (Cộng điểm)\n[16/5] [17:38] +4 điểm (Làm bài tập tốt)\n[16/5] [17:44] +2 điểm (Làm bài tập tốt)\n[16/5] [17:49] +2 điểm (Cộng điểm)\n[16/5] [17:54] +1 điểm (Cộng điểm)\n[16/5] [17:59] +2 điểm (Cộng điểm)\n[16/5] [18:12] +1 điểm (Cộng điểm)\n[16/5] [18:59] +6 điểm (Cộng điểm)\n[16/5] [19:01] +5 điểm (Từ vòng quay cộng)\n[16/5] [19:02] +5 điểm (nhiệm vụ tốt)\n[23/5] [17:46] +5 điểm (học chăm)\n[23/5] [17:47] +3 điểm (Cộng nhanh)\n[23/5] [17:58] +2 điểm (Cộng nhanh)\n[23/5] [18:04] +2 điểm (Cộng nhanh)\n[23/5] [18:09] +2 điểm (Cộng nhanh)\n[23/5] [18:28] +3 điểm (Cộng nhanh)\n[23/5] [18:37] +3 điểm (Cộng nhanh)\n[23/5] [18:50] +3 điểm (Cộng nhanh)\n[23/5] [19:01] +9 điểm (Từ vòng quay cộng)\n[23/5] [19:02] +5 điểm (nhiệm vụ tốt)\n[30/5] [17:30] +5 điểm (đi học chăm)\n[30/5] [17:41] +3 điểm (Cộng nhanh)\n[30/5] [17:44] +3 điểm (Cộng nhanh)\n[30/5] [18:00] +6 điểm (Cộng điểm)\n[30/5] [18:07] +2 điểm (Cộng nhanh)\n[30/5] [18:13] +2 điểm (Cộng nhanh)\n[30/5] [18:20] +3 điểm (Cộng nhanh)\n[30/5] [18:46] +2 điểm (Cộng nhanh)\n[30/5] [18:56] +3 điểm (Cộng nhanh)\n[30/5] [19:01] +10 điểm (Từ vòng quay cộng)\n[30/5] [19:03] +5 điểm (nhiệm vụ tốt)",
+      "scoreHistory": "[4/7] [17:48] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [18:03] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [18:03] +10 điểm (Cả lớp ngoan)\n[4/7] [18:20] -2 điểm (Cộng nhanh)\n[4/7] [18:26] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [18:26] -5 điểm (Cộng nhanh)\n[4/7] [18:33] -2 điểm (Cộng nhanh)\n[4/7] [18:33] +2 điểm (Cộng nhanh bằng phím số)\n[4/7] [18:44] +1 điểm (Cả lớp ngoan)\n[4/7] [18:53] +1 điểm (Cộng nhanh)\n[4/7] [19:02] +5 điểm (Cả lớp ngoan)\n[4/7] [19:02] +10 điểm (nhiệm vụ tốt)\n[9/5] [17:40] +77 điểm (Cộng điểm)\n[9/5] [17:55] +1 điểm (Không sợ thua)\n[9/5] [18:02] +2 điểm (Chơi cờ hay)\n[9/5] [18:10] +1 điểm (Không sợ thua)\n[9/5] [18:12] +2 điểm (Làm bài tập tốt)\n[9/5] [18:13] -1 điểm (đứng lên tự do trong lớp)\n[9/5] [18:30] +2 điểm (Chơi cờ hay)\n[9/5] [18:33] +4 điểm (Làm bài tập tốt)\n[9/5] [18:41] +1 điểm (Giải bài tập nhanh)\n[9/5] [18:52] +1 điểm (Cộng điểm)\n[16/5] [17:32] +5 điểm (đi học chăm)\n[16/5] [17:32] +2 điểm (Cộng điểm)\n[16/5] [17:38] +4 điểm (Làm bài tập tốt)\n[16/5] [17:44] +2 điểm (Làm bài tập tốt)\n[16/5] [17:49] +2 điểm (Cộng điểm)\n[16/5] [17:54] +1 điểm (Cộng điểm)\n[16/5] [17:59] +2 điểm (Cộng điểm)\n[16/5] [18:12] +1 điểm (Cộng điểm)\n[16/5] [18:59] +6 điểm (Cộng điểm)\n[16/5] [19:01] +5 điểm (Từ vòng quay cộng)\n[16/5] [19:02] +5 điểm (nhiệm vụ tốt)\n[23/5] [17:46] +5 điểm (học chăm)\n[23/5] [17:47] +3 điểm (Cộng nhanh)\n[23/5] [17:58] +2 điểm (Cộng nhanh)\n[23/5] [18:04] +2 điểm (Cộng nhanh)\n[23/5] [18:09] +2 điểm (Cộng nhanh)\n[23/5] [18:28] +3 điểm (Cộng nhanh)\n[23/5] [18:37] +3 điểm (Cộng nhanh)\n[23/5] [18:50] +3 điểm (Cộng nhanh)\n[23/5] [19:01] +9 điểm (Từ vòng quay cộng)\n[23/5] [19:02] +5 điểm (nhiệm vụ tốt)\n[30/5] [17:30] +5 điểm (đi học chăm)\n[30/5] [17:41] +3 điểm (Cộng nhanh)\n[30/5] [17:44] +3 điểm (Cộng nhanh)\n[30/5] [18:00] +6 điểm (Cộng điểm)\n[30/5] [18:07] +2 điểm (Cộng nhanh)\n[30/5] [18:13] +2 điểm (Cộng nhanh)\n[30/5] [18:20] +3 điểm (Cộng nhanh)\n[30/5] [18:46] +2 điểm (Cộng nhanh)\n[30/5] [18:56] +3 điểm (Cộng nhanh)\n[30/5] [19:01] +10 điểm (Từ vòng quay cộng)\n[30/5] [19:03] +5 điểm (nhiệm vụ tốt)\n[12/7] [17:56] +10 điểm (Ngoan ngoãn)\n[12/7] [17:56] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:07] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:25] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:26] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:30] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:30] +5 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:35] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:36] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:37] -10 điểm (Cộng nhanh)\n[12/7] [18:38] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:39] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:44] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:46] +5 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:50] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)\n[12/7] [19:01] +5 điểm (Cộng nhanh bằng phím số)",
       "badges": [
         "Hoạt hình Trung Quốc/bang-hoa-luong-nghi-lien.webp",
-        "Hoạt hình Trung Quốc/diet-sinh-huyet-luan.webp"
+        "Hoạt hình Trung Quốc/diet-sinh-huyet-luan.webp",
+        "Nhân vật nổi tiếng/ronaldo.webp"
       ],
-      "totalSessions": 4,
-      "totalFee": 4,
+      "totalSessions": 8,
+      "totalFee": 8,
       "attendanceDetails": [
+        {
+          "date": "12/7/2026",
+          "className": "GAMUDA T7 CN",
+          "classId": "CLASS_1779007066151_6"
+        },
         {
           "date": "4/7/2026",
           "className": "GAMUDA T7 CN"
@@ -7191,19 +7202,21 @@
           "notes": ""
         },
         "SEASON_DEFAULT_2026_07": {
-          "score": 41,
-          "scoreHistory": "[4/7] [17:48] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [18:03] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [18:03] +10 điểm (Cả lớp ngoan)\n[4/7] [18:20] -2 điểm (Cộng nhanh)\n[4/7] [18:26] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [18:26] -5 điểm (Cộng nhanh)\n[4/7] [18:33] -2 điểm (Cộng nhanh)\n[4/7] [18:33] +2 điểm (Cộng nhanh bằng phím số)\n[4/7] [18:44] +1 điểm (Cả lớp ngoan)\n[4/7] [18:53] +1 điểm (Cộng nhanh)\n[4/7] [19:02] +5 điểm (Cả lớp ngoan)\n[4/7] [19:02] +10 điểm (nhiệm vụ tốt)",
-          "badges": [],
-          "goodDeeds": "- [4/7/2026] Đi học chăm chỉ\n- [4/7/2026] Hăng hái",
+          "score": 186,
+          "scoreHistory": "[4/7] [17:48] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [18:03] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [18:03] +10 điểm (Cả lớp ngoan)\n[4/7] [18:20] -2 điểm (Cộng nhanh)\n[4/7] [18:26] +5 điểm (Cộng nhanh bằng phím số)\n[4/7] [18:26] -5 điểm (Cộng nhanh)\n[4/7] [18:33] -2 điểm (Cộng nhanh)\n[4/7] [18:33] +2 điểm (Cộng nhanh bằng phím số)\n[4/7] [18:44] +1 điểm (Cả lớp ngoan)\n[4/7] [18:53] +1 điểm (Cộng nhanh)\n[4/7] [19:02] +5 điểm (Cả lớp ngoan)\n[4/7] [19:02] +10 điểm (nhiệm vụ tốt)\n[12/7] [17:56] +10 điểm (Ngoan ngoãn)\n[12/7] [17:56] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:07] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:25] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:26] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:30] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:30] +5 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:35] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:36] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:37] -10 điểm (Cộng nhanh)\n[12/7] [18:38] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:39] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:44] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:46] +5 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:50] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)\n[12/7] [19:01] +5 điểm (Cộng nhanh bằng phím số)",
+          "badges": [
+            "Nhân vật nổi tiếng/ronaldo.webp"
+          ],
+          "goodDeeds": "- [4/7/2026] Đi học chăm chỉ\n- [4/7/2026] Hăng hái\n- [12/7/2026] Đi học chăm chỉ\n- [12/7/2026] Hăng hái\n- [12/7/2026] DẤU ẤN XANH VIP PRO",
           "badDeeds": "",
           "gifts": "",
           "seasonName": "Tháng 7-8/2026",
           "notes": ""
         }
       },
-      "updatedBy": "DEVICE_1783754444927_cv6gwgzv",
+      "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 0
+      "updatedAt": 1783857734371
     },
     {
       "id": "HS_1779022100346",
@@ -12180,6 +12193,47 @@
       "seasons": {}
     },
     {
+      "id": "HS_1783853780216",
+      "name": "Phạm Gia Hân",
+      "birthYear": "2019",
+      "school": "",
+      "phoneDad": "",
+      "phoneMom": "e2djeGpgdnFgYw==",
+      "score": 66,
+      "lichessId": "",
+      "notes": "",
+      "goodDeeds": "- [12/7/2026] Đi học chăm chỉ",
+      "badDeeds": "",
+      "gifts": "",
+      "scoreHistory": "[12/7] [17:56] +10 điểm (Ngoan ngoãn)\n[12/7] [17:56] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:25] +9 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:29] +10 điểm (Từ vòng quay cộng)\n[12/7] [18:34] +5 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:49] +3 điểm (Cộng nhanh bằng phím số)\n[12/7] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)",
+      "badges": [],
+      "totalSessions": 1,
+      "totalFee": 1,
+      "attendanceDetails": [
+        {
+          "date": "12/7/2026",
+          "className": "GAMUDA T7 CN",
+          "classId": "CLASS_1779007066151_6"
+        }
+      ],
+      "classesListStr": "GAMUDA T7 CN",
+      "seasons": {
+        "SEASON_DEFAULT_2026_07": {
+          "score": 66,
+          "scoreHistory": "[12/7] [17:56] +10 điểm (Ngoan ngoãn)\n[12/7] [17:56] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:25] +9 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:29] +10 điểm (Từ vòng quay cộng)\n[12/7] [18:34] +5 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:49] +3 điểm (Cộng nhanh bằng phím số)\n[12/7] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)",
+          "badges": [],
+          "goodDeeds": "- [12/7/2026] Đi học chăm chỉ",
+          "badDeeds": "",
+          "gifts": "",
+          "seasonName": "Tháng 7-8/2026",
+          "notes": ""
+        }
+      },
+      "updatedBy": "DEVICE_1783759312607_s807db84",
+      "deleted": false,
+      "updatedAt": 1783857736644
+    },
+    {
       "id": "HS_1780396345763",
       "name": "Phạm Hải An",
       "birthYear": "2020",
@@ -12373,17 +12427,22 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "",
-      "score": 0,
+      "score": 75,
       "lichessId": "",
       "notes": "",
-      "goodDeeds": "",
+      "goodDeeds": "- [12/7/2026] Đi học chăm chỉ\n- [12/7/2026] Thông minh bất ngờ",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "",
+      "scoreHistory": "[12/7] [17:56] +10 điểm (Ngoan ngoãn)\n[12/7] [17:56] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:07] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:15] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:19] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:37] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:45] +5 điểm (Cộng nhanh bằng phím số)\n[12/7] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)",
       "badges": [],
-      "totalSessions": 1,
-      "totalFee": 1,
+      "totalSessions": 2,
+      "totalFee": 2,
       "attendanceDetails": [
+        {
+          "date": "12/7/2026",
+          "className": "GAMUDA T7 CN",
+          "classId": "CLASS_1779007066151_6"
+        },
         {
           "date": "28/6/2026",
           "className": "GAMUDA T7 CN"
@@ -12397,10 +12456,10 @@
       "classesListStr": "GAMUDA T7 CN",
       "seasons": {
         "SEASON_DEFAULT_2026_07": {
-          "score": 0,
-          "scoreHistory": "",
+          "score": 75,
+          "scoreHistory": "[12/7] [17:56] +10 điểm (Ngoan ngoãn)\n[12/7] [17:56] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:07] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:15] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:19] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:37] +10 điểm (Cộng nhanh bằng phím số)\n[12/7] [18:45] +5 điểm (Cộng nhanh bằng phím số)\n[12/7] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)",
           "badges": [],
-          "goodDeeds": "",
+          "goodDeeds": "- [12/7/2026] Đi học chăm chỉ\n- [12/7/2026] Thông minh bất ngờ",
           "badDeeds": "",
           "gifts": "",
           "seasonName": "Tháng 7-8/2026",
@@ -12409,7 +12468,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 0
+      "updatedAt": 1783857734372
     },
     {
       "id": "HS_1777459546932",

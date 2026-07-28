@@ -1,6 +1,6 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-07-28T03:35:47.087Z",
+  "generatedAt": "2026-07-28T03:35:57.066Z",
   "generatedBy": "DEVICE_1783759312607_s807db84",
   "studentCount": 192,
   "pointSeasons": [
@@ -1659,7 +1659,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1785209736305
+      "updatedAt": 1785209756619
     },
     {
       "id": "HS_1784028931724",
@@ -3403,7 +3403,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1785209736300
+      "updatedAt": 1785209756616
     },
     {
       "id": "HS_1781577383752",
@@ -5903,7 +5903,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1785209736309
+      "updatedAt": 1785209756620
     },
     {
       "id": "HS_1779503322342",
@@ -8914,7 +8914,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1785209736865
+      "updatedAt": 1785209757054
     },
     {
       "id": "HS_1778398580713",

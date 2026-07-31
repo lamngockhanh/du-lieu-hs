@@ -230,6 +230,10 @@
         "className": "Đội tuyển (19h30T46)"
       },
       {
+        "date": "31/7/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
         "date": "23/6/2026",
         "className": "CLASS_1782222649113"
       },
@@ -280,6 +284,10 @@
       },
       {
         "date": "24/7/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "31/7/2026",
         "className": "Đội tuyển (19h30T46)"
       },
       {
@@ -630,6 +638,10 @@
       {
         "date": "17/7/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "31/7/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
@@ -789,6 +801,10 @@
       {
         "date": "17/7/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "31/7/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
@@ -869,6 +885,10 @@
       },
       {
         "date": "8/7/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "31/7/2026",
         "className": "Đội tuyển (19h30T46)"
       }
     ]
@@ -1200,6 +1220,10 @@
       {
         "date": "8/7/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "31/7/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
@@ -1261,6 +1285,10 @@
       },
       {
         "date": "17/7/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "31/7/2026",
         "className": "Đội tuyển (19h30T46)"
       }
     ]
@@ -1330,6 +1358,10 @@
       },
       {
         "date": "8/7/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "31/7/2026",
         "className": "Đội tuyển (19h30T46)"
       }
     ]
@@ -1446,6 +1478,10 @@
       {
         "date": "8/7/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "31/7/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
@@ -1487,6 +1523,10 @@
       {
         "date": "17/7/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "31/7/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
@@ -1527,6 +1567,10 @@
       },
       {
         "date": "17/7/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "31/7/2026",
         "className": "Đội tuyển (19h30T46)"
       }
     ]
@@ -1666,6 +1710,10 @@
         "className": "Đội tuyển (19h30T46)"
       },
       {
+        "date": "31/7/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
         "date": "10/6/2026",
         "className": "Nâng cao (17h30T46)"
       },
@@ -1733,6 +1781,10 @@
       {
         "date": "17/7/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "31/7/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
@@ -1774,6 +1826,10 @@
       {
         "date": "17/7/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "31/7/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
@@ -1814,6 +1870,10 @@
       },
       {
         "date": "17/7/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "31/7/2026",
         "className": "Đội tuyển (19h30T46)"
       }
     ]
@@ -1906,6 +1966,10 @@
       {
         "date": "17/7/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "31/7/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
@@ -1955,6 +2019,10 @@
       {
         "date": "8/7/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "31/7/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
@@ -1975,6 +2043,10 @@
     "attendanceDetails": [
       {
         "date": "24/7/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "31/7/2026",
         "className": "Đội tuyển (19h30T46)"
       }
     ]
@@ -3228,6 +3300,31 @@
       {
         "date": "31/7/2026",
         "className": "Nâng cao (17h30T46)"
+      }
+    ]
+  },
+  {
+    "id": "HS_1785501325906",
+    "name": "Phạm Thái Tuấn",
+    "birthYear": "2016",
+    "school": "TH Vinschool",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "31/7/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "29/7/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   }

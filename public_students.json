@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-09T09:32:51.096Z",
+  "generatedAt": "2026-08-09T12:01:58.752Z",
   "generatedBy": "DEVICE_1783759312607_s807db84",
-  "studentCount": 280,
+  "studentCount": 282,
   "pointSeasons": [
     {
       "id": "SEASON_DEFAULT_2026_07",
@@ -8563,17 +8563,22 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "",
-      "score": 0,
+      "score": 34,
       "lichessId": "",
       "notes": "",
       "goodDeeds": "",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "",
+      "scoreHistory": "[9/8] [18:40] +10 điểm (Ngoan ngoãn)\n[9/8] [18:53] +2 điểm (Cộng nhanh bằng phím số)\n[9/8] [18:57] +22 điểm (Tập trung trong giờ)",
       "badges": [],
-      "totalSessions": 5,
-      "totalFee": 5,
+      "totalSessions": 6,
+      "totalFee": 6,
       "attendanceDetails": [
+        {
+          "date": "9/8/2026",
+          "className": "GAMUDA T7 CN",
+          "classId": "CLASS_1779007066151_6"
+        },
         {
           "date": "26/7/2026",
           "className": "GAMUDA T7 CN",
@@ -8615,8 +8620,8 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 0,
-          "scoreHistory": "",
+          "score": 34,
+          "scoreHistory": "[9/8] [18:40] +10 điểm (Ngoan ngoãn)\n[9/8] [18:53] +2 điểm (Cộng nhanh bằng phím số)\n[9/8] [18:57] +22 điểm (Tập trung trong giờ)",
           "badges": [],
           "goodDeeds": "",
           "badDeeds": "",
@@ -8627,7 +8632,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1786190465115
+      "updatedAt": 1786276914084
     },
     {
       "id": "HS_1778927490517",
@@ -9883,23 +9888,79 @@
       "updatedAt": 1785987604566
     },
     {
+      "id": "HS_1786275584660",
+      "name": "Ngô Thảo Chi",
+      "birthYear": "2018",
+      "school": "",
+      "phoneDad": "",
+      "phoneMom": "",
+      "score": 32,
+      "lichessId": "",
+      "notes": "",
+      "goodDeeds": "",
+      "badDeeds": "",
+      "gifts": "",
+      "scoreHistory": "[9/8] [18:40] +10 điểm (Ngoan ngoãn)\n[9/8] [18:57] +22 điểm (Tập trung trong giờ)",
+      "badges": [],
+      "totalSessions": 1,
+      "totalFee": 1,
+      "attendanceDetails": [
+        {
+          "date": "9/8/2026",
+          "className": "GAMUDA T7 CN",
+          "classId": "CLASS_1779007066151_6"
+        }
+      ],
+      "classesListStr": "GAMUDA T7 CN",
+      "seasons": {
+        "SEASON_DEFAULT_2026_07": {
+          "score": 0,
+          "scoreHistory": "",
+          "badges": [],
+          "goodDeeds": "",
+          "badDeeds": "",
+          "gifts": "",
+          "seasonName": "Tháng 7/2026",
+          "notes": ""
+        },
+        "SEASON_1785054771352_vxatb": {
+          "score": 32,
+          "scoreHistory": "[9/8] [18:40] +10 điểm (Ngoan ngoãn)\n[9/8] [18:57] +22 điểm (Tập trung trong giờ)",
+          "badges": [],
+          "goodDeeds": "",
+          "badDeeds": "",
+          "gifts": "",
+          "seasonName": "Tháng 8/2026",
+          "notes": ""
+        }
+      },
+      "updatedBy": "DEVICE_1783759312607_s807db84",
+      "deleted": false,
+      "updatedAt": 1786276918685
+    },
+    {
       "id": "HS_1785061791333",
       "name": "Nguyễn An Nhiên",
       "birthYear": "2019",
       "school": "",
       "phoneDad": "",
       "phoneMom": "e21semxldHNmag==",
-      "score": 28,
+      "score": 63,
       "lichessId": "",
       "notes": "",
       "goodDeeds": "- [2/8/2026] Ngoan ngoãn",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:51] +8 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)",
+      "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:51] +8 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)\n[9/8] [18:40] +10 điểm (Ngoan ngoãn)\n[9/8] [18:52] +3 điểm (Cộng nhanh bằng phím số)\n[9/8] [18:57] +22 điểm (Tập trung trong giờ)",
       "badges": [],
-      "totalSessions": 2,
-      "totalFee": 2,
+      "totalSessions": 3,
+      "totalFee": 3,
       "attendanceDetails": [
+        {
+          "date": "9/8/2026",
+          "className": "GAMUDA T7 CN",
+          "classId": "CLASS_1779007066151_6"
+        },
         {
           "date": "2/8/2026",
           "className": "GAMUDA T7 CN",
@@ -9926,8 +9987,8 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 28,
-          "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:51] +8 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)",
+          "score": 63,
+          "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:51] +8 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)\n[9/8] [18:40] +10 điểm (Ngoan ngoãn)\n[9/8] [18:52] +3 điểm (Cộng nhanh bằng phím số)\n[9/8] [18:57] +22 điểm (Tập trung trong giờ)",
           "badges": [],
           "goodDeeds": "- [2/8/2026] Ngoan ngoãn",
           "badDeeds": "",
@@ -9938,7 +9999,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1786190465116
+      "updatedAt": 1786276914084
     },
     {
       "id": "HS_1778310187233",
@@ -10839,17 +10900,22 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "e21gdGthfHttag==",
-      "score": 44,
+      "score": 78,
       "lichessId": "",
       "notes": "",
       "goodDeeds": "- [2/8/2026] Ngoan ngoãn",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:51] +8 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:52] +8 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:55] +7 điểm (Từ vòng quay cộng)\n[2/8] [19:01] +1 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)",
+      "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:51] +8 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:52] +8 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:55] +7 điểm (Từ vòng quay cộng)\n[2/8] [19:01] +1 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)\n[9/8] [18:40] +10 điểm (Ngoan ngoãn)\n[9/8] [18:45] +2 điểm (Cộng nhanh bằng phím số)\n[9/8] [18:57] +22 điểm (Tập trung trong giờ)",
       "badges": [],
-      "totalSessions": 5,
-      "totalFee": 5,
+      "totalSessions": 6,
+      "totalFee": 6,
       "attendanceDetails": [
+        {
+          "date": "9/8/2026",
+          "className": "GAMUDA T7 CN",
+          "classId": "CLASS_1779007066151_6"
+        },
         {
           "date": "2/8/2026",
           "className": "GAMUDA T7 CN",
@@ -10889,8 +10955,8 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 44,
-          "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:51] +8 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:52] +8 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:55] +7 điểm (Từ vòng quay cộng)\n[2/8] [19:01] +1 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)",
+          "score": 78,
+          "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:51] +8 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:52] +8 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:55] +7 điểm (Từ vòng quay cộng)\n[2/8] [19:01] +1 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)\n[9/8] [18:40] +10 điểm (Ngoan ngoãn)\n[9/8] [18:45] +2 điểm (Cộng nhanh bằng phím số)\n[9/8] [18:57] +22 điểm (Tập trung trong giờ)",
           "badges": [],
           "goodDeeds": "- [2/8/2026] Ngoan ngoãn",
           "badDeeds": "",
@@ -10901,7 +10967,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1786190465116
+      "updatedAt": 1786276914084
     },
     {
       "id": "HS_1778842052066",
@@ -12137,6 +12203,57 @@
       "updatedAt": 1785296078884
     },
     {
+      "id": "HS_1786275596964",
+      "name": "Nguyễn Phúc Nhật",
+      "birthYear": "2017",
+      "school": "",
+      "phoneDad": "",
+      "phoneMom": "",
+      "score": 42,
+      "lichessId": "",
+      "notes": "",
+      "goodDeeds": "",
+      "badDeeds": "",
+      "gifts": "",
+      "scoreHistory": "[9/8] [18:40] +10 điểm (Ngoan ngoãn)\n[9/8] [18:47] +2 điểm (Cộng nhanh bằng phím số)\n[9/8] [18:57] +8 điểm (Từ vòng quay cộng)\n[9/8] [18:57] +22 điểm (Tập trung trong giờ)",
+      "badges": [],
+      "totalSessions": 1,
+      "totalFee": 1,
+      "attendanceDetails": [
+        {
+          "date": "9/8/2026",
+          "className": "GAMUDA T7 CN",
+          "classId": "CLASS_1779007066151_6"
+        }
+      ],
+      "classesListStr": "GAMUDA T7 CN",
+      "seasons": {
+        "SEASON_DEFAULT_2026_07": {
+          "score": 0,
+          "scoreHistory": "",
+          "badges": [],
+          "goodDeeds": "",
+          "badDeeds": "",
+          "gifts": "",
+          "seasonName": "Tháng 7/2026",
+          "notes": ""
+        },
+        "SEASON_1785054771352_vxatb": {
+          "score": 42,
+          "scoreHistory": "[9/8] [18:40] +10 điểm (Ngoan ngoãn)\n[9/8] [18:47] +2 điểm (Cộng nhanh bằng phím số)\n[9/8] [18:57] +8 điểm (Từ vòng quay cộng)\n[9/8] [18:57] +22 điểm (Tập trung trong giờ)",
+          "badges": [],
+          "goodDeeds": "",
+          "badDeeds": "",
+          "gifts": "",
+          "seasonName": "Tháng 8/2026",
+          "notes": ""
+        }
+      },
+      "updatedBy": "DEVICE_1783759312607_s807db84",
+      "deleted": false,
+      "updatedAt": 1786276918685
+    },
+    {
       "id": "HS_1784295138288",
       "name": "Nguyễn Phúc Nhật Đăng",
       "birthYear": "2021",
@@ -12481,17 +12598,22 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "e21gdGthfHttag==",
-      "score": 33,
+      "score": 67,
       "lichessId": "",
       "notes": "",
       "goodDeeds": "- [2/8/2026] Ngoan ngoãn",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:50] +4 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:53] +8 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +1 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)",
+      "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:50] +4 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:53] +8 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +1 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)\n[9/8] [18:40] +10 điểm (Ngoan ngoãn)\n[9/8] [18:49] +2 điểm (Cộng nhanh bằng phím số)\n[9/8] [18:57] +22 điểm (Tập trung trong giờ)",
       "badges": [],
-      "totalSessions": 5,
-      "totalFee": 5,
+      "totalSessions": 6,
+      "totalFee": 6,
       "attendanceDetails": [
+        {
+          "date": "9/8/2026",
+          "className": "GAMUDA T7 CN",
+          "classId": "CLASS_1779007066151_6"
+        },
         {
           "date": "2/8/2026",
           "className": "GAMUDA T7 CN",
@@ -12533,8 +12655,8 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 33,
-          "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:50] +4 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:53] +8 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +1 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)",
+          "score": 67,
+          "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:50] +4 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:53] +8 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +1 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)\n[9/8] [18:40] +10 điểm (Ngoan ngoãn)\n[9/8] [18:49] +2 điểm (Cộng nhanh bằng phím số)\n[9/8] [18:57] +22 điểm (Tập trung trong giờ)",
           "badges": [],
           "goodDeeds": "- [2/8/2026] Ngoan ngoãn",
           "badDeeds": "",
@@ -12545,7 +12667,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1786190465116
+      "updatedAt": 1786276914084
     },
     {
       "id": "HS_1780655858842",
@@ -12837,17 +12959,22 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "e21semxldHNmag==",
-      "score": 24,
+      "score": 56,
       "lichessId": "",
       "notes": "",
-      "goodDeeds": "- [2/8/2026] Ngoan ngoãn\n- [2/8/2026] Thông minh bất ngờ",
+      "goodDeeds": "- [2/8/2026] Ngoan ngoãn\n- [2/8/2026] Thông minh bất ngờ\n- [9/8/2026] Ngoan ngoãn",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:51] +4 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)",
+      "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:51] +4 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)\n[9/8] [18:40] +10 điểm (Ngoan ngoãn)\n[9/8] [18:57] +22 điểm (Tập trung trong giờ)",
       "badges": [],
-      "totalSessions": 2,
-      "totalFee": 2,
+      "totalSessions": 3,
+      "totalFee": 3,
       "attendanceDetails": [
+        {
+          "date": "9/8/2026",
+          "className": "GAMUDA T7 CN",
+          "classId": "CLASS_1779007066151_6"
+        },
         {
           "date": "2/8/2026",
           "className": "GAMUDA T7 CN",
@@ -12874,10 +13001,10 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 24,
-          "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:51] +4 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)",
+          "score": 56,
+          "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:51] +4 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)\n[9/8] [18:40] +10 điểm (Ngoan ngoãn)\n[9/8] [18:57] +22 điểm (Tập trung trong giờ)",
           "badges": [],
-          "goodDeeds": "- [2/8/2026] Ngoan ngoãn\n- [2/8/2026] Thông minh bất ngờ",
+          "goodDeeds": "- [2/8/2026] Ngoan ngoãn\n- [2/8/2026] Thông minh bất ngờ\n- [9/8/2026] Ngoan ngoãn",
           "badDeeds": "",
           "gifts": "",
           "seasonName": "Tháng 8/2026",
@@ -12886,7 +13013,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1786190465116
+      "updatedAt": 1786276914084
     },
     {
       "id": "HS_1778064062365",
@@ -13880,17 +14007,22 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "e2djeGpgdnFgYw==",
-      "score": 40,
+      "score": 74,
       "lichessId": "",
       "notes": "",
       "goodDeeds": "- [2/8/2026] Ngoan ngoãn",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:51] +3 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:53] +10 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:53] +2 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)\n[2/8] [19:01] +5 điểm (Cộng nhanh bằng phím số)",
+      "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:51] +3 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:53] +10 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:53] +2 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)\n[2/8] [19:01] +5 điểm (Cộng nhanh bằng phím số)\n[9/8] [18:40] +10 điểm (Ngoan ngoãn)\n[9/8] [18:44] +2 điểm (Cộng nhanh bằng phím số)\n[9/8] [18:57] +22 điểm (Tập trung trong giờ)",
       "badges": [],
-      "totalSessions": 4,
-      "totalFee": 4,
+      "totalSessions": 5,
+      "totalFee": 5,
       "attendanceDetails": [
+        {
+          "date": "9/8/2026",
+          "className": "GAMUDA T7 CN",
+          "classId": "CLASS_1779007066151_6"
+        },
         {
           "date": "2/8/2026",
           "className": "GAMUDA T7 CN",
@@ -13929,8 +14061,8 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 40,
-          "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:51] +3 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:53] +10 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:53] +2 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)\n[2/8] [19:01] +5 điểm (Cộng nhanh bằng phím số)",
+          "score": 74,
+          "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:51] +3 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:53] +10 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:53] +2 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)\n[2/8] [19:01] +5 điểm (Cộng nhanh bằng phím số)\n[9/8] [18:40] +10 điểm (Ngoan ngoãn)\n[9/8] [18:44] +2 điểm (Cộng nhanh bằng phím số)\n[9/8] [18:57] +22 điểm (Tập trung trong giờ)",
           "badges": [],
           "goodDeeds": "- [2/8/2026] Ngoan ngoãn",
           "badDeeds": "",
@@ -13941,7 +14073,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1786190465116
+      "updatedAt": 1786276914084
     },
     {
       "id": "HS_1783687698261",
@@ -14256,17 +14388,22 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "",
-      "score": 23,
+      "score": 55,
       "lichessId": "",
       "notes": "",
       "goodDeeds": "- [2/8/2026] Ngoan ngoãn",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:50] -5 điểm (Cộng nhanh)\n[2/8] [18:52] +6 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:53] +2 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)",
+      "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:50] -5 điểm (Cộng nhanh)\n[2/8] [18:52] +6 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:53] +2 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)\n[9/8] [18:40] +10 điểm (Ngoan ngoãn)\n[9/8] [18:57] +22 điểm (Tập trung trong giờ)",
       "badges": [],
-      "totalSessions": 5,
-      "totalFee": 5,
+      "totalSessions": 6,
+      "totalFee": 6,
       "attendanceDetails": [
+        {
+          "date": "9/8/2026",
+          "className": "GAMUDA T7 CN",
+          "classId": "CLASS_1779007066151_6"
+        },
         {
           "date": "2/8/2026",
           "className": "GAMUDA T7 CN",
@@ -14309,8 +14446,8 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 23,
-          "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:50] -5 điểm (Cộng nhanh)\n[2/8] [18:52] +6 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:53] +2 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)",
+          "score": 55,
+          "scoreHistory": "[2/8] [18:49] +10 điểm (Ngoan ngoãn)\n[2/8] [18:50] -5 điểm (Cộng nhanh)\n[2/8] [18:52] +6 điểm (Cộng nhanh bằng phím số)\n[2/8] [18:53] +2 điểm (Cộng nhanh bằng phím số)\n[2/8] [19:01] +10 điểm (Thực hiện nhiệm vụ tốt)\n[9/8] [18:40] +10 điểm (Ngoan ngoãn)\n[9/8] [18:57] +22 điểm (Tập trung trong giờ)",
           "badges": [],
           "goodDeeds": "- [2/8/2026] Ngoan ngoãn",
           "badDeeds": "",
@@ -14321,7 +14458,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1786190465116
+      "updatedAt": 1786276914084
     },
     {
       "id": "HS_1777459546932",
@@ -19514,17 +19651,22 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "",
-      "score": 0,
+      "score": 34,
       "lichessId": "",
       "notes": "",
-      "goodDeeds": "",
+      "goodDeeds": "- [9/8/2026] Ngoan ngoãn",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "",
+      "scoreHistory": "[9/8] [18:40] +10 điểm (Ngoan ngoãn)\n[9/8] [18:50] +2 điểm (Cộng nhanh bằng phím số)\n[9/8] [18:57] +22 điểm (Tập trung trong giờ)",
       "badges": [],
-      "totalSessions": 4,
-      "totalFee": 4,
+      "totalSessions": 5,
+      "totalFee": 5,
       "attendanceDetails": [
+        {
+          "date": "9/8/2026",
+          "className": "GAMUDA T7 CN",
+          "classId": "CLASS_1779007066151_6"
+        },
         {
           "date": "26/7/2026",
           "className": "GAMUDA T7 CN",
@@ -19562,10 +19704,10 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 0,
-          "scoreHistory": "",
+          "score": 34,
+          "scoreHistory": "[9/8] [18:40] +10 điểm (Ngoan ngoãn)\n[9/8] [18:50] +2 điểm (Cộng nhanh bằng phím số)\n[9/8] [18:57] +22 điểm (Tập trung trong giờ)",
           "badges": [],
-          "goodDeeds": "",
+          "goodDeeds": "- [9/8/2026] Ngoan ngoãn",
           "badDeeds": "",
           "gifts": "",
           "seasonName": "Tháng 8/2026",
@@ -19574,7 +19716,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1786190465115
+      "updatedAt": 1786276914084
     },
     {
       "id": "HS_1782650717393",

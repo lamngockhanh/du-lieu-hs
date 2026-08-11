@@ -1,6 +1,6 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-09T12:01:58.752Z",
+  "generatedAt": "2026-08-11T03:36:22.368Z",
   "generatedBy": "DEVICE_1783759312607_s807db84",
   "studentCount": 282,
   "pointSeasons": [
@@ -1364,17 +1364,22 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "e2dtdWxrcndiZQ==",
-      "score": 28,
+      "score": 68,
       "lichessId": "",
       "notes": "",
       "goodDeeds": "- [2/8/2026] Ngoan ngoãn",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:47] +8 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)",
+      "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:47] +8 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +20 điểm (Ngoan ngoãn)\n[9/8] [21:00] +10 điểm (Thực hiện nhiệm vụ tốt)",
       "badges": [],
-      "totalSessions": 7,
-      "totalFee": 7,
+      "totalSessions": 8,
+      "totalFee": 8,
       "attendanceDetails": [
+        {
+          "date": "9/8/2026",
+          "className": "NAM  ĐÔ tối CN",
+          "classId": "CLASS_1779007066151_8"
+        },
         {
           "date": "2/8/2026",
           "className": "NAM  ĐÔ tối CN",
@@ -1428,8 +1433,8 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 28,
-          "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:47] +8 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)",
+          "score": 68,
+          "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:47] +8 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +20 điểm (Ngoan ngoãn)\n[9/8] [21:00] +10 điểm (Thực hiện nhiệm vụ tốt)",
           "badges": [],
           "goodDeeds": "- [2/8/2026] Ngoan ngoãn",
           "badDeeds": "",
@@ -1440,7 +1445,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1785756671058
+      "updatedAt": 1786419379098
     },
     {
       "id": "HS_1786161024567",
@@ -1500,17 +1505,27 @@
       "school": "TH Phan Đình Giót",
       "phoneDad": "e21leW5rcHZtag==",
       "phoneMom": "",
-      "score": 83,
+      "score": 48,
       "lichessId": "",
       "notes": "",
-      "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [6/8/2026] Hăng hái\n- [7/8/2026] Đi học chăm chỉ",
+      "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [6/8/2026] Hăng hái\n- [7/8/2026] Đi học chăm chỉ\n- [11/8/2026] Ngoan ngoãn",
       "badDeeds": "- [5/8/2026] nói chuyện khi chơi cờ\n- [5/8/2026] nói quá to\n- [7/8/2026] Mất trật tự",
       "gifts": "",
-      "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [10:09] +2 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:12] +6 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:12] +10 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[6/8] [10:12] +10 điểm (Đi học chăm chỉ)\n[6/8] [10:14] +6 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:14] +7 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:22] -10 điểm (nói nhiều)\n[6/8] [10:27] +1 điểm (Ngoan ngoãn)\n[6/8] [10:29] -2 điểm (Cộng nhanh)\n[7/8] [10:07] +5 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:07] +6 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:09] +7 điểm (Từ vòng quay cộng)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:14] -673 điểm (Từ vòng quay trừ)\n[7/8] [10:15] +673 điểm (Cộng điểm)\n[7/8] [10:22] -20 điểm (Cộng nhanh)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:28] -2 điểm (Cộng nhanh)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)",
+      "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [10:09] +2 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:12] +6 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:12] +10 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[6/8] [10:12] +10 điểm (Đi học chăm chỉ)\n[6/8] [10:14] +6 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:14] +7 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:22] -10 điểm (nói nhiều)\n[6/8] [10:27] +1 điểm (Ngoan ngoãn)\n[6/8] [10:29] -2 điểm (Cộng nhanh)\n[7/8] [10:07] +5 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:07] +6 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:09] +7 điểm (Từ vòng quay cộng)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:14] -673 điểm (Từ vòng quay trừ)\n[7/8] [10:15] +673 điểm (Cộng điểm)\n[7/8] [10:22] -20 điểm (Cộng nhanh)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:28] -2 điểm (Cộng nhanh)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)\n[11/8] [10:30] +50 điểm (Ngoan ngoãn)\n[11/8] [10:30] +15 điểm (Khai cuộc tốt)\n[11/8] [10:33] -100 điểm (chưa cho về đã về)",
       "badges": [],
-      "totalSessions": 45,
-      "totalFee": 45,
+      "totalSessions": 47,
+      "totalFee": 47,
       "attendanceDetails": [
+        {
+          "date": "11/8/2026",
+          "className": "Khoá Hè Nguyễn Tuân Sáng",
+          "classId": "CLASS_1780280385569"
+        },
+        {
+          "date": "10/8/2026",
+          "className": "Khoá Hè Nguyễn Tuân Sáng",
+          "classId": "CLASS_1780280385569"
+        },
         {
           "date": "7/8/2026",
           "className": "Khoá Hè Nguyễn Tuân Sáng",
@@ -1765,10 +1780,10 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 83,
-          "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [10:09] +2 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:12] +6 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:12] +10 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[6/8] [10:12] +10 điểm (Đi học chăm chỉ)\n[6/8] [10:14] +6 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:14] +7 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:22] -10 điểm (nói nhiều)\n[6/8] [10:27] +1 điểm (Ngoan ngoãn)\n[6/8] [10:29] -2 điểm (Cộng nhanh)\n[7/8] [10:07] +5 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:07] +6 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:09] +7 điểm (Từ vòng quay cộng)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:14] -673 điểm (Từ vòng quay trừ)\n[7/8] [10:15] +673 điểm (Cộng điểm)\n[7/8] [10:22] -20 điểm (Cộng nhanh)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:28] -2 điểm (Cộng nhanh)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)",
+          "score": 48,
+          "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [10:09] +2 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:12] +6 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:12] +10 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[6/8] [10:12] +10 điểm (Đi học chăm chỉ)\n[6/8] [10:14] +6 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:14] +7 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:22] -10 điểm (nói nhiều)\n[6/8] [10:27] +1 điểm (Ngoan ngoãn)\n[6/8] [10:29] -2 điểm (Cộng nhanh)\n[7/8] [10:07] +5 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:07] +6 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:09] +7 điểm (Từ vòng quay cộng)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:14] -673 điểm (Từ vòng quay trừ)\n[7/8] [10:15] +673 điểm (Cộng điểm)\n[7/8] [10:22] -20 điểm (Cộng nhanh)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:28] -2 điểm (Cộng nhanh)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)\n[11/8] [10:30] +50 điểm (Ngoan ngoãn)\n[11/8] [10:30] +15 điểm (Khai cuộc tốt)\n[11/8] [10:33] -100 điểm (chưa cho về đã về)",
           "badges": [],
-          "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [6/8/2026] Hăng hái\n- [7/8/2026] Đi học chăm chỉ",
+          "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [6/8/2026] Hăng hái\n- [7/8/2026] Đi học chăm chỉ\n- [11/8/2026] Ngoan ngoãn",
           "badDeeds": "- [5/8/2026] nói chuyện khi chơi cờ\n- [5/8/2026] nói quá to\n- [7/8/2026] Mất trật tự",
           "gifts": "",
           "seasonName": "Tháng 8/2026",
@@ -1777,7 +1792,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1786111236238
+      "updatedAt": 1786419379104
     },
     {
       "id": "HS_1783687818990",
@@ -3206,17 +3221,27 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "e21nem1kcXJkZA==",
-      "score": 10,
+      "score": 75,
       "lichessId": "",
       "notes": "",
-      "goodDeeds": "- [4/8/2026] Ngoan ngoãn",
+      "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [11/8/2026] Ngoan ngoãn",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)",
+      "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[11/8] [10:30] +50 điểm (Ngoan ngoãn)\n[11/8] [10:30] +15 điểm (Khai cuộc tốt)",
       "badges": [],
-      "totalSessions": 10,
-      "totalFee": 10,
+      "totalSessions": 12,
+      "totalFee": 12,
       "attendanceDetails": [
+        {
+          "date": "11/8/2026",
+          "className": "Khoá Hè Nguyễn Tuân Sáng",
+          "classId": "CLASS_1780280385569"
+        },
+        {
+          "date": "10/8/2026",
+          "className": "Khoá Hè Nguyễn Tuân Sáng",
+          "classId": "CLASS_1780280385569"
+        },
         {
           "date": "4/8/2026",
           "className": "Khoá Hè Nguyễn Tuân Sáng",
@@ -3286,10 +3311,10 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 10,
-          "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)",
+          "score": 75,
+          "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[11/8] [10:30] +50 điểm (Ngoan ngoãn)\n[11/8] [10:30] +15 điểm (Khai cuộc tốt)",
           "badges": [],
-          "goodDeeds": "- [4/8/2026] Ngoan ngoãn",
+          "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [11/8/2026] Ngoan ngoãn",
           "badDeeds": "",
           "gifts": "",
           "seasonName": "Tháng 8/2026",
@@ -3298,7 +3323,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1785814298743
+      "updatedAt": 1786419379105
     },
     {
       "id": "HS_1782305084160",
@@ -3703,19 +3728,29 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "",
-      "score": 112,
+      "score": 177,
       "lichessId": "",
       "notes": "5 tuổi",
-      "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [5/8/2026] Ngoan ngoãn\n- [6/8/2026] Ngoan ngoãn\n- [7/8/2026] Đi học chăm chỉ\n- [7/8/2026] DẤU ẤN XANH VIP PRO",
+      "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [5/8/2026] Ngoan ngoãn\n- [6/8/2026] Ngoan ngoãn\n- [7/8/2026] Đi học chăm chỉ\n- [7/8/2026] DẤU ẤN XANH VIP PRO\n- [11/8/2026] Ngoan ngoãn",
       "badDeeds": "- [4/8/2026] Để hoà PAT",
       "gifts": "",
-      "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [09:48] +2 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:09] +2 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:12] +6 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[6/8] [10:12] +10 điểm (Đi học chăm chỉ)\n[6/8] [10:14] +10 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:14] +5 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:27] +1 điểm (Ngoan ngoãn)\n[7/8] [10:06] +6 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:06] +7 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)",
+      "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [09:48] +2 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:09] +2 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:12] +6 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[6/8] [10:12] +10 điểm (Đi học chăm chỉ)\n[6/8] [10:14] +10 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:14] +5 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:27] +1 điểm (Ngoan ngoãn)\n[7/8] [10:06] +6 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:06] +7 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)\n[11/8] [10:29] +10 điểm (Cộng nhanh bằng phím số)\n[11/8] [10:30] +15 điểm (Khai cuộc tốt)",
       "badges": [
         "Kiếm hoạt hình/luan-hoi-kiem.webp"
       ],
-      "totalSessions": 30,
-      "totalFee": 30,
+      "totalSessions": 32,
+      "totalFee": 32,
       "attendanceDetails": [
+        {
+          "date": "11/8/2026",
+          "className": "Khoá Hè Nguyễn Tuân Sáng",
+          "classId": "CLASS_1780280385569"
+        },
+        {
+          "date": "10/8/2026",
+          "className": "Khoá Hè Nguyễn Tuân Sáng",
+          "classId": "CLASS_1780280385569"
+        },
         {
           "date": "7/8/2026",
           "className": "Khoá Hè Nguyễn Tuân Sáng",
@@ -3891,12 +3926,12 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 112,
-          "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [09:48] +2 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:09] +2 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:12] +6 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[6/8] [10:12] +10 điểm (Đi học chăm chỉ)\n[6/8] [10:14] +10 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:14] +5 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:27] +1 điểm (Ngoan ngoãn)\n[7/8] [10:06] +6 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:06] +7 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)",
+          "score": 177,
+          "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [09:48] +2 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:09] +2 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:12] +6 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[6/8] [10:12] +10 điểm (Đi học chăm chỉ)\n[6/8] [10:14] +10 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:14] +5 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:27] +1 điểm (Ngoan ngoãn)\n[7/8] [10:06] +6 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:06] +7 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)\n[11/8] [10:29] +10 điểm (Cộng nhanh bằng phím số)\n[11/8] [10:30] +15 điểm (Khai cuộc tốt)",
           "badges": [
             "Kiếm hoạt hình/luan-hoi-kiem.webp"
           ],
-          "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [5/8/2026] Ngoan ngoãn\n- [6/8/2026] Ngoan ngoãn\n- [7/8/2026] Đi học chăm chỉ\n- [7/8/2026] DẤU ẤN XANH VIP PRO",
+          "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [5/8/2026] Ngoan ngoãn\n- [6/8/2026] Ngoan ngoãn\n- [7/8/2026] Đi học chăm chỉ\n- [7/8/2026] DẤU ẤN XANH VIP PRO\n- [11/8/2026] Ngoan ngoãn",
           "badDeeds": "- [4/8/2026] Để hoà PAT",
           "gifts": "",
           "seasonName": "Tháng 8/2026",
@@ -3905,7 +3940,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1786111236232
+      "updatedAt": 1786419379100
     },
     {
       "id": "HS_1783689507558",
@@ -7188,17 +7223,22 @@
       "school": "",
       "phoneDad": "e21kem1hfXNtYA==",
       "phoneMom": "",
-      "score": 31,
+      "score": 71,
       "lichessId": "",
       "notes": "",
       "goodDeeds": "- [2/8/2026] Ngoan ngoãn",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:48] +9 điểm (Cộng nhanh bằng phím số)\n[2/8] [20:49] +1 điểm (Từ vòng quay cộng)\n[2/8] [20:51] +1 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)",
+      "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:48] +9 điểm (Cộng nhanh bằng phím số)\n[2/8] [20:49] +1 điểm (Từ vòng quay cộng)\n[2/8] [20:51] +1 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +20 điểm (Ngoan ngoãn)\n[9/8] [21:00] +10 điểm (Thực hiện nhiệm vụ tốt)",
       "badges": [],
-      "totalSessions": 10,
-      "totalFee": 10,
+      "totalSessions": 11,
+      "totalFee": 11,
       "attendanceDetails": [
+        {
+          "date": "9/8/2026",
+          "className": "NAM  ĐÔ tối CN",
+          "classId": "CLASS_1779007066151_8"
+        },
         {
           "date": "2/8/2026",
           "className": "NAM  ĐÔ tối CN",
@@ -7266,8 +7306,8 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 31,
-          "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:48] +9 điểm (Cộng nhanh bằng phím số)\n[2/8] [20:49] +1 điểm (Từ vòng quay cộng)\n[2/8] [20:51] +1 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)",
+          "score": 71,
+          "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:48] +9 điểm (Cộng nhanh bằng phím số)\n[2/8] [20:49] +1 điểm (Từ vòng quay cộng)\n[2/8] [20:51] +1 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +20 điểm (Ngoan ngoãn)\n[9/8] [21:00] +10 điểm (Thực hiện nhiệm vụ tốt)",
           "badges": [],
           "goodDeeds": "- [2/8/2026] Ngoan ngoãn",
           "badDeeds": "",
@@ -7278,7 +7318,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1785756671058
+      "updatedAt": 1786419379098
     },
     {
       "id": "HS_1778064104848",
@@ -7518,17 +7558,22 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "",
-      "score": 33,
+      "score": 73,
       "lichessId": "",
       "notes": "",
       "goodDeeds": "- [2/8/2026] Ngoan ngoãn\n- [2/8/2026] Thông minh bất ngờ",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:46] +10 điểm (Cộng nhanh bằng phím số)\n[2/8] [20:46] +3 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)",
+      "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:46] +10 điểm (Cộng nhanh bằng phím số)\n[2/8] [20:46] +3 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +20 điểm (Ngoan ngoãn)\n[9/8] [21:00] +10 điểm (Thực hiện nhiệm vụ tốt)",
       "badges": [],
-      "totalSessions": 11,
-      "totalFee": 11,
+      "totalSessions": 12,
+      "totalFee": 12,
       "attendanceDetails": [
+        {
+          "date": "9/8/2026",
+          "className": "NAM  ĐÔ tối CN",
+          "classId": "CLASS_1779007066151_8"
+        },
         {
           "date": "2/8/2026",
           "className": "NAM  ĐÔ tối CN",
@@ -7601,8 +7646,8 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 33,
-          "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:46] +10 điểm (Cộng nhanh bằng phím số)\n[2/8] [20:46] +3 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)",
+          "score": 73,
+          "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:46] +10 điểm (Cộng nhanh bằng phím số)\n[2/8] [20:46] +3 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +20 điểm (Ngoan ngoãn)\n[9/8] [21:00] +10 điểm (Thực hiện nhiệm vụ tốt)",
           "badges": [],
           "goodDeeds": "- [2/8/2026] Ngoan ngoãn\n- [2/8/2026] Thông minh bất ngờ",
           "badDeeds": "",
@@ -7613,7 +7658,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1785756671058
+      "updatedAt": 1786419379097
     },
     {
       "id": "HS_1782305257781",
@@ -7784,17 +7829,22 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "",
-      "score": 23,
+      "score": 68,
       "lichessId": "",
       "notes": "",
       "goodDeeds": "- [2/8/2026] Ngoan ngoãn",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:45] +3 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)",
+      "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:45] +3 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +20 điểm (Ngoan ngoãn)\n[9/8] [20:52] +5 điểm (Cộng nhanh bằng phím số)\n[9/8] [21:00] +10 điểm (Thực hiện nhiệm vụ tốt)",
       "badges": [],
-      "totalSessions": 11,
-      "totalFee": 11,
+      "totalSessions": 12,
+      "totalFee": 12,
       "attendanceDetails": [
+        {
+          "date": "9/8/2026",
+          "className": "NAM  ĐÔ tối CN",
+          "classId": "CLASS_1779007066151_8"
+        },
         {
           "date": "2/8/2026",
           "className": "NAM  ĐÔ tối CN",
@@ -7866,8 +7916,8 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 23,
-          "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:45] +3 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)",
+          "score": 68,
+          "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:45] +3 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +20 điểm (Ngoan ngoãn)\n[9/8] [20:52] +5 điểm (Cộng nhanh bằng phím số)\n[9/8] [21:00] +10 điểm (Thực hiện nhiệm vụ tốt)",
           "badges": [],
           "goodDeeds": "- [2/8/2026] Ngoan ngoãn",
           "badDeeds": "",
@@ -7878,7 +7928,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1785756671058
+      "updatedAt": 1786419379097
     },
     {
       "id": "HS_1782305128760",
@@ -11179,17 +11229,27 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "e21seWlqfHJiZQ==",
-      "score": 94,
+      "score": 159,
       "lichessId": "",
       "notes": "",
-      "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [5/8/2026] Ngoan ngoãn\n- [6/8/2026] Ngoan ngoãn\n- [6/8/2026] Đi học chăm chỉ\n- [7/8/2026] Đi học chăm chỉ",
+      "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [5/8/2026] Ngoan ngoãn\n- [6/8/2026] Ngoan ngoãn\n- [6/8/2026] Đi học chăm chỉ\n- [7/8/2026] Đi học chăm chỉ\n- [11/8/2026] Ngoan ngoãn",
       "badDeeds": "- [5/8/2026] Trêu bạn",
       "gifts": "",
-      "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [10:09] +2 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:13] +9 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[6/8] [10:12] +10 điểm (Đi học chăm chỉ)\n[6/8] [10:14] +6 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:27] +1 điểm (Ngoan ngoãn)\n[7/8] [10:07] +9 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)",
+      "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [10:09] +2 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:13] +9 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[6/8] [10:12] +10 điểm (Đi học chăm chỉ)\n[6/8] [10:14] +6 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:27] +1 điểm (Ngoan ngoãn)\n[7/8] [10:07] +9 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)\n[11/8] [10:30] +50 điểm (Ngoan ngoãn)\n[11/8] [10:30] +15 điểm (Khai cuộc tốt)",
       "badges": [],
-      "totalSessions": 8,
-      "totalFee": 8,
+      "totalSessions": 10,
+      "totalFee": 10,
       "attendanceDetails": [
+        {
+          "date": "11/8/2026",
+          "className": "Khoá Hè Nguyễn Tuân Sáng",
+          "classId": "CLASS_1780280385569"
+        },
+        {
+          "date": "10/8/2026",
+          "className": "Khoá Hè Nguyễn Tuân Sáng",
+          "classId": "CLASS_1780280385569"
+        },
         {
           "date": "7/8/2026",
           "className": "Khoá Hè Nguyễn Tuân Sáng",
@@ -11247,10 +11307,10 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 94,
-          "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [10:09] +2 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:13] +9 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[6/8] [10:12] +10 điểm (Đi học chăm chỉ)\n[6/8] [10:14] +6 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:27] +1 điểm (Ngoan ngoãn)\n[7/8] [10:07] +9 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)",
+          "score": 159,
+          "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [10:09] +2 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:13] +9 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[6/8] [10:12] +10 điểm (Đi học chăm chỉ)\n[6/8] [10:14] +6 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:27] +1 điểm (Ngoan ngoãn)\n[7/8] [10:07] +9 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)\n[11/8] [10:30] +50 điểm (Ngoan ngoãn)\n[11/8] [10:30] +15 điểm (Khai cuộc tốt)",
           "badges": [],
-          "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [5/8/2026] Ngoan ngoãn\n- [6/8/2026] Ngoan ngoãn\n- [6/8/2026] Đi học chăm chỉ\n- [7/8/2026] Đi học chăm chỉ",
+          "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [5/8/2026] Ngoan ngoãn\n- [6/8/2026] Ngoan ngoãn\n- [6/8/2026] Đi học chăm chỉ\n- [7/8/2026] Đi học chăm chỉ\n- [11/8/2026] Ngoan ngoãn",
           "badDeeds": "- [5/8/2026] Trêu bạn",
           "gifts": "",
           "seasonName": "Tháng 8/2026",
@@ -11259,7 +11319,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1786111236250
+      "updatedAt": 1786419379106
     },
     {
       "id": "HS_1778398580713",
@@ -12497,17 +12557,22 @@
       "school": "",
       "phoneDad": "e21seGdqcHtlYg==",
       "phoneMom": "",
-      "score": 79,
+      "score": 119,
       "lichessId": "",
       "notes": "",
-      "goodDeeds": "- [1/8/2026] Ngoan ngoãn\n- [2/8/2026] Ngoan ngoãn",
+      "goodDeeds": "- [1/8/2026] Ngoan ngoãn\n- [2/8/2026] Ngoan ngoãn\n- [9/8/2026] DẤU ẤN XANH VIP PRO",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[1/8] [10:12] +10 điểm (Ngoan ngoãn)\n[1/8] [10:54] +5 điểm (Cộng nhanh bằng phím số)\n[1/8] [10:56] +5 điểm (Cộng nhanh bằng phím số)\n[1/8] [11:00] +10 điểm (Ngoan ngoãn)\n[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:45] +4 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)\n[8/8] [10:50] +10 điểm (Ngoan ngoãn)\n[8/8] [10:50] +5 điểm (Cộng nhanh bằng phím số)\n[8/8] [11:01] +10 điểm (Ngoan ngoãn)",
+      "scoreHistory": "[1/8] [10:12] +10 điểm (Ngoan ngoãn)\n[1/8] [10:54] +5 điểm (Cộng nhanh bằng phím số)\n[1/8] [10:56] +5 điểm (Cộng nhanh bằng phím số)\n[1/8] [11:00] +10 điểm (Ngoan ngoãn)\n[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:45] +4 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)\n[8/8] [10:50] +10 điểm (Ngoan ngoãn)\n[8/8] [10:50] +5 điểm (Cộng nhanh bằng phím số)\n[8/8] [11:01] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +20 điểm (Ngoan ngoãn)\n[9/8] [21:00] +10 điểm (Thực hiện nhiệm vụ tốt)",
       "badges": [],
-      "totalSessions": 10,
-      "totalFee": 10,
+      "totalSessions": 11,
+      "totalFee": 11,
       "attendanceDetails": [
+        {
+          "date": "9/8/2026",
+          "className": "NAM  ĐÔ tối CN",
+          "classId": "CLASS_1779007066151_8"
+        },
         {
           "date": "8/8/2026",
           "className": "NAM ĐÔ sáng T7",
@@ -12577,10 +12642,10 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 79,
-          "scoreHistory": "[1/8] [10:12] +10 điểm (Ngoan ngoãn)\n[1/8] [10:54] +5 điểm (Cộng nhanh bằng phím số)\n[1/8] [10:56] +5 điểm (Cộng nhanh bằng phím số)\n[1/8] [11:00] +10 điểm (Ngoan ngoãn)\n[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:45] +4 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)\n[8/8] [10:50] +10 điểm (Ngoan ngoãn)\n[8/8] [10:50] +5 điểm (Cộng nhanh bằng phím số)\n[8/8] [11:01] +10 điểm (Ngoan ngoãn)",
+          "score": 119,
+          "scoreHistory": "[1/8] [10:12] +10 điểm (Ngoan ngoãn)\n[1/8] [10:54] +5 điểm (Cộng nhanh bằng phím số)\n[1/8] [10:56] +5 điểm (Cộng nhanh bằng phím số)\n[1/8] [11:00] +10 điểm (Ngoan ngoãn)\n[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:45] +4 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)\n[8/8] [10:50] +10 điểm (Ngoan ngoãn)\n[8/8] [10:50] +5 điểm (Cộng nhanh bằng phím số)\n[8/8] [11:01] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +20 điểm (Ngoan ngoãn)\n[9/8] [21:00] +10 điểm (Thực hiện nhiệm vụ tốt)",
           "badges": [],
-          "goodDeeds": "- [1/8/2026] Ngoan ngoãn\n- [2/8/2026] Ngoan ngoãn",
+          "goodDeeds": "- [1/8/2026] Ngoan ngoãn\n- [2/8/2026] Ngoan ngoãn\n- [9/8/2026] DẤU ẤN XANH VIP PRO",
           "badDeeds": "",
           "gifts": "",
           "seasonName": "Tháng 8/2026",
@@ -12589,7 +12654,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1786190465118
+      "updatedAt": 1786419379098
     },
     {
       "id": "HS_1780828084209",
@@ -13400,17 +13465,27 @@
       "school": "",
       "phoneDad": "e21ge2hjfXJkYw==",
       "phoneMom": "e21se2dicHpsYw==",
-      "score": 89,
+      "score": 54,
       "lichessId": "",
       "notes": "",
-      "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [7/8/2026] không sợ thua\n- [7/8/2026] Đi học chăm chỉ",
+      "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [7/8/2026] không sợ thua\n- [7/8/2026] Đi học chăm chỉ\n- [11/8/2026] Ngoan ngoãn",
       "badDeeds": "- [5/8/2026] Gác chân lên bàn; làm đổ hộp cờ",
       "gifts": "",
-      "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [09:48] -2 điểm (Cộng nhanh)\n[5/8] [10:14] +5 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[6/8] [10:12] +10 điểm (Đi học chăm chỉ)\n[6/8] [10:14] +4 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:27] +1 điểm (Ngoan ngoãn)\n[7/8] [10:04] +4 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:07] +10 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)",
+      "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [09:48] -2 điểm (Cộng nhanh)\n[5/8] [10:14] +5 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[6/8] [10:12] +10 điểm (Đi học chăm chỉ)\n[6/8] [10:14] +4 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:27] +1 điểm (Ngoan ngoãn)\n[7/8] [10:04] +4 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:07] +10 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)\n[11/8] [10:30] +50 điểm (Ngoan ngoãn)\n[11/8] [10:30] +15 điểm (Khai cuộc tốt)\n[11/8] [10:32] -100 điểm (chưa cho về đã về)",
       "badges": [],
-      "totalSessions": 4,
-      "totalFee": 4,
+      "totalSessions": 6,
+      "totalFee": 6,
       "attendanceDetails": [
+        {
+          "date": "11/8/2026",
+          "className": "Khoá Hè Nguyễn Tuân Sáng",
+          "classId": "CLASS_1780280385569"
+        },
+        {
+          "date": "10/8/2026",
+          "className": "Khoá Hè Nguyễn Tuân Sáng",
+          "classId": "CLASS_1780280385569"
+        },
         {
           "date": "7/8/2026",
           "className": "Khoá Hè Nguyễn Tuân Sáng",
@@ -13445,10 +13520,10 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 89,
-          "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [09:48] -2 điểm (Cộng nhanh)\n[5/8] [10:14] +5 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[6/8] [10:12] +10 điểm (Đi học chăm chỉ)\n[6/8] [10:14] +4 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:27] +1 điểm (Ngoan ngoãn)\n[7/8] [10:04] +4 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:07] +10 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)",
+          "score": 54,
+          "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [09:48] -2 điểm (Cộng nhanh)\n[5/8] [10:14] +5 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[6/8] [10:12] +10 điểm (Đi học chăm chỉ)\n[6/8] [10:14] +4 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:27] +1 điểm (Ngoan ngoãn)\n[7/8] [10:04] +4 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:07] +10 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)\n[11/8] [10:30] +50 điểm (Ngoan ngoãn)\n[11/8] [10:30] +15 điểm (Khai cuộc tốt)\n[11/8] [10:32] -100 điểm (chưa cho về đã về)",
           "badges": [],
-          "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [7/8/2026] không sợ thua\n- [7/8/2026] Đi học chăm chỉ",
+          "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [7/8/2026] không sợ thua\n- [7/8/2026] Đi học chăm chỉ\n- [11/8/2026] Ngoan ngoãn",
           "badDeeds": "- [5/8/2026] Gác chân lên bàn; làm đổ hộp cờ",
           "gifts": "",
           "seasonName": "Tháng 8/2026",
@@ -13457,7 +13532,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1786111236250
+      "updatedAt": 1786419379106
     },
     {
       "id": "HS_1784889187670",
@@ -14187,17 +14262,27 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "e21kf25ldHFsZg==",
-      "score": 100,
+      "score": 65,
       "lichessId": "",
       "notes": "",
-      "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [5/8/2026] Ngoan ngoãn\n- [6/8/2026] Ngoan ngoãn\n- [7/8/2026] không sợ thua\n- [7/8/2026] Đi học chăm chỉ",
+      "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [5/8/2026] Ngoan ngoãn\n- [6/8/2026] Ngoan ngoãn\n- [7/8/2026] không sợ thua\n- [7/8/2026] Đi học chăm chỉ\n- [11/8/2026] Ngoan ngoãn",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [10:15] +9 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[6/8] [10:12] +10 điểm (Đi học chăm chỉ)\n[6/8] [10:14] +8 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:17] +7 điểm (Từ vòng quay cộng)\n[6/8] [10:27] +1 điểm (Ngoan ngoãn)\n[7/8] [10:07] +8 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)",
+      "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [10:15] +9 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[6/8] [10:12] +10 điểm (Đi học chăm chỉ)\n[6/8] [10:14] +8 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:17] +7 điểm (Từ vòng quay cộng)\n[6/8] [10:27] +1 điểm (Ngoan ngoãn)\n[7/8] [10:07] +8 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)\n[11/8] [10:29] +10 điểm (Cộng nhanh bằng phím số)\n[11/8] [10:30] +15 điểm (Khai cuộc tốt)\n[11/8] [10:33] -100 điểm (Trừ điểm)",
       "badges": [],
-      "totalSessions": 4,
-      "totalFee": 4,
+      "totalSessions": 6,
+      "totalFee": 6,
       "attendanceDetails": [
+        {
+          "date": "11/8/2026",
+          "className": "Khoá Hè Nguyễn Tuân Sáng",
+          "classId": "CLASS_1780280385569"
+        },
+        {
+          "date": "10/8/2026",
+          "className": "Khoá Hè Nguyễn Tuân Sáng",
+          "classId": "CLASS_1780280385569"
+        },
         {
           "date": "7/8/2026",
           "className": "Khoá Hè Nguyễn Tuân Sáng",
@@ -14232,10 +14317,10 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 100,
-          "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [10:15] +9 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[6/8] [10:12] +10 điểm (Đi học chăm chỉ)\n[6/8] [10:14] +8 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:17] +7 điểm (Từ vòng quay cộng)\n[6/8] [10:27] +1 điểm (Ngoan ngoãn)\n[7/8] [10:07] +8 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)",
+          "score": 65,
+          "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [10:15] +9 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[6/8] [10:12] +10 điểm (Đi học chăm chỉ)\n[6/8] [10:14] +8 điểm (Cộng nhanh bằng phím số)\n[6/8] [10:17] +7 điểm (Từ vòng quay cộng)\n[6/8] [10:27] +1 điểm (Ngoan ngoãn)\n[7/8] [10:07] +8 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)\n[11/8] [10:29] +10 điểm (Cộng nhanh bằng phím số)\n[11/8] [10:30] +15 điểm (Khai cuộc tốt)\n[11/8] [10:33] -100 điểm (Trừ điểm)",
           "badges": [],
-          "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [5/8/2026] Ngoan ngoãn\n- [6/8/2026] Ngoan ngoãn\n- [7/8/2026] không sợ thua\n- [7/8/2026] Đi học chăm chỉ",
+          "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [5/8/2026] Ngoan ngoãn\n- [6/8/2026] Ngoan ngoãn\n- [7/8/2026] không sợ thua\n- [7/8/2026] Đi học chăm chỉ\n- [11/8/2026] Ngoan ngoãn",
           "badDeeds": "",
           "gifts": "",
           "seasonName": "Tháng 8/2026",
@@ -14244,7 +14329,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1786111236250
+      "updatedAt": 1786419379106
     },
     {
       "id": "HS_1778323171007",
@@ -15463,17 +15548,22 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "",
-      "score": 31,
+      "score": 75,
       "lichessId": "",
       "notes": "",
       "goodDeeds": "- [2/8/2026] Ngoan ngoãn",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:45] +5 điểm (Cộng nhanh bằng phím số)\n[2/8] [20:45] +6 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)",
+      "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:45] +5 điểm (Cộng nhanh bằng phím số)\n[2/8] [20:45] +6 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +20 điểm (Ngoan ngoãn)\n[9/8] [20:53] +3 điểm (Cộng nhanh bằng phím số)\n[9/8] [20:59] +1 điểm (Cộng nhanh bằng phím số)\n[9/8] [21:00] +10 điểm (Thực hiện nhiệm vụ tốt)",
       "badges": [],
-      "totalSessions": 9,
-      "totalFee": 9,
+      "totalSessions": 10,
+      "totalFee": 10,
       "attendanceDetails": [
+        {
+          "date": "9/8/2026",
+          "className": "NAM  ĐÔ tối CN",
+          "classId": "CLASS_1779007066151_8"
+        },
         {
           "date": "2/8/2026",
           "className": "NAM  ĐÔ tối CN",
@@ -15536,8 +15626,8 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 31,
-          "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:45] +5 điểm (Cộng nhanh bằng phím số)\n[2/8] [20:45] +6 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)",
+          "score": 75,
+          "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:45] +5 điểm (Cộng nhanh bằng phím số)\n[2/8] [20:45] +6 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +20 điểm (Ngoan ngoãn)\n[9/8] [20:53] +3 điểm (Cộng nhanh bằng phím số)\n[9/8] [20:59] +1 điểm (Cộng nhanh bằng phím số)\n[9/8] [21:00] +10 điểm (Thực hiện nhiệm vụ tốt)",
           "badges": [],
           "goodDeeds": "- [2/8/2026] Ngoan ngoãn",
           "badDeeds": "",
@@ -15548,7 +15638,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1785756671058
+      "updatedAt": 1786419379097
     },
     {
       "id": "HS_1778398547070",
@@ -15613,17 +15703,22 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "e21sfmdmdHpnYw==",
-      "score": 27,
+      "score": 98,
       "lichessId": "",
       "notes": "",
       "goodDeeds": "- [2/8/2026] Ngoan ngoãn",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:47] +7 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)",
+      "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:47] +7 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +10 điểm (Cộng nhanh bằng phím số)\n[9/8] [20:48] +20 điểm (Ngoan ngoãn)\n[9/8] [20:55] +1 điểm (Cộng nhanh bằng phím số)\n[9/8] [21:00] +10 điểm (Thực hiện nhiệm vụ tốt)",
       "badges": [],
-      "totalSessions": 13,
-      "totalFee": 13,
+      "totalSessions": 14,
+      "totalFee": 14,
       "attendanceDetails": [
+        {
+          "date": "9/8/2026",
+          "className": "NAM  ĐÔ tối CN",
+          "classId": "CLASS_1779007066151_8"
+        },
         {
           "date": "2/8/2026",
           "className": "NAM  ĐÔ tối CN",
@@ -15708,8 +15803,8 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 27,
-          "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:47] +7 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)",
+          "score": 98,
+          "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:47] +7 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +10 điểm (Cộng nhanh bằng phím số)\n[9/8] [20:48] +20 điểm (Ngoan ngoãn)\n[9/8] [20:55] +1 điểm (Cộng nhanh bằng phím số)\n[9/8] [21:00] +10 điểm (Thực hiện nhiệm vụ tốt)",
           "badges": [],
           "goodDeeds": "- [2/8/2026] Ngoan ngoãn",
           "badDeeds": "",
@@ -15720,7 +15815,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1785756671058
+      "updatedAt": 1786419379098
     },
     {
       "id": "HS_1783690208257",
@@ -17679,17 +17774,27 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "e21sfm9ifXRjYg==",
-      "score": 87,
+      "score": 152,
       "lichessId": "",
       "notes": "",
-      "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [7/8/2026] Đi học chăm chỉ",
+      "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [7/8/2026] Đi học chăm chỉ\n- [11/8/2026] Ngoan ngoãn",
       "badDeeds": "- [4/8/2026] để hoà PAT\n- [5/8/2026] nói chuyện khi chơi cờ",
       "gifts": "",
-      "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [10:09] +2 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:13] +9 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:17] +10 điểm (Từ vòng quay cộng)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[7/8] [10:08] +9 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)",
+      "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [10:09] +2 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:13] +9 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:17] +10 điểm (Từ vòng quay cộng)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[7/8] [10:08] +9 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)\n[11/8] [10:30] +50 điểm (Ngoan ngoãn)\n[11/8] [10:30] +15 điểm (Khai cuộc tốt)",
       "badges": [],
-      "totalSessions": 32,
-      "totalFee": 32,
+      "totalSessions": 34,
+      "totalFee": 34,
       "attendanceDetails": [
+        {
+          "date": "11/8/2026",
+          "className": "Khoá Hè Nguyễn Tuân Sáng",
+          "classId": "CLASS_1780280385569"
+        },
+        {
+          "date": "10/8/2026",
+          "className": "Khoá Hè Nguyễn Tuân Sáng",
+          "classId": "CLASS_1780280385569"
+        },
         {
           "date": "7/8/2026",
           "className": "Khoá Hè Nguyễn Tuân Sáng",
@@ -17877,10 +17982,10 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 87,
-          "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [10:09] +2 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:13] +9 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:17] +10 điểm (Từ vòng quay cộng)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[7/8] [10:08] +9 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)",
+          "score": 152,
+          "scoreHistory": "[4/8] [09:08] +10 điểm (Ngoan ngoãn)\n[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [10:09] +2 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:13] +9 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:17] +10 điểm (Từ vòng quay cộng)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)\n[7/8] [10:08] +9 điểm (Cộng nhanh bằng phím số)\n[7/8] [10:10] +10 điểm (Ngoan ngoãn)\n[7/8] [10:28] +12 điểm (Ngoan ngoãn)\n[7/8] [10:32] +10 điểm (Thực hiện nhiệm vụ tốt)\n[11/8] [10:30] +50 điểm (Ngoan ngoãn)\n[11/8] [10:30] +15 điểm (Khai cuộc tốt)",
           "badges": [],
-          "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [7/8/2026] Đi học chăm chỉ",
+          "goodDeeds": "- [4/8/2026] Ngoan ngoãn\n- [7/8/2026] Đi học chăm chỉ\n- [11/8/2026] Ngoan ngoãn",
           "badDeeds": "- [4/8/2026] để hoà PAT\n- [5/8/2026] nói chuyện khi chơi cờ",
           "gifts": "",
           "seasonName": "Tháng 8/2026",
@@ -17889,7 +17994,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1786111236240
+      "updatedAt": 1786419379105
     },
     {
       "id": "HS_1778899305881",
@@ -18077,9 +18182,14 @@
       "gifts": "",
       "scoreHistory": "[5/8] [09:30] +10 điểm (Ngoan ngoãn)\n[5/8] [10:14] +5 điểm (Cộng nhanh bằng phím số)\n[5/8] [10:33] +5 điểm (Thực hiện nhiệm vụ tốt)",
       "badges": [],
-      "totalSessions": 4,
-      "totalFee": 4,
+      "totalSessions": 5,
+      "totalFee": 5,
       "attendanceDetails": [
+        {
+          "date": "10/8/2026",
+          "className": "Khoá Hè Nguyễn Tuân Sáng",
+          "classId": "CLASS_1780280385569"
+        },
         {
           "date": "5/8/2026",
           "className": "Khoá Hè Nguyễn Tuân Sáng",
@@ -18128,7 +18238,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1785900863373
+      "updatedAt": 1786419379106
     },
     {
       "id": "HS_1784861488223",
@@ -18430,17 +18540,22 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "",
-      "score": 0,
+      "score": 40,
       "lichessId": "",
       "notes": "",
       "goodDeeds": "",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "",
+      "scoreHistory": "[9/8] [20:48] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +20 điểm (Ngoan ngoãn)\n[9/8] [21:00] +10 điểm (Thực hiện nhiệm vụ tốt)",
       "badges": [],
-      "totalSessions": 2,
-      "totalFee": 2,
+      "totalSessions": 3,
+      "totalFee": 3,
       "attendanceDetails": [
+        {
+          "date": "9/8/2026",
+          "className": "NAM  ĐÔ tối CN",
+          "classId": "CLASS_1779007066151_8"
+        },
         {
           "date": "19/7/2026",
           "className": "NAM  ĐÔ tối CN",
@@ -18465,8 +18580,8 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 0,
-          "scoreHistory": "",
+          "score": 40,
+          "scoreHistory": "[9/8] [20:48] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +20 điểm (Ngoan ngoãn)\n[9/8] [21:00] +10 điểm (Thực hiện nhiệm vụ tốt)",
           "badges": [],
           "goodDeeds": "",
           "badDeeds": "",
@@ -18477,7 +18592,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1785756671058
+      "updatedAt": 1786419379097
     },
     {
       "id": "HS_1778243781880",
@@ -18587,17 +18702,22 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "",
-      "score": 0,
+      "score": 40,
       "lichessId": "",
       "notes": "",
-      "goodDeeds": "",
+      "goodDeeds": "- [9/8/2026] Ngoan ngoãn",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "",
+      "scoreHistory": "[9/8] [20:48] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +20 điểm (Ngoan ngoãn)\n[9/8] [21:00] +10 điểm (Thực hiện nhiệm vụ tốt)",
       "badges": [],
-      "totalSessions": 2,
-      "totalFee": 2,
+      "totalSessions": 3,
+      "totalFee": 3,
       "attendanceDetails": [
+        {
+          "date": "9/8/2026",
+          "className": "NAM  ĐÔ tối CN",
+          "classId": "CLASS_1779007066151_8"
+        },
         {
           "date": "19/7/2026",
           "className": "NAM  ĐÔ tối CN",
@@ -18622,10 +18742,10 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 0,
-          "scoreHistory": "",
+          "score": 40,
+          "scoreHistory": "[9/8] [20:48] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +20 điểm (Ngoan ngoãn)\n[9/8] [21:00] +10 điểm (Thực hiện nhiệm vụ tốt)",
           "badges": [],
-          "goodDeeds": "",
+          "goodDeeds": "- [9/8/2026] Ngoan ngoãn",
           "badDeeds": "",
           "gifts": "",
           "seasonName": "Tháng 8/2026",
@@ -18634,7 +18754,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1785756671058
+      "updatedAt": 1786419379097
     },
     {
       "id": "HS_1782998894528",
@@ -19725,17 +19845,22 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "e2dhdWpidnJsaw==",
-      "score": 25,
+      "score": 75,
       "lichessId": "",
       "notes": "",
-      "goodDeeds": "- [2/8/2026] Ngoan ngoãn\n- [2/8/2026] Chơi cờ nghiêm túc",
+      "goodDeeds": "- [2/8/2026] Ngoan ngoãn\n- [2/8/2026] Chơi cờ nghiêm túc\n- [9/8/2026] Ngoan ngoãn",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:47] +5 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)",
+      "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:47] +5 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +20 điểm (Ngoan ngoãn)\n[9/8] [20:58] +10 điểm (Cộng nhanh bằng phím số)\n[9/8] [21:00] +10 điểm (Thực hiện nhiệm vụ tốt)",
       "badges": [],
-      "totalSessions": 6,
-      "totalFee": 6,
+      "totalSessions": 7,
+      "totalFee": 7,
       "attendanceDetails": [
+        {
+          "date": "9/8/2026",
+          "className": "NAM  ĐÔ tối CN",
+          "classId": "CLASS_1779007066151_8"
+        },
         {
           "date": "2/8/2026",
           "className": "NAM  ĐÔ tối CN",
@@ -19782,10 +19907,10 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 25,
-          "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:47] +5 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)",
+          "score": 75,
+          "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:47] +5 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +20 điểm (Ngoan ngoãn)\n[9/8] [20:58] +10 điểm (Cộng nhanh bằng phím số)\n[9/8] [21:00] +10 điểm (Thực hiện nhiệm vụ tốt)",
           "badges": [],
-          "goodDeeds": "- [2/8/2026] Ngoan ngoãn\n- [2/8/2026] Chơi cờ nghiêm túc",
+          "goodDeeds": "- [2/8/2026] Ngoan ngoãn\n- [2/8/2026] Chơi cờ nghiêm túc\n- [9/8/2026] Ngoan ngoãn",
           "badDeeds": "",
           "gifts": "",
           "seasonName": "Tháng 8/2026",
@@ -19794,7 +19919,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1785756671058
+      "updatedAt": 1786419379098
     },
     {
       "id": "HS_1782222765609",
@@ -19968,17 +20093,22 @@
       "school": "",
       "phoneDad": "",
       "phoneMom": "e2dhdWpidnJsaw==",
-      "score": 23,
+      "score": 63,
       "lichessId": "",
       "notes": "em trai Hải Đăng",
       "goodDeeds": "- [2/8/2026] Ngoan ngoãn",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:47] +3 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)",
+      "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:47] +3 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +20 điểm (Ngoan ngoãn)\n[9/8] [21:00] +10 điểm (Thực hiện nhiệm vụ tốt)",
       "badges": [],
-      "totalSessions": 6,
-      "totalFee": 6,
+      "totalSessions": 7,
+      "totalFee": 7,
       "attendanceDetails": [
+        {
+          "date": "9/8/2026",
+          "className": "NAM  ĐÔ tối CN",
+          "classId": "CLASS_1779007066151_8"
+        },
         {
           "date": "2/8/2026",
           "className": "NAM  ĐÔ tối CN",
@@ -20026,8 +20156,8 @@
           "notes": ""
         },
         "SEASON_1785054771352_vxatb": {
-          "score": 23,
-          "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:47] +3 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)",
+          "score": 63,
+          "scoreHistory": "[2/8] [20:44] +10 điểm (Ngoan ngoãn)\n[2/8] [20:47] +3 điểm (Cộng nhanh bằng phím số)\n[2/8] [21:01] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +10 điểm (Ngoan ngoãn)\n[9/8] [20:48] +20 điểm (Ngoan ngoãn)\n[9/8] [21:00] +10 điểm (Thực hiện nhiệm vụ tốt)",
           "badges": [],
           "goodDeeds": "- [2/8/2026] Ngoan ngoãn",
           "badDeeds": "",
@@ -20038,7 +20168,7 @@
       },
       "updatedBy": "DEVICE_1783759312607_s807db84",
       "deleted": false,
-      "updatedAt": 1785756671058
+      "updatedAt": 1786419379098
     },
     {
       "id": "HS_1782471383634",

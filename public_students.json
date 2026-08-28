@@ -4332,5 +4332,26 @@
     "gifts": "",
     "scoreHistory": "",
     "attendanceDetails": []
+  },
+  {
+    "id": "HS_1787922966786",
+    "name": "Cao Bảo Chính",
+    "birthYear": "",
+    "school": "",
+    "phoneDad": "",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "28/8/2026",
+        "className": "Đội tuyển (19h30T46)"
+      }
+    ]
   }
 ]

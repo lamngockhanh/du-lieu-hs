@@ -2769,6 +2769,10 @@
       {
         "date": "21/8/2026",
         "className": "Nâng cao (17h30T46)"
+      },
+      {
+        "date": "28/8/2026",
+        "className": "Nâng cao (17h30T46)"
       }
     ]
   },
@@ -2956,6 +2960,10 @@
       {
         "date": "21/8/2026",
         "className": "Nâng cao (17h30T46)"
+      },
+      {
+        "date": "28/8/2026",
+        "className": "Nâng cao (17h30T46)"
       }
     ]
   },
@@ -3032,6 +3040,10 @@
       },
       {
         "date": "26/8/2026",
+        "className": "Nâng cao (17h30T46)"
+      },
+      {
+        "date": "28/8/2026",
         "className": "Nâng cao (17h30T46)"
       }
     ]
@@ -3158,6 +3170,10 @@
       },
       {
         "date": "26/8/2026",
+        "className": "Nâng cao (17h30T46)"
+      },
+      {
+        "date": "28/8/2026",
         "className": "Nâng cao (17h30T46)"
       }
     ]
@@ -3529,6 +3545,10 @@
       {
         "date": "21/8/2026",
         "className": "Nâng cao (17h30T46)"
+      },
+      {
+        "date": "28/8/2026",
+        "className": "Nâng cao (17h30T46)"
       }
     ]
   },
@@ -3679,6 +3699,10 @@
       {
         "date": "21/8/2026",
         "className": "Nâng cao (17h30T46)"
+      },
+      {
+        "date": "28/8/2026",
+        "className": "Nâng cao (17h30T46)"
       }
     ]
   },
@@ -3801,6 +3825,10 @@
       },
       {
         "date": "21/8/2026",
+        "className": "Nâng cao (17h30T46)"
+      },
+      {
+        "date": "28/8/2026",
         "className": "Nâng cao (17h30T46)"
       }
     ]
@@ -4058,6 +4086,10 @@
       {
         "date": "21/8/2026",
         "className": "Nâng cao (17h30T46)"
+      },
+      {
+        "date": "28/8/2026",
+        "className": "Nâng cao (17h30T46)"
       }
     ]
   },
@@ -4284,5 +4316,21 @@
         "className": "Nâng cao (17h30T46)"
       }
     ]
+  },
+  {
+    "id": "HS_1787922169289",
+    "name": "Nguyễn Tuấn Kiệt",
+    "birthYear": "",
+    "school": "Lớp 4",
+    "phoneDad": "0388302479",
+    "phoneMom": "",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": []
   }
 ]

@@ -258,6 +258,10 @@
         "className": "Đội tuyển (19h30T46)"
       },
       {
+        "date": "4/9/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
         "date": "23/6/2026",
         "className": "CLASS_1782222649113"
       },
@@ -340,6 +344,10 @@
       },
       {
         "date": "28/8/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "4/9/2026",
         "className": "Đội tuyển (19h30T46)"
       },
       {
@@ -473,6 +481,10 @@
       },
       {
         "date": "28/8/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "4/9/2026",
         "className": "Đội tuyển (19h30T46)"
       },
       {
@@ -638,6 +650,10 @@
         "className": "Đội tuyển (19h30T46)"
       },
       {
+        "date": "4/9/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
         "date": "23/6/2026",
         "className": "CLASS_1782222649113"
       },
@@ -794,6 +810,10 @@
       {
         "date": "28/8/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "4/9/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
@@ -886,6 +906,10 @@
       },
       {
         "date": "28/8/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "4/9/2026",
         "className": "Đội tuyển (19h30T46)"
       },
       {
@@ -1546,6 +1570,10 @@
       {
         "date": "28/8/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "4/9/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
@@ -1627,6 +1655,10 @@
       {
         "date": "28/8/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "4/9/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
@@ -1670,8 +1702,8 @@
   {
     "id": "HS_1782305153148",
     "name": "Nhật Nguyên",
-    "birthYear": "",
-    "school": "",
+    "birthYear": "2015",
+    "school": "THCS Trưng Nhị",
     "phoneDad": "",
     "phoneMom": "",
     "score": 0,
@@ -1708,6 +1740,10 @@
       },
       {
         "date": "28/8/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "4/9/2026",
         "className": "Đội tuyển (19h30T46)"
       }
     ]
@@ -1790,14 +1826,18 @@
       {
         "date": "28/8/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "4/9/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
   {
     "id": "HS_1782305181069",
     "name": "Nguyễn Đăng Lâm",
-    "birthYear": "",
-    "school": "",
+    "birthYear": "2019",
+    "school": "TH Phương Liệt",
     "phoneDad": "",
     "phoneMom": "",
     "score": 0,
@@ -1851,14 +1891,18 @@
       {
         "date": "28/8/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "4/9/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
   {
     "id": "HS_1782305193374",
     "name": "Nguyễn Tú Anh",
-    "birthYear": "",
-    "school": "",
+    "birthYear": "2016",
+    "school": "Acsichimes",
     "phoneDad": "",
     "phoneMom": "",
     "score": 0,
@@ -1911,6 +1955,10 @@
       },
       {
         "date": "28/8/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "4/9/2026",
         "className": "Đội tuyển (19h30T46)"
       }
     ]
@@ -2090,6 +2138,10 @@
         "className": "Đội tuyển (19h30T46)"
       },
       {
+        "date": "4/9/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
         "date": "10/6/2026",
         "className": "Nâng cao (17h30T46)"
       },
@@ -2130,8 +2182,8 @@
   {
     "id": "HS_1782305276800",
     "name": "Đức Khôi",
-    "birthYear": "",
-    "school": "",
+    "birthYear": "2014",
+    "school": "THCS Hoàng Mai",
     "phoneDad": "",
     "phoneMom": "",
     "score": 0,
@@ -2189,6 +2241,10 @@
       {
         "date": "28/8/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "4/9/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
@@ -2245,6 +2301,10 @@
       },
       {
         "date": "21/8/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "4/9/2026",
         "className": "Đội tuyển (19h30T46)"
       }
     ]
@@ -2319,6 +2379,10 @@
       {
         "date": "28/8/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "4/9/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
@@ -2383,8 +2447,8 @@
   {
     "id": "HS_1783687698261",
     "name": "Phạm Gia Hưng",
-    "birthYear": "",
-    "school": "",
+    "birthYear": "2014",
+    "school": "Ngô Gia Tự",
     "phoneDad": "",
     "phoneMom": "",
     "score": 0,
@@ -2425,6 +2489,10 @@
       },
       {
         "date": "28/8/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "4/9/2026",
         "className": "Đội tuyển (19h30T46)"
       }
     ]
@@ -2495,6 +2563,10 @@
       {
         "date": "28/8/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "4/9/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
@@ -2536,6 +2608,10 @@
       {
         "date": "28/8/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "4/9/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
@@ -2572,6 +2648,10 @@
       },
       {
         "date": "19/8/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "4/9/2026",
         "className": "Đội tuyển (19h30T46)"
       }
     ]
@@ -4336,10 +4416,10 @@
   {
     "id": "HS_1787922966786",
     "name": "Cao Bảo Chính",
-    "birthYear": "",
-    "school": "",
+    "birthYear": "2014",
+    "school": "Hoàng Liệt",
     "phoneDad": "",
-    "phoneMom": "",
+    "phoneMom": "0972559974",
     "score": 0,
     "lichessId": "",
     "notes": "",
@@ -4350,6 +4430,10 @@
     "attendanceDetails": [
       {
         "date": "28/8/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "4/9/2026",
         "className": "Đội tuyển (19h30T46)"
       }
     ]

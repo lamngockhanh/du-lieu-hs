@@ -155,6 +155,10 @@
       {
         "date": "26/8/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "9/9/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
@@ -488,6 +492,10 @@
         "className": "Đội tuyển (19h30T46)"
       },
       {
+        "date": "9/9/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
         "date": "23/6/2026",
         "className": "CLASS_1782222649113"
       },
@@ -814,6 +822,10 @@
       {
         "date": "4/9/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "9/9/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
@@ -910,6 +922,10 @@
       },
       {
         "date": "4/9/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "9/9/2026",
         "className": "Đội tuyển (19h30T46)"
       },
       {
@@ -1137,6 +1153,10 @@
       },
       {
         "date": "28/8/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "9/9/2026",
         "className": "Đội tuyển (19h30T46)"
       }
     ]
@@ -1398,6 +1418,10 @@
       {
         "date": "26/8/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "9/9/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
@@ -1462,6 +1486,10 @@
       },
       {
         "date": "26/8/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "9/9/2026",
         "className": "Đội tuyển (19h30T46)"
       }
     ]
@@ -1659,6 +1687,10 @@
       {
         "date": "4/9/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "9/9/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
@@ -1829,6 +1861,10 @@
       },
       {
         "date": "4/9/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "9/9/2026",
         "className": "Đội tuyển (19h30T46)"
       }
     ]
@@ -2020,6 +2056,10 @@
       },
       {
         "date": "26/8/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "9/9/2026",
         "className": "Đội tuyển (19h30T46)"
       }
     ]
@@ -2383,6 +2423,10 @@
       {
         "date": "4/9/2026",
         "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "9/9/2026",
+        "className": "Đội tuyển (19h30T46)"
       }
     ]
   },
@@ -2652,6 +2696,10 @@
       },
       {
         "date": "4/9/2026",
+        "className": "Đội tuyển (19h30T46)"
+      },
+      {
+        "date": "9/9/2026",
         "className": "Đội tuyển (19h30T46)"
       }
     ]
@@ -4434,6 +4482,27 @@
       },
       {
         "date": "4/9/2026",
+        "className": "Đội tuyển (19h30T46)"
+      }
+    ]
+  },
+  {
+    "id": "HS_1788957807087",
+    "name": "Nguyễn Nhật Minh",
+    "birthYear": "2016",
+    "school": "Tiểu học Quỳnh Mai",
+    "phoneDad": "",
+    "phoneMom": "0989311893",
+    "score": 0,
+    "lichessId": "",
+    "notes": "",
+    "goodDeeds": "",
+    "badDeeds": "",
+    "gifts": "",
+    "scoreHistory": "",
+    "attendanceDetails": [
+      {
+        "date": "9/9/2026",
         "className": "Đội tuyển (19h30T46)"
       }
     ]

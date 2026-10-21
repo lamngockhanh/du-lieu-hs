@@ -1,6 +1,6 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-15T14:03:02.031Z",
+  "generatedAt": "2026-10-21T12:50:46.769Z",
   "generatedBy": "DEVICE_1789735876656_t3qh3lj8",
   "studentCount": 75,
   "pointSeasons": [],
@@ -129,9 +129,19 @@
       "gifts": "",
       "scoreHistory": "",
       "badges": [],
-      "totalSessions": 23,
-      "totalFee": 2530000,
+      "totalSessions": 25,
+      "totalFee": 2750000,
       "attendanceDetails": [
+        {
+          "date": "21/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
+        {
+          "date": "16/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "14/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -323,7 +333,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1792072980194
+      "updatedAt": 1792587044986
     },
     {
       "id": "HS_1787922966786",
@@ -620,9 +630,14 @@
       "gifts": "",
       "scoreHistory": "",
       "badges": [],
-      "totalSessions": 7,
-      "totalFee": 770000,
+      "totalSessions": 8,
+      "totalFee": 880000,
       "attendanceDetails": [
+        {
+          "date": "16/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "9/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -686,7 +701,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1791779540203
+      "updatedAt": 1792587044974
     },
     {
       "id": "HS_1784435422344",
@@ -829,9 +844,19 @@
       "gifts": "",
       "scoreHistory": "[22/7] [21:08] +4 điểm (Cộng nhanh)\n[16/9] [20:49] +15 điểm (Cộng nhanh)",
       "badges": [],
-      "totalSessions": 35,
-      "totalFee": 3850000,
+      "totalSessions": 37,
+      "totalFee": 4070000,
       "attendanceDetails": [
+        {
+          "date": "21/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
+        {
+          "date": "16/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "14/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -1131,7 +1156,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1792072980185
+      "updatedAt": 1792587044964
     },
     {
       "id": "HS_1782305276800",
@@ -1752,9 +1777,14 @@
       "gifts": "",
       "scoreHistory": "[22/7] [21:09] +2 điểm (Cộng nhanh)\n[31/7] [21:00] +10 điểm (Cộng nhanh)",
       "badges": [],
-      "totalSessions": 34,
-      "totalFee": 3740000,
+      "totalSessions": 35,
+      "totalFee": 3850000,
       "attendanceDetails": [
+        {
+          "date": "16/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "9/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -2053,7 +2083,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1791779540191
+      "updatedAt": 1792587044941
     },
     {
       "id": "HS_1781867441511",
@@ -2248,9 +2278,14 @@
       "gifts": "",
       "scoreHistory": "",
       "badges": [],
-      "totalSessions": 12,
-      "totalFee": 1320000,
+      "totalSessions": 13,
+      "totalFee": 1430000,
       "attendanceDetails": [
+        {
+          "date": "16/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "9/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -2359,7 +2394,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1791779540210
+      "updatedAt": 1792587044987
     },
     {
       "id": "HS_1781867342645",
@@ -2466,9 +2501,14 @@
       "gifts": "",
       "scoreHistory": "",
       "badges": [],
-      "totalSessions": 16,
-      "totalFee": 1760000,
+      "totalSessions": 17,
+      "totalFee": 1870000,
       "attendanceDetails": [
+        {
+          "date": "21/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "14/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -2617,7 +2657,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1792072980188
+      "updatedAt": 1792587044973
     },
     {
       "id": "HS_1782304781182",
@@ -2634,9 +2674,14 @@
       "gifts": "",
       "scoreHistory": "",
       "badges": [],
-      "totalSessions": 16,
-      "totalFee": 1760000,
+      "totalSessions": 17,
+      "totalFee": 1870000,
       "attendanceDetails": [
+        {
+          "date": "21/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "14/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -2785,7 +2830,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1792072980188
+      "updatedAt": 1792587044972
     },
     {
       "id": "HS_1782304395749",
@@ -2802,9 +2847,19 @@
       "gifts": "",
       "scoreHistory": "",
       "badges": [],
-      "totalSessions": 29,
-      "totalFee": 3190000,
+      "totalSessions": 31,
+      "totalFee": 3410000,
       "attendanceDetails": [
+        {
+          "date": "21/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
+        {
+          "date": "16/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "14/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -3050,7 +3105,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1792072980182
+      "updatedAt": 1792587044958
     },
     {
       "id": "HS_1782305257781",
@@ -3192,9 +3247,19 @@
       "gifts": "",
       "scoreHistory": "[16/9] [20:50] +2 điểm (Cộng nhanh)",
       "badges": [],
-      "totalSessions": 26,
-      "totalFee": 2860000,
+      "totalSessions": 28,
+      "totalFee": 3080000,
       "attendanceDetails": [
+        {
+          "date": "21/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
+        {
+          "date": "16/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "9/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -3421,7 +3486,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1791779540205
+      "updatedAt": 1792587044976
     },
     {
       "id": "HS_1782304460068",
@@ -3438,9 +3503,19 @@
       "gifts": "",
       "scoreHistory": "[16/9] [20:49] +10 điểm (Cộng nhanh)",
       "badges": [],
-      "totalSessions": 30,
-      "totalFee": 3300000,
+      "totalSessions": 32,
+      "totalFee": 3520000,
       "attendanceDetails": [
+        {
+          "date": "21/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
+        {
+          "date": "16/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "14/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -3703,7 +3778,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1792072980183
+      "updatedAt": 1792587044960
     },
     {
       "id": "HS_1782305218231",
@@ -3720,9 +3795,14 @@
       "gifts": "",
       "scoreHistory": "[16/9] [20:50] +5 điểm (Cộng nhanh)",
       "badges": [],
-      "totalSessions": 17,
-      "totalFee": 1870000,
+      "totalSessions": 18,
+      "totalFee": 1980000,
       "attendanceDetails": [
+        {
+          "date": "21/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "14/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -3876,7 +3956,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1792072980192
+      "updatedAt": 1792587044981
     },
     {
       "id": "HS_1786536206009",
@@ -4393,9 +4473,14 @@
       "gifts": "",
       "scoreHistory": "",
       "badges": [],
-      "totalSessions": 23,
-      "totalFee": 2530000,
+      "totalSessions": 24,
+      "totalFee": 2640000,
       "attendanceDetails": [
+        {
+          "date": "16/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "9/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -4607,7 +4692,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1791779540207
+      "updatedAt": 1792587044982
     },
     {
       "id": "HS_1791550438762",
@@ -4624,9 +4709,14 @@
       "gifts": "",
       "scoreHistory": "",
       "badges": [],
-      "totalSessions": 2,
-      "totalFee": 220000,
+      "totalSessions": 3,
+      "totalFee": 330000,
       "attendanceDetails": [
+        {
+          "date": "16/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "14/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -4653,7 +4743,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1792072980194
+      "updatedAt": 1792587044989
     },
     {
       "id": "HS_1782304515936",
@@ -4796,9 +4886,14 @@
       "gifts": "",
       "scoreHistory": "[31/7] [21:01] +6 điểm (Cộng nhanh)",
       "badges": [],
-      "totalSessions": 14,
-      "totalFee": 1540000,
+      "totalSessions": 15,
+      "totalFee": 1650000,
       "attendanceDetails": [
+        {
+          "date": "16/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "9/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -4929,7 +5024,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1791779540203
+      "updatedAt": 1792587044975
     },
     {
       "id": "HS_1782298308565",
@@ -6020,9 +6115,14 @@
       "gifts": "",
       "scoreHistory": "",
       "badges": [],
-      "totalSessions": 13,
-      "totalFee": 1430000,
+      "totalSessions": 14,
+      "totalFee": 1540000,
       "attendanceDetails": [
+        {
+          "date": "16/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "9/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -6140,7 +6240,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1791779540205
+      "updatedAt": 1792587044977
     },
     {
       "id": "HS_1781867731303",
@@ -6373,9 +6473,14 @@
       "gifts": "",
       "scoreHistory": "",
       "badges": [],
-      "totalSessions": 14,
-      "totalFee": 1540000,
+      "totalSessions": 15,
+      "totalFee": 1650000,
       "attendanceDetails": [
+        {
+          "date": "16/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "9/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -6502,7 +6607,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1791779540209
+      "updatedAt": 1792587044985
     },
     {
       "id": "HS_1782298852340",
@@ -7329,9 +7434,19 @@
       "gifts": "",
       "scoreHistory": "[16/9] [20:49] +10 điểm (Cộng nhanh)",
       "badges": [],
-      "totalSessions": 39,
-      "totalFee": 4290000,
+      "totalSessions": 41,
+      "totalFee": 4510000,
       "attendanceDetails": [
+        {
+          "date": "21/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
+        {
+          "date": "16/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "14/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -7663,7 +7778,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1792072980180
+      "updatedAt": 1792587044950
     },
     {
       "id": "HS_1785501325906",
@@ -7680,9 +7795,19 @@
       "gifts": "",
       "scoreHistory": "[31/7] [21:02] +3 điểm (Cộng nhanh)\n[16/9] [20:49] +15 điểm (Cộng nhanh)",
       "badges": [],
-      "totalSessions": 15,
-      "totalFee": 1650000,
+      "totalSessions": 17,
+      "totalFee": 1870000,
       "attendanceDetails": [
+        {
+          "date": "21/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
+        {
+          "date": "16/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "14/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -7810,7 +7935,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1792072980194
+      "updatedAt": 1792587044988
     },
     {
       "id": "HS_1782305164823",
@@ -7827,9 +7952,19 @@
       "gifts": "",
       "scoreHistory": "[22/7] [21:09] +2 điểm (Cộng nhanh)\n[31/7] [21:02] +3 điểm (Cộng nhanh)\n[16/9] [20:48] +10 điểm (Cộng nhanh)",
       "badges": [],
-      "totalSessions": 28,
-      "totalFee": 3080000,
+      "totalSessions": 30,
+      "totalFee": 3300000,
       "attendanceDetails": [
+        {
+          "date": "21/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
+        {
+          "date": "16/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "14/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -8066,7 +8201,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1792072980192
+      "updatedAt": 1792587044979
     },
     {
       "id": "HS_1782304488271",
@@ -8083,9 +8218,14 @@
       "gifts": "",
       "scoreHistory": "[16/9] [20:50] +3 điểm (Cộng nhanh)",
       "badges": [],
-      "totalSessions": 14,
-      "totalFee": 1540000,
+      "totalSessions": 15,
+      "totalFee": 1650000,
       "attendanceDetails": [
+        {
+          "date": "21/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "14/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -8212,7 +8352,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1792072980184
+      "updatedAt": 1792587044961
     },
     {
       "id": "HS_1783688708216",
@@ -8337,9 +8477,14 @@
       "gifts": "",
       "scoreHistory": "[22/7] [21:06] +5 điểm (Cộng nhanh)",
       "badges": [],
-      "totalSessions": 17,
-      "totalFee": 1870000,
+      "totalSessions": 18,
+      "totalFee": 1980000,
       "attendanceDetails": [
+        {
+          "date": "21/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "14/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -8497,7 +8642,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1792072980172
+      "updatedAt": 1792587044936
     },
     {
       "id": "HS_1783687530733",
@@ -8514,9 +8659,14 @@
       "gifts": "",
       "scoreHistory": "[16/9] [20:50] +5 điểm (Cộng nhanh)",
       "badges": [],
-      "totalSessions": 22,
-      "totalFee": 2420000,
+      "totalSessions": 23,
+      "totalFee": 2530000,
       "attendanceDetails": [
+        {
+          "date": "21/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "14/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -8711,7 +8861,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1792072980193
+      "updatedAt": 1792587044984
     },
     {
       "id": "HS_1782222825121",
@@ -8868,9 +9018,14 @@
       "gifts": "",
       "scoreHistory": "[22/7] [21:07] +2 điểm (Cộng nhanh)",
       "badges": [],
-      "totalSessions": 28,
-      "totalFee": 3080000,
+      "totalSessions": 29,
+      "totalFee": 3190000,
       "attendanceDetails": [
+        {
+          "date": "16/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "9/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -9123,7 +9278,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1791779540198
+      "updatedAt": 1792587044955
     },
     {
       "id": "HS_1785932167097",
@@ -9497,9 +9652,14 @@
       "gifts": "",
       "scoreHistory": "[31/7] [21:02] +4 điểm (Cộng nhanh)",
       "badges": [],
-      "totalSessions": 24,
-      "totalFee": 2640000,
+      "totalSessions": 25,
+      "totalFee": 2750000,
       "attendanceDetails": [
+        {
+          "date": "16/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "9/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -9704,7 +9864,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1791779540194
+      "updatedAt": 1792587044946
     },
     {
       "id": "HS_1782304423441",
@@ -9721,9 +9881,14 @@
       "gifts": "",
       "scoreHistory": "[22/7] [21:06] +3 điểm (Cộng nhanh)\n[16/9] [20:49] +6 điểm (Cộng nhanh)",
       "badges": [],
-      "totalSessions": 16,
-      "totalFee": 1760000,
+      "totalSessions": 17,
+      "totalFee": 1870000,
       "attendanceDetails": [
+        {
+          "date": "21/10/2026",
+          "className": "Đội tuyển (19h30T46)",
+          "classId": "CLASS_1781799335791"
+        },
         {
           "date": "14/10/2026",
           "className": "Đội tuyển (19h30T46)",
@@ -9872,7 +10037,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1792072980172
+      "updatedAt": 1792587044938
     },
     {
       "id": "HS_1782298136585",

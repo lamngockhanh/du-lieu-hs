@@ -1,6 +1,6 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-10-21T12:50:46.769Z",
+  "generatedAt": "2026-10-21T14:09:17.171Z",
   "generatedBy": "DEVICE_1789735876656_t3qh3lj8",
   "studentCount": 75,
   "pointSeasons": [],
@@ -836,13 +836,13 @@
       "school": "THCS Lương Yên",
       "phoneDad": "",
       "phoneMom": "",
-      "score": 19,
+      "score": 29,
       "lichessId": "",
       "notes": "",
       "goodDeeds": "",
       "badDeeds": "- [26/6/2026] Lười làm bài tập\n- [26/6/2026] Mất trật tự\n- [10/7/2026] Quá ồn ào",
       "gifts": "",
-      "scoreHistory": "[22/7] [21:08] +4 điểm (Cộng nhanh)\n[16/9] [20:49] +15 điểm (Cộng nhanh)",
+      "scoreHistory": "[22/7] [21:08] +4 điểm (Cộng nhanh)\n[16/9] [20:49] +15 điểm (Cộng nhanh)\n[21/10] [21:07] +10 điểm (Cộng nhanh)",
       "badges": [],
       "totalSessions": 37,
       "totalFee": 4070000,
@@ -1145,8 +1145,8 @@
       "seasons": {
         "__KTTL_ALL_POINT_SEASONS__": {
           "seasonName": "__KTTL_ALL_POINT_SEASONS__",
-          "score": 19,
-          "scoreHistory": "[22/7] [21:08] +4 điểm (Cộng nhanh)\n[16/9] [20:49] +15 điểm (Cộng nhanh)",
+          "score": 29,
+          "scoreHistory": "[22/7] [21:08] +4 điểm (Cộng nhanh)\n[16/9] [20:49] +15 điểm (Cộng nhanh)\n[21/10] [21:07] +10 điểm (Cộng nhanh)",
           "badges": [],
           "goodDeeds": "",
           "badDeeds": "",
@@ -1156,7 +1156,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1792587044964
+      "updatedAt": 1792591755924
     },
     {
       "id": "HS_1782305276800",
@@ -7426,16 +7426,16 @@
       "school": "THCS Ngô Gia Tự",
       "phoneDad": "",
       "phoneMom": "",
-      "score": 10,
+      "score": 23,
       "lichessId": "",
       "notes": "",
       "goodDeeds": "- [26/6/2026] Chơi cờ nghiêm túc",
       "badDeeds": "- [26/6/2026] Lười làm bài tập",
       "gifts": "",
-      "scoreHistory": "[16/9] [20:49] +10 điểm (Cộng nhanh)",
+      "scoreHistory": "[16/9] [20:49] +10 điểm (Cộng nhanh)\n[21/10] [21:07] +10 điểm (Cộng nhanh)\n[21/10] [21:07] +3 điểm (Cộng nhanh)",
       "badges": [],
-      "totalSessions": 41,
-      "totalFee": 4510000,
+      "totalSessions": 36,
+      "totalFee": 3960000,
       "attendanceDetails": [
         {
           "date": "21/10/2026",
@@ -7767,8 +7767,8 @@
       "seasons": {
         "__KTTL_ALL_POINT_SEASONS__": {
           "seasonName": "__KTTL_ALL_POINT_SEASONS__",
-          "score": 10,
-          "scoreHistory": "[16/9] [20:49] +10 điểm (Cộng nhanh)",
+          "score": 23,
+          "scoreHistory": "[16/9] [20:49] +10 điểm (Cộng nhanh)\n[21/10] [21:07] +10 điểm (Cộng nhanh)\n[21/10] [21:07] +3 điểm (Cộng nhanh)",
           "badges": [],
           "goodDeeds": "",
           "badDeeds": "",
@@ -7778,7 +7778,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1792587044950
+      "updatedAt": 1792591755921
     },
     {
       "id": "HS_1785501325906",
@@ -7787,13 +7787,13 @@
       "school": "TH Vinschool",
       "phoneDad": "",
       "phoneMom": "",
-      "score": 18,
+      "score": 33,
       "lichessId": "",
       "notes": "",
       "goodDeeds": "",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[31/7] [21:02] +3 điểm (Cộng nhanh)\n[16/9] [20:49] +15 điểm (Cộng nhanh)",
+      "scoreHistory": "[31/7] [21:02] +3 điểm (Cộng nhanh)\n[16/9] [20:49] +15 điểm (Cộng nhanh)\n[21/10] [21:06] +10 điểm (Cộng nhanh)\n[21/10] [21:07] +5 điểm (Cộng nhanh)",
       "badges": [],
       "totalSessions": 17,
       "totalFee": 1870000,
@@ -7924,8 +7924,8 @@
       "seasons": {
         "__KTTL_ALL_POINT_SEASONS__": {
           "seasonName": "__KTTL_ALL_POINT_SEASONS__",
-          "score": 18,
-          "scoreHistory": "[31/7] [21:02] +3 điểm (Cộng nhanh)\n[16/9] [20:49] +15 điểm (Cộng nhanh)",
+          "score": 33,
+          "scoreHistory": "[31/7] [21:02] +3 điểm (Cộng nhanh)\n[16/9] [20:49] +15 điểm (Cộng nhanh)\n[21/10] [21:06] +10 điểm (Cộng nhanh)\n[21/10] [21:07] +5 điểm (Cộng nhanh)",
           "badges": [],
           "goodDeeds": "",
           "badDeeds": "",
@@ -7935,7 +7935,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1792587044988
+      "updatedAt": 1792591755929
     },
     {
       "id": "HS_1782305164823",
@@ -7944,13 +7944,13 @@
       "school": "THCS Tân Mai",
       "phoneDad": "",
       "phoneMom": "",
-      "score": 15,
+      "score": 30,
       "lichessId": "",
       "notes": "",
       "goodDeeds": "",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[22/7] [21:09] +2 điểm (Cộng nhanh)\n[31/7] [21:02] +3 điểm (Cộng nhanh)\n[16/9] [20:48] +10 điểm (Cộng nhanh)",
+      "scoreHistory": "[22/7] [21:09] +2 điểm (Cộng nhanh)\n[31/7] [21:02] +3 điểm (Cộng nhanh)\n[16/9] [20:48] +10 điểm (Cộng nhanh)\n[21/10] [21:07] +15 điểm (Cộng nhanh)",
       "badges": [],
       "totalSessions": 30,
       "totalFee": 3300000,
@@ -8190,8 +8190,8 @@
       "seasons": {
         "__KTTL_ALL_POINT_SEASONS__": {
           "seasonName": "__KTTL_ALL_POINT_SEASONS__",
-          "score": 15,
-          "scoreHistory": "[22/7] [21:09] +2 điểm (Cộng nhanh)\n[31/7] [21:02] +3 điểm (Cộng nhanh)\n[16/9] [20:48] +10 điểm (Cộng nhanh)",
+          "score": 30,
+          "scoreHistory": "[22/7] [21:09] +2 điểm (Cộng nhanh)\n[31/7] [21:02] +3 điểm (Cộng nhanh)\n[16/9] [20:48] +10 điểm (Cộng nhanh)\n[21/10] [21:07] +15 điểm (Cộng nhanh)",
           "badges": [],
           "goodDeeds": "",
           "badDeeds": "",
@@ -8201,7 +8201,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1792587044979
+      "updatedAt": 1792591755927
     },
     {
       "id": "HS_1782304488271",
@@ -8469,13 +8469,13 @@
       "school": "TH Tô Hoàng",
       "phoneDad": "",
       "phoneMom": "",
-      "score": 5,
+      "score": 14,
       "lichessId": "",
       "notes": "",
       "goodDeeds": "- [26/6/2026] Ngoan ngoãn",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[22/7] [21:06] +5 điểm (Cộng nhanh)",
+      "scoreHistory": "[22/7] [21:06] +5 điểm (Cộng nhanh)\n[21/10] [21:07] +6 điểm (Cộng nhanh)\n[21/10] [21:07] +3 điểm (Cộng nhanh)",
       "badges": [],
       "totalSessions": 18,
       "totalFee": 1980000,
@@ -8631,8 +8631,8 @@
       "seasons": {
         "__KTTL_ALL_POINT_SEASONS__": {
           "seasonName": "__KTTL_ALL_POINT_SEASONS__",
-          "score": 5,
-          "scoreHistory": "[22/7] [21:06] +5 điểm (Cộng nhanh)",
+          "score": 14,
+          "scoreHistory": "[22/7] [21:06] +5 điểm (Cộng nhanh)\n[21/10] [21:07] +6 điểm (Cộng nhanh)\n[21/10] [21:07] +3 điểm (Cộng nhanh)",
           "badges": [],
           "goodDeeds": "",
           "badDeeds": "",
@@ -8642,7 +8642,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1792587044936
+      "updatedAt": 1792591755915
     },
     {
       "id": "HS_1783687530733",
@@ -9873,13 +9873,13 @@
       "school": "TH Tràng An",
       "phoneDad": "",
       "phoneMom": "",
-      "score": 9,
+      "score": 18,
       "lichessId": "",
       "notes": "",
       "goodDeeds": "- [26/6/2026] Ngoan ngoãn\n- [26/6/2026] Chăm chỉ làm bài tập\n- [22/7/2026] Ngoan ngoãn\n- [22/7/2026] Chăm chỉ làm bài tập",
       "badDeeds": "",
       "gifts": "",
-      "scoreHistory": "[22/7] [21:06] +3 điểm (Cộng nhanh)\n[16/9] [20:49] +6 điểm (Cộng nhanh)",
+      "scoreHistory": "[22/7] [21:06] +3 điểm (Cộng nhanh)\n[16/9] [20:49] +6 điểm (Cộng nhanh)\n[21/10] [21:07] +6 điểm (Cộng nhanh)\n[21/10] [21:08] +3 điểm (Cộng nhanh)",
       "badges": [],
       "totalSessions": 17,
       "totalFee": 1870000,
@@ -10026,8 +10026,8 @@
       "seasons": {
         "__KTTL_ALL_POINT_SEASONS__": {
           "seasonName": "__KTTL_ALL_POINT_SEASONS__",
-          "score": 9,
-          "scoreHistory": "[22/7] [21:06] +3 điểm (Cộng nhanh)\n[16/9] [20:49] +6 điểm (Cộng nhanh)",
+          "score": 18,
+          "scoreHistory": "[22/7] [21:06] +3 điểm (Cộng nhanh)\n[16/9] [20:49] +6 điểm (Cộng nhanh)\n[21/10] [21:07] +6 điểm (Cộng nhanh)\n[21/10] [21:08] +3 điểm (Cộng nhanh)",
           "badges": [],
           "goodDeeds": "",
           "badDeeds": "",
@@ -10037,7 +10037,7 @@
       },
       "updatedBy": "DEVICE_1789735876656_t3qh3lj8",
       "deleted": false,
-      "updatedAt": 1792587044938
+      "updatedAt": 1792591755916
     },
     {
       "id": "HS_1782298136585",
